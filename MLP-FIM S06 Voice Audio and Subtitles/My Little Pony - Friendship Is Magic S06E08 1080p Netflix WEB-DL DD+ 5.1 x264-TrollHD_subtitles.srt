@@ -1,0 +1,2760 @@
+1
+00:00:01,166 --> 00:00:08,250
+♪♪
+
+2
+00:00:12,208 --> 00:00:14,208
+<i>♪ Ponies' voices</i>
+
+3
+00:00:12,208 --> 00:00:14,208
+<i>fill the night! ♪</i>
+
+4
+00:00:14,250 --> 00:00:16,208
+<i>♪ Hearth's Warming Eve</i>
+
+5
+00:00:14,250 --> 00:00:16,208
+<i>is here once again ♪</i>
+
+6
+00:00:16,250 --> 00:00:17,583
+<i>♪ Happy hearts so</i>
+
+7
+00:00:16,250 --> 00:00:17,583
+<i>full and bright ♪</i>
+
+8
+00:00:17,625 --> 00:00:20,166
+<i>♪ Hearth's Warming Eve</i>
+
+9
+00:00:17,625 --> 00:00:20,166
+<i>is here once again ♪</i>
+
+10
+00:00:20,208 --> 00:00:22,166
+<i>♪ Oh what a sight! ♪</i>
+
+11
+00:00:22,208 --> 00:00:24,125
+<i>♪ Look at the light ♪</i>
+
+12
+00:00:24,166 --> 00:00:26,208
+<i>♪ All for tonight ♪</i>
+
+13
+00:00:26,250 --> 00:00:29,000
+<i>♪ Hearth's Warming Eve</i>
+
+14
+00:00:26,250 --> 00:00:29,000
+<i>is here once again ♪</i>
+
+15
+00:00:29,041 --> 00:00:30,250
+<i>♪♪</i>
+
+16
+00:00:30,291 --> 00:00:31,625
+<i>♪ Clouds arranged so</i>
+
+17
+00:00:30,291 --> 00:00:31,625
+<i>they're just so ♪</i>
+
+18
+00:00:31,667 --> 00:00:34,458
+<i>♪ Hearth's Warming Eve</i>
+
+19
+00:00:31,667 --> 00:00:34,458
+<i>is here once again ♪</i>
+
+20
+00:00:34,500 --> 00:00:36,583
+<i>♪ Gonna make some</i>
+
+21
+00:00:34,500 --> 00:00:36,583
+<i>awesome snow ♪</i>
+
+22
+00:00:36,625 --> 00:00:38,458
+<i>♪ Hearth's Warming Eve</i>
+
+23
+00:00:36,625 --> 00:00:38,458
+<i>is here once again ♪</i>
+
+24
+00:00:38,500 --> 00:00:40,458
+<i>♪ The chill wind blows ♪</i>
+
+25
+00:00:40,500 --> 00:00:42,375
+<i>♪ Making a show ♪</i>
+
+26
+00:00:42,417 --> 00:00:44,417
+<i>♪ Snowflakes aglow ♪</i>
+
+27
+00:00:44,458 --> 00:00:47,000
+<i>♪ Hearth's Warming Eve</i>
+
+28
+00:00:44,458 --> 00:00:47,000
+<i>is here once again ♪</i>
+
+29
+00:00:47,041 --> 00:00:50,583
+<i>♪♪</i>
+
+30
+00:00:50,625 --> 00:00:52,792
+<i>♪ A day that's filled</i>
+
+31
+00:00:50,625 --> 00:00:52,792
+<i>with songs to sing ♪</i>
+
+32
+00:00:52,834 --> 00:00:54,792
+<i>♪ Ding Dong Ding Dong Ding ♪</i>
+
+33
+00:00:54,834 --> 00:00:56,792
+<i>♪ Cakes and pastries</i>
+
+34
+00:00:54,834 --> 00:00:56,792
+<i>we shall bring ♪</i>
+
+35
+00:00:56,834 --> 00:00:58,834
+<i>♪ Ding Dong Ding Dong Ding ♪</i>
+
+36
+00:00:58,875 --> 00:01:00,667
+<i>♪ We're so busy</i>
+
+37
+00:00:58,875 --> 00:01:00,667
+<i>making merry ♪</i>
+
+38
+00:01:00,709 --> 00:01:02,834
+<i>♪ Windigos should</i>
+
+39
+00:01:00,709 --> 00:01:02,834
+<i>all be wary ♪</i>
+
+40
+00:01:02,875 --> 00:01:05,000
+<i>♪ As our mighty</i>
+
+41
+00:01:02,875 --> 00:01:05,000
+<i>voices carry ♪</i>
+
+42
+00:01:05,041 --> 00:01:07,667
+<i>♪ Hearth's Warming Eve</i>
+
+43
+00:01:05,041 --> 00:01:07,667
+<i>is here once again! ♪</i>
+
+44
+00:01:07,709 --> 00:01:09,166
+<i>♪♪</i>
+
+45
+00:01:09,208 --> 00:01:11,083
+<i>♪ Decorations we shall make ♪</i>
+
+46
+00:01:11,125 --> 00:01:13,041
+<i>♪ Hearth's Warming Eve</i>
+
+47
+00:01:11,125 --> 00:01:13,041
+<i>is here once again ♪</i>
+
+48
+00:01:13,083 --> 00:01:15,208
+<i>♪ Perfection you</i>
+
+49
+00:01:13,083 --> 00:01:15,208
+<i>just cannot fake ♪</i>
+
+50
+00:01:15,250 --> 00:01:17,041
+<i>♪ Hearth's Warming Eve</i>
+
+51
+00:01:15,250 --> 00:01:17,041
+<i>is here once again ♪</i>
+
+52
+00:01:17,083 --> 00:01:19,208
+<i>♪ Not one mistake ♪</i>
+
+53
+00:01:19,250 --> 00:01:20,208
+<i>♪ Don't let that break! ♪</i>
+
+54
+00:01:20,250 --> 00:01:21,000
+<i>♪♪ [smash]</i>
+
+55
+00:01:21,041 --> 00:01:22,375
+<i>♪ Oh, Goodness Sake! ♪</i>
+
+56
+00:01:22,417 --> 00:01:26,041
+<i>♪ Hearth's Warming Eve</i>
+
+57
+00:01:22,417 --> 00:01:26,041
+<i>is here once again ♪</i>
+
+58
+00:01:26,083 --> 00:01:29,208
+<i>♪ Happy, Happy,</i>
+
+59
+00:01:26,083 --> 00:01:29,208
+<i>Hearth's Warming ♪</i>
+
+60
+00:01:29,250 --> 00:01:33,417
+<i>♪ Hearth's Warming, Happy,</i>
+
+61
+00:01:29,250 --> 00:01:33,417
+<i>Happy, Hearth's Warming Eve ♪</i>
+
+62
+00:01:33,458 --> 00:01:35,917
+<i>♪ Hearth's Warming Eve</i>
+
+63
+00:01:33,458 --> 00:01:35,917
+<i>is here once again ♪</i>
+
+64
+00:01:39,291 --> 00:01:42,166
+Hey, Starlight! Ready
+
+65
+00:01:39,291 --> 00:01:42,166
+to celebrate your first
+
+66
+00:01:42,208 --> 00:01:44,583
+Hearth's Warming Eve
+
+67
+00:01:42,208 --> 00:01:44,583
+here in Ponyville?
+
+68
+00:01:44,625 --> 00:01:47,166
+I was thinking I
+
+69
+00:01:44,625 --> 00:01:47,166
+might just skip it
+
+70
+00:01:47,208 --> 00:01:48,166
+[gasp]
+
+71
+00:01:51,458 --> 00:01:54,834
+<i>♪ My little pony,</i>
+
+72
+00:01:51,458 --> 00:01:54,834
+<i>my little pony ♪</i>
+
+73
+00:01:54,875 --> 00:01:56,583
+<i>♪ Aaaahhh ♪</i>
+
+74
+00:01:56,625 --> 00:01:58,583
+<i>♪ My little Pony ♪</i>
+
+75
+00:01:58,625 --> 00:02:01,125
+<i>♪ I used to wonder what</i>
+
+76
+00:01:58,625 --> 00:02:01,125
+<i>friendship could be ♪</i>
+
+77
+00:02:01,166 --> 00:02:02,458
+<i>♪ My Little Pony ♪</i>
+
+78
+00:02:02,500 --> 00:02:05,458
+<i>♪ Until you all shared</i>
+
+79
+00:02:02,500 --> 00:02:05,458
+<i>its magic with me ♪</i>
+
+80
+00:02:05,500 --> 00:02:07,542
+<i>♪ Big adventure!</i>
+
+81
+00:02:05,500 --> 00:02:07,542
+<i>Tons of fun ♪</i>
+
+82
+00:02:07,583 --> 00:02:09,750
+<i>♪ A beautiful heart!</i>
+
+83
+00:02:07,583 --> 00:02:09,750
+<i>Faithful and strong! ♪</i>
+
+84
+00:02:09,792 --> 00:02:11,875
+<i>♪ Sharing kindness</i>
+
+85
+00:02:09,792 --> 00:02:11,875
+<i>it's an easy feat ♪</i>
+
+86
+00:02:11,917 --> 00:02:14,208
+<i>♪ And magic makes it</i>
+
+87
+00:02:11,917 --> 00:02:14,208
+<i>all complete! ♪</i>
+
+88
+00:02:14,250 --> 00:02:16,041
+<i>♪ To have my little pony ♪</i>
+
+89
+00:02:16,083 --> 00:02:19,667
+<i>♪ Do you know you're all</i>
+
+90
+00:02:16,083 --> 00:02:19,667
+<i>my very best friends? ♪</i>
+
+91
+00:02:19,709 --> 00:02:22,125
+♪♪
+
+92
+00:02:27,542 --> 00:02:29,583
+SKIP HEARTH'S WARMING EVE?
+
+93
+00:02:29,625 --> 00:02:32,959
+I just find it all
+
+94
+00:02:29,625 --> 00:02:32,959
+a little silly.
+
+95
+00:02:33,000 --> 00:02:37,000
+It's mostly a day dedicated to
+
+96
+00:02:33,000 --> 00:02:37,000
+presents and candy, isn't it?
+
+97
+00:02:37,041 --> 00:02:39,208
+And why would you deny
+
+98
+00:02:37,041 --> 00:02:39,208
+yourself presents and candy?
+
+99
+00:02:39,250 --> 00:02:40,875
+That's crazy talk!
+
+100
+00:02:40,917 --> 00:02:43,750
+I THINK what Spike
+
+101
+00:02:40,917 --> 00:02:43,750
+means to say is,
+
+102
+00:02:43,792 --> 00:02:46,875
+Hearth's Warming is about
+
+103
+00:02:43,792 --> 00:02:46,875
+more than presents and candy.
+
+104
+00:02:46,917 --> 00:02:49,041
+It's a time to spend
+
+105
+00:02:46,917 --> 00:02:49,041
+with friends and family
+
+106
+00:02:49,083 --> 00:02:51,083
+when we celebrate a
+
+107
+00:02:49,083 --> 00:02:51,083
+very important day
+
+108
+00:02:51,125 --> 00:02:52,667
+in Equestria's history.
+
+109
+00:02:52,709 --> 00:02:55,250
+I think to most ponies,
+
+110
+00:02:52,709 --> 00:02:55,250
+it's just an excuse
+
+111
+00:02:55,291 --> 00:02:57,250
+for silly songs and fun,
+
+112
+00:02:57,291 --> 00:02:59,667
+not a day to remember
+
+113
+00:02:57,291 --> 00:02:59,667
+some old story.
+
+114
+00:03:01,792 --> 00:03:03,667
+Maybe you just haven't
+
+115
+00:03:01,792 --> 00:03:03,667
+heard the right
+
+116
+00:03:03,709 --> 00:03:05,625
+Hearth's Warming
+
+117
+00:03:03,709 --> 00:03:05,625
+Eve story yet.
+
+118
+00:03:05,667 --> 00:03:08,041
+Earth ponies, pegasi
+
+119
+00:03:05,667 --> 00:03:08,041
+and unicorns sing songs
+
+120
+00:03:08,083 --> 00:03:10,250
+around a hearth to fight
+
+121
+00:03:08,083 --> 00:03:10,250
+back an eternal winter
+
+122
+00:03:10,291 --> 00:03:12,250
+caused by the
+
+123
+00:03:10,291 --> 00:03:12,250
+mythical Windigos?
+
+124
+00:03:12,291 --> 00:03:15,041
+[laugh] Every foal and
+
+125
+00:03:12,291 --> 00:03:15,041
+filly knows that story.
+
+126
+00:03:15,083 --> 00:03:18,250
+Not THAT one. My
+
+127
+00:03:15,083 --> 00:03:18,250
+favorite holiday story.
+
+128
+00:03:18,291 --> 00:03:20,041
+A Hearth's Warming Tale.
+
+129
+00:03:20,083 --> 00:03:21,375
+Oooooo! I love that one!
+
+130
+00:03:24,417 --> 00:03:28,417
+This is the story of a powerful
+
+131
+00:03:24,417 --> 00:03:28,417
+unicorn named Snowfall Frost
+
+132
+00:03:28,458 --> 00:03:30,625
+who hated Hearth's
+
+133
+00:03:28,458 --> 00:03:30,625
+Warming Eve!
+
+134
+00:03:30,667 --> 00:03:34,041
+It all began many moons
+
+135
+00:03:30,667 --> 00:03:34,041
+ago in Canterlot...
+
+136
+00:03:34,083 --> 00:03:38,041
+Every home in Canterlot was
+
+137
+00:03:34,083 --> 00:03:38,041
+filled with Holiday spirit.
+
+138
+00:03:38,083 --> 00:03:41,083
+Every home except one.
+
+139
+00:03:41,125 --> 00:03:43,375
+It was said of Snowfall that
+
+140
+00:03:41,125 --> 00:03:43,375
+she was almost as studied
+
+141
+00:03:43,417 --> 00:03:45,625
+as Starswirl the Bearded.
+
+142
+00:03:45,667 --> 00:03:49,208
+Almost, since everypony knows
+
+143
+00:03:45,667 --> 00:03:49,208
+that Starswirl was an expert
+
+144
+00:03:49,250 --> 00:03:51,250
+at everything from
+
+145
+00:03:49,250 --> 00:03:51,250
+transfiguration,
+
+146
+00:03:51,291 --> 00:03:53,875
+Dimensional Calibration,
+
+147
+00:03:51,291 --> 00:03:53,875
+Teleportation--
+
+148
+00:03:53,917 --> 00:03:56,208
+Spike: We get it.
+
+149
+00:03:53,917 --> 00:03:56,208
+Starswirl's awesome.
+
+150
+00:03:56,250 --> 00:04:00,542
+Right. The point is, Snowfall
+
+151
+00:03:56,250 --> 00:04:00,542
+was also a powerful unicorn.
+
+152
+00:04:00,583 --> 00:04:02,458
+She wanted to be perfect.
+
+153
+00:04:02,500 --> 00:04:05,542
+Anything that got in the way
+
+154
+00:04:02,500 --> 00:04:05,542
+of that was a waste of time.
+
+155
+00:04:05,583 --> 00:04:06,417
+Ugh!
+
+156
+00:04:06,458 --> 00:04:09,667
+[clanging bells]
+
+157
+00:04:09,709 --> 00:04:13,041
+Well, that batch is
+
+158
+00:04:09,709 --> 00:04:13,041
+ruined. SNOWDASH!
+
+159
+00:04:13,083 --> 00:04:16,083
+Snowdash was Snowfall's
+
+160
+00:04:13,083 --> 00:04:16,083
+loyal assistant.
+
+161
+00:04:16,125 --> 00:04:16,834
+What do you need?
+
+162
+00:04:16,875 --> 00:04:18,250
+Get this mess cleaned up.
+
+163
+00:04:18,291 --> 00:04:20,959
+Those foolish ponies were
+
+164
+00:04:18,291 --> 00:04:20,959
+ringing those blasted bells
+
+165
+00:04:21,000 --> 00:04:24,083
+outside the window and
+
+166
+00:04:21,000 --> 00:04:24,083
+I lost my concentration.
+
+167
+00:04:24,125 --> 00:04:25,625
+Whoa. Ponies
+
+168
+00:04:24,125 --> 00:04:25,625
+actually enjoying
+
+169
+00:04:25,667 --> 00:04:29,166
+Hearth's Warming Eve. Where
+
+170
+00:04:25,667 --> 00:04:29,166
+did they get that crazy idea?
+
+171
+00:04:29,208 --> 00:04:31,083
+Today is nothing
+
+172
+00:04:29,208 --> 00:04:31,083
+to celebrate.
+
+173
+00:04:31,125 --> 00:04:33,208
+Hearth's Warming
+
+174
+00:04:31,125 --> 00:04:33,208
+Eve is a menace,
+
+175
+00:04:33,250 --> 00:04:35,458
+a dangerous day for
+
+176
+00:04:33,250 --> 00:04:35,458
+all of Equestria.
+
+177
+00:04:35,500 --> 00:04:38,083
+Dangerous? It's awesome!
+
+178
+00:04:38,125 --> 00:04:40,583
+It's the day we remember
+
+179
+00:04:38,125 --> 00:04:40,583
+how unicorns, pegasi,
+
+180
+00:04:40,625 --> 00:04:42,875
+and earth ponies came
+
+181
+00:04:40,625 --> 00:04:42,875
+together in friendship
+
+182
+00:04:42,917 --> 00:04:44,667
+to defeat the Windigos!
+
+183
+00:04:44,709 --> 00:04:47,083
+That silly legend
+
+184
+00:04:44,709 --> 00:04:47,083
+is the problem!
+
+185
+00:04:47,125 --> 00:04:50,250
+Telling everypony that
+
+186
+00:04:47,125 --> 00:04:50,250
+singing songs and being nice
+
+187
+00:04:50,291 --> 00:04:54,000
+will solve anything? I've
+
+188
+00:04:50,291 --> 00:04:54,000
+spent years studying magic
+
+189
+00:04:54,041 --> 00:04:56,208
+and that's not how it works.
+
+190
+00:04:56,250 --> 00:04:58,667
+I think you might be
+
+191
+00:04:56,250 --> 00:04:58,667
+missing the point.
+
+192
+00:04:58,709 --> 00:05:03,166
+Work hard, learn and use your
+
+193
+00:04:58,709 --> 00:05:03,166
+skills to better Equestria.
+
+194
+00:05:03,208 --> 00:05:06,166
+THAT'S a worthy
+
+195
+00:05:03,208 --> 00:05:06,166
+goal for anypony.
+
+196
+00:05:06,208 --> 00:05:09,166
+But by all means, if you
+
+197
+00:05:06,208 --> 00:05:09,166
+want to go home early,
+
+198
+00:05:09,208 --> 00:05:11,834
+ignore all of the work you
+
+199
+00:05:09,208 --> 00:05:11,834
+have and spend the rest --
+
+200
+00:05:11,875 --> 00:05:12,792
+SWEET!
+
+201
+00:05:13,834 --> 00:05:15,166
+Ugh.
+
+202
+00:05:15,208 --> 00:05:17,458
+[cheers]
+
+203
+00:05:17,500 --> 00:05:20,041
+I HATE Hearth's Warming Eve!
+
+204
+00:05:20,083 --> 00:05:22,208
+All of Equestria
+
+205
+00:05:20,083 --> 00:05:22,208
+would be better off
+
+206
+00:05:22,250 --> 00:05:25,375
+if we just skipped
+
+207
+00:05:22,250 --> 00:05:25,375
+the day all together.
+
+208
+00:05:25,417 --> 00:05:27,458
+<i>♪ Happy Hearth's Warming ♪</i>
+
+209
+00:05:27,500 --> 00:05:30,083
+<i>♪ They say in the street ♪</i>
+
+210
+00:05:30,125 --> 00:05:32,083
+<i>♪ Happy Hearth's Warming ♪</i>
+
+211
+00:05:32,125 --> 00:05:34,041
+<i>♪ They think they're so sweet ♪</i>
+
+212
+00:05:34,083 --> 00:05:35,458
+<i>♪ Words said so often ♪</i>
+
+213
+00:05:35,500 --> 00:05:37,667
+<i>♪ That they lack any meaning ♪</i>
+
+214
+00:05:37,709 --> 00:05:38,792
+<i>♪ Why should I join in? ♪</i>
+
+215
+00:05:38,834 --> 00:05:41,583
+<i>♪ When I could be</i>
+
+216
+00:05:38,834 --> 00:05:41,583
+<i>intervening! ♪</i>
+
+217
+00:05:41,625 --> 00:05:45,041
+<i>♪ Everypony loves</i>
+
+218
+00:05:41,625 --> 00:05:45,041
+<i>this cursed holiday ♪</i>
+
+219
+00:05:45,083 --> 00:05:47,166
+<i>♪ but would they be better off ♪</i>
+
+220
+00:05:47,208 --> 00:05:49,792
+<i>♪ with it out of the way? ♪</i>
+
+221
+00:05:52,000 --> 00:05:57,041
+<i>♪ Well, OK ♪</i>
+
+222
+00:05:57,083 --> 00:06:00,125
+<i>♪ Say goodbye to the holiday ♪</i>
+
+223
+00:06:00,166 --> 00:06:04,000
+<i>♪ With my magic</i>
+
+224
+00:06:00,166 --> 00:06:04,000
+<i>I'll erase it ♪</i>
+
+225
+00:06:04,041 --> 00:06:06,959
+<i>♪ The greatest gift</i>
+
+226
+00:06:04,041 --> 00:06:06,959
+<i>that I give today ♪</i>
+
+227
+00:06:07,000 --> 00:06:10,625
+<i>♪ And everypony will</i>
+
+228
+00:06:07,000 --> 00:06:10,625
+<i>have to face it ♪</i>
+
+229
+00:06:10,667 --> 00:06:17,542
+<i>♪ No more little games</i>
+
+230
+00:06:10,667 --> 00:06:17,542
+<i>for you to play ♪</i>
+
+231
+00:06:18,709 --> 00:06:22,959
+<i>♪ After you say goodbye</i>
+
+232
+00:06:18,709 --> 00:06:22,959
+<i>to the holiday ♪</i>
+
+233
+00:06:23,000 --> 00:06:26,041
+<i>♪♪</i>
+
+234
+00:06:26,083 --> 00:06:28,208
+<i>♪ Goodbye Hearth's Warming ♪</i>
+
+235
+00:06:28,250 --> 00:06:29,583
+<i>♪ You had a good run ♪</i>
+
+236
+00:06:29,625 --> 00:06:31,333
+<i>♪ Goodbye Hearth's Warming ♪</i>
+
+237
+00:06:31,375 --> 00:06:33,166
+<i>♪ It's over, you're done ♪</i>
+
+238
+00:06:33,208 --> 00:06:35,083
+<i>♪ Finally set free from ♪</i>
+
+239
+00:06:35,125 --> 00:06:36,875
+<i>♪ your forced celebrations ♪</i>
+
+240
+00:06:36,917 --> 00:06:37,875
+<i>♪ no need to reply ♪</i>
+
+241
+00:06:37,917 --> 00:06:40,208
+<i>♪ to your trite invitations ♪</i>
+
+242
+00:06:40,250 --> 00:06:43,583
+<i>♪ Calendars shorter</i>
+
+243
+00:06:40,250 --> 00:06:43,583
+<i>by a single day ♪</i>
+
+244
+00:06:43,625 --> 00:06:47,083
+<i>♪ Is my magic up to the test? ♪</i>
+
+245
+00:06:47,125 --> 00:06:51,875
+<i>♪ Time to see, I can't delay ♪</i>
+
+246
+00:06:51,917 --> 00:06:54,417
+<i>♪♪</i>
+
+247
+00:06:54,458 --> 00:06:57,417
+<i>♪ Say goodbye to the holiday ♪</i>
+
+248
+00:06:57,458 --> 00:07:01,041
+<i>♪ Prepare the spell,</i>
+
+249
+00:06:57,458 --> 00:07:01,041
+<i>no hesitation ♪</i>
+
+250
+00:07:01,083 --> 00:07:04,375
+<i>♪ All memories shall fade away ♪</i>
+
+251
+00:07:04,417 --> 00:07:08,208
+<i>♪ See Equestria's</i>
+
+252
+00:07:04,417 --> 00:07:08,208
+<i>new transformation ♪</i>
+
+253
+00:07:08,250 --> 00:07:15,125
+<i>♪ No more shall any ponies say ♪</i>
+
+254
+00:07:16,125 --> 00:07:17,667
+<i>♪ Happy Hearth's Warming ♪</i>
+
+255
+00:07:17,709 --> 00:07:19,959
+[cackles]
+
+256
+00:07:20,000 --> 00:07:24,875
+<i>♪ after today! ♪</i>
+
+257
+00:07:24,917 --> 00:07:27,834
+<i>♪♪</i>
+
+258
+00:07:27,875 --> 00:07:33,750
+<i>♪ After today ♪</i>
+
+259
+00:07:37,750 --> 00:07:41,667
+Once the spell is cast, all of
+
+260
+00:07:37,750 --> 00:07:41,667
+Equestria will be better off.
+
+261
+00:07:41,709 --> 00:07:44,208
+And they'll have
+
+262
+00:07:41,709 --> 00:07:44,208
+me to thank for it!
+
+263
+00:07:44,250 --> 00:07:45,417
+Wait a minute.
+
+264
+00:07:45,458 --> 00:07:47,875
+Snowfall doesn't like
+
+265
+00:07:45,458 --> 00:07:47,875
+Hearth's Warming Eve
+
+266
+00:07:47,917 --> 00:07:51,417
+so she decides to cast a spell
+
+267
+00:07:47,917 --> 00:07:51,417
+to get rid of it all together?
+
+268
+00:07:51,458 --> 00:07:54,458
+That seems a little extreme.
+
+269
+00:07:54,500 --> 00:07:56,959
+Says the pony who tried
+
+270
+00:07:54,500 --> 00:07:56,959
+to make everypony the same
+
+271
+00:07:57,000 --> 00:08:00,583
+by replacing their cutie
+
+272
+00:07:57,000 --> 00:08:00,583
+marks with equal signs.
+
+273
+00:08:00,625 --> 00:08:04,041
+I THINK what Spike is trying
+
+274
+00:08:00,625 --> 00:08:04,041
+to say is that everypony
+
+275
+00:08:04,083 --> 00:08:07,458
+has their reasons for doing
+
+276
+00:08:04,083 --> 00:08:07,458
+things. Even Snowfall.
+
+277
+00:08:07,500 --> 00:08:09,875
+And if I could
+
+278
+00:08:07,500 --> 00:08:09,875
+continue the story,
+
+279
+00:08:09,917 --> 00:08:12,041
+we might just find
+
+280
+00:08:09,917 --> 00:08:12,041
+out what they are.
+
+281
+00:08:12,083 --> 00:08:13,959
+Proceed.
+
+282
+00:08:14,000 --> 00:08:16,875
+Snowfall was all set to cast
+
+283
+00:08:14,000 --> 00:08:16,875
+her spell that would erase
+
+284
+00:08:16,917 --> 00:08:19,125
+Hearth's Warming
+
+285
+00:08:16,917 --> 00:08:19,125
+Eve for all time
+
+286
+00:08:19,166 --> 00:08:21,417
+when a voice from the hearth
+
+287
+00:08:19,166 --> 00:08:21,417
+caught her attention.
+
+288
+00:08:21,458 --> 00:08:24,166
+You SURE you wanna
+
+289
+00:08:21,458 --> 00:08:24,166
+go through with this?
+
+290
+00:08:24,208 --> 00:08:25,875
+[gasp] Who's there!
+
+291
+00:08:27,417 --> 00:08:30,792
+The Spirit of Hearth's
+
+292
+00:08:27,417 --> 00:08:30,792
+Warmin' Past, that's who.
+
+293
+00:08:32,291 --> 00:08:35,041
+And you and me have got
+
+294
+00:08:32,291 --> 00:08:35,041
+to have us a little chat.
+
+295
+00:08:35,083 --> 00:08:40,041
+A spirit! I didn't cast any
+
+296
+00:08:35,083 --> 00:08:40,041
+spirit-summoning spell.
+
+297
+00:08:40,083 --> 00:08:41,834
+What are you doing here?
+
+298
+00:08:41,875 --> 00:08:44,083
+You don't think a spell
+
+299
+00:08:41,875 --> 00:08:44,083
+like that would get by
+
+300
+00:08:44,125 --> 00:08:46,166
+without some powerful
+
+301
+00:08:44,125 --> 00:08:46,166
+forces noticing?
+
+302
+00:08:46,208 --> 00:08:48,834
+You've got our attention,
+
+303
+00:08:46,208 --> 00:08:48,834
+Snowfall Frost
+
+304
+00:08:48,875 --> 00:08:51,083
+and we've got some
+
+305
+00:08:48,875 --> 00:08:51,083
+pretty strong opinions
+
+306
+00:08:51,125 --> 00:08:52,250
+on this spell of yours.
+
+307
+00:08:52,291 --> 00:08:53,750
+We?
+
+308
+00:08:53,792 --> 00:08:56,792
+They'll be along in a bit.
+
+309
+00:08:53,792 --> 00:08:56,792
+For now it's just you and me.
+
+310
+00:08:56,834 --> 00:08:59,125
+Let's get a move on.
+
+311
+00:08:56,834 --> 00:08:59,125
+We got a ton to see
+
+312
+00:08:59,166 --> 00:09:00,667
+and barely any time
+
+313
+00:08:59,166 --> 00:09:00,667
+to see it.
+
+314
+00:09:00,709 --> 00:09:02,709
+[laugh] I'm not
+
+315
+00:09:00,709 --> 00:09:02,709
+going anywhere.
+
+316
+00:09:02,750 --> 00:09:06,125
+I've got a spell to cast. And
+
+317
+00:09:02,750 --> 00:09:06,125
+I don't need a history lesson
+
+318
+00:09:06,166 --> 00:09:08,000
+about Hearth's Warming Eve.
+
+319
+00:09:08,041 --> 00:09:11,166
+We aren't goin' to the past
+
+320
+00:09:08,041 --> 00:09:11,166
+to learn about the holiday.
+
+321
+00:09:11,208 --> 00:09:14,125
+We're goin' to
+
+322
+00:09:11,208 --> 00:09:14,125
+learn about you.
+
+323
+00:09:16,000 --> 00:09:19,041
+Whoa!
+
+324
+00:09:19,083 --> 00:09:21,041
+<i>♪♪ [strumming banjo]</i>
+
+325
+00:09:21,083 --> 00:09:25,041
+<i>♪ As a young thing,</i>
+
+326
+00:09:21,083 --> 00:09:25,041
+<i>life sure is something ♪</i>
+
+327
+00:09:25,083 --> 00:09:28,959
+<i>♪ You go makin' choices</i>
+
+328
+00:09:25,083 --> 00:09:28,959
+<i>large and small ♪</i>
+
+329
+00:09:29,000 --> 00:09:31,458
+<i>♪ Always growing</i>
+
+330
+00:09:29,000 --> 00:09:31,458
+<i>like a seedling ♪</i>
+
+331
+00:09:31,500 --> 00:09:33,542
+<i>♪ and playin' is</i>
+
+332
+00:09:31,500 --> 00:09:33,542
+<i>like dreaming ♪</i>
+
+333
+00:09:33,583 --> 00:09:36,083
+<i>♪ And before you know</i>
+
+334
+00:09:33,583 --> 00:09:36,083
+<i>it big and tall ♪</i>
+
+335
+00:09:36,125 --> 00:09:39,792
+<i>♪♪</i>
+
+336
+00:09:39,834 --> 00:09:43,125
+<i>♪ And every little</i>
+
+337
+00:09:39,834 --> 00:09:43,125
+<i>bitty choice you make ♪</i>
+
+338
+00:09:43,166 --> 00:09:48,000
+<i>♪ Sends you down a path</i>
+
+339
+00:09:43,166 --> 00:09:48,000
+<i>to who you are today ♪</i>
+
+340
+00:09:48,041 --> 00:09:52,166
+<i>♪ So let's take a little</i>
+
+341
+00:09:48,041 --> 00:09:52,166
+<i>trip down memory lane ♪</i>
+
+342
+00:09:52,208 --> 00:09:55,125
+<i>♪ And see just what</i>
+
+343
+00:09:52,208 --> 00:09:55,125
+<i>the past has to say ♪</i>
+
+344
+00:09:55,166 --> 00:09:57,875
+♪♪
+
+345
+00:09:57,917 --> 00:09:59,875
+Awww, look how
+
+346
+00:09:57,917 --> 00:09:59,875
+cute you were.
+
+347
+00:09:59,917 --> 00:10:01,667
+Looks like you're
+
+348
+00:09:59,917 --> 00:10:01,667
+not too upset it's
+
+349
+00:10:01,709 --> 00:10:03,667
+Hearth's Warming Eve, either.
+
+350
+00:10:03,709 --> 00:10:08,083
+<i>♪ The seeds of the past,</i>
+
+351
+00:10:03,709 --> 00:10:08,083
+<i>they grow pretty fast ♪</i>
+
+352
+00:10:08,125 --> 00:10:12,250
+<i>♪ Just look at who</i>
+
+353
+00:10:08,125 --> 00:10:12,250
+<i>you were back then ♪</i>
+
+354
+00:10:12,291 --> 00:10:16,834
+<i>♪ The seeds as they grow,</i>
+
+355
+00:10:12,291 --> 00:10:16,834
+<i>look what they can show ♪</i>
+
+356
+00:10:16,875 --> 00:10:20,166
+<i>♪ Reveal the truth</i>
+
+357
+00:10:16,875 --> 00:10:20,166
+<i>time and again ♪</i>
+
+358
+00:10:26,792 --> 00:10:28,000
+[British accent]
+
+359
+00:10:28,041 --> 00:10:30,834
+Just what do you think
+
+360
+00:10:28,041 --> 00:10:30,834
+you are doing, Snowfall?
+
+361
+00:10:30,875 --> 00:10:32,792
+Decorating the classroom
+
+362
+00:10:30,875 --> 00:10:32,792
+for Hearth's Warming Eve,
+
+363
+00:10:32,834 --> 00:10:34,917
+Professor Flintheart!
+
+364
+00:10:34,959 --> 00:10:37,959
+You said you wanted to learn
+
+365
+00:10:34,959 --> 00:10:37,959
+to be a powerful unicorn,
+
+366
+00:10:38,000 --> 00:10:40,417
+did you not?
+
+367
+00:10:38,000 --> 00:10:40,417
+I do!
+
+368
+00:10:40,458 --> 00:10:44,333
+And what is the way that one
+
+369
+00:10:40,458 --> 00:10:44,333
+becomes a powerful unicorn?
+
+370
+00:10:44,375 --> 00:10:47,417
+[ahem] Work hard, learn
+
+371
+00:10:44,375 --> 00:10:47,417
+and use your skills
+
+372
+00:10:47,458 --> 00:10:48,583
+to better Equestria.
+
+373
+00:10:51,500 --> 00:10:55,083
+And how do these help
+
+374
+00:10:51,500 --> 00:10:55,083
+you to learn magic?
+
+375
+00:10:55,125 --> 00:10:58,709
+I want to be strong enough to
+
+376
+00:10:55,125 --> 00:10:58,709
+stop Windigos and help ponies!
+
+377
+00:10:58,750 --> 00:11:02,125
+That's just a story
+
+378
+00:10:58,750 --> 00:11:02,125
+we tell little ponies.
+
+379
+00:11:02,166 --> 00:11:04,583
+Real magic takes
+
+380
+00:11:02,166 --> 00:11:04,583
+time to learn.
+
+381
+00:11:04,625 --> 00:11:05,917
+[shatter]
+
+382
+00:11:08,792 --> 00:11:10,208
+It's your choice.
+
+383
+00:11:10,250 --> 00:11:12,792
+Spend your time learning to
+
+384
+00:11:10,250 --> 00:11:12,792
+become a powerful unicorn,
+
+385
+00:11:12,834 --> 00:11:17,041
+or play with your toys and
+
+386
+00:11:12,834 --> 00:11:17,041
+make nothing of yourself.
+
+387
+00:11:17,083 --> 00:11:22,166
+<i>♪ Then some distress,</i>
+
+388
+00:11:17,083 --> 00:11:22,166
+<i>words so careless ♪</i>
+
+389
+00:11:22,208 --> 00:11:26,458
+<i>♪ Standing there, you</i>
+
+390
+00:11:22,208 --> 00:11:26,458
+<i>don't know what to do ♪</i>
+
+391
+00:11:26,500 --> 00:11:31,083
+<i>♪</i> Feeling helpless,
+
+392
+00:11:26,500 --> 00:11:31,083
+can't make it hurt less<i> ♪</i>
+
+393
+00:11:31,125 --> 00:11:35,542
+<i>♪ So you go and change</i>
+
+394
+00:11:31,125 --> 00:11:35,542
+<i>your point of view ♪</i>
+
+395
+00:11:35,583 --> 00:11:39,959
+<i>♪ And in that moment</i>
+
+396
+00:11:35,583 --> 00:11:39,959
+<i>though you didn't know it ♪</i>
+
+397
+00:11:40,000 --> 00:11:44,417
+<i>♪ Your defenses set up</i>
+
+398
+00:11:40,000 --> 00:11:44,417
+<i>walls you built to last ♪</i>
+
+399
+00:11:44,458 --> 00:11:48,417
+<i>♪ Leading to the pony</i>
+
+400
+00:11:44,458 --> 00:11:48,417
+<i>you've become today ♪</i>
+
+401
+00:11:48,458 --> 00:11:51,041
+<i>♪ And the spell you're</i>
+
+402
+00:11:48,458 --> 00:11:51,041
+<i>about to cast ♪</i>
+
+403
+00:11:51,083 --> 00:11:54,208
+<i>♪ it all comes from your past ♪</i>
+
+404
+00:11:54,250 --> 00:11:58,750
+<i>♪ The seeds of the past</i>
+
+405
+00:11:54,250 --> 00:11:58,750
+<i>we grow up so fast ♪</i>
+
+406
+00:11:58,792 --> 00:12:03,250
+<i>♪ Some hurts never go away ♪</i>
+
+407
+00:12:03,291 --> 00:12:07,667
+<i>♪ The seeds as they grow,</i>
+
+408
+00:12:03,291 --> 00:12:07,667
+<i>this we can't let go ♪</i>
+
+409
+00:12:07,709 --> 00:12:11,917
+<i>♪ All tied to this one holiday ♪</i>
+
+410
+00:12:17,875 --> 00:12:20,083
+[gasp] Spirit? What
+
+411
+00:12:17,875 --> 00:12:20,083
+am I supposed to--
+
+412
+00:12:23,709 --> 00:12:26,458
+SNOWFALL FROST! IT IS I,
+
+413
+00:12:26,500 --> 00:12:30,667
+THE SPIRIT OF HEARTH'S
+
+414
+00:12:26,500 --> 00:12:30,667
+WARMING PRESENTS!
+
+415
+00:12:30,709 --> 00:12:33,583
+Um, don't you mean
+
+416
+00:12:30,709 --> 00:12:33,583
+present, like, the time?
+
+417
+00:12:33,625 --> 00:12:37,333
+No. Toys, Hearth's Warming
+
+418
+00:12:33,625 --> 00:12:37,333
+dolls. Here! Want a cupcake?
+
+419
+00:12:37,375 --> 00:12:40,792
+Fine. Presents. All of
+
+420
+00:12:37,375 --> 00:12:40,792
+the pointless things
+
+421
+00:12:40,834 --> 00:12:43,000
+that ponies waste
+
+422
+00:12:40,834 --> 00:12:43,000
+their time on.
+
+423
+00:12:43,041 --> 00:12:46,166
+Oh Snowfall. It's not what
+
+424
+00:12:43,041 --> 00:12:46,166
+the gift is that matters,
+
+425
+00:12:46,208 --> 00:12:48,250
+it's what the gift MEANS!
+
+426
+00:12:48,291 --> 00:12:51,250
+It doesn't mean anything.
+
+427
+00:12:48,291 --> 00:12:51,250
+It's just stuff.
+
+428
+00:12:51,291 --> 00:12:54,125
+Exactly! Sometimes a
+
+429
+00:12:51,291 --> 00:12:54,125
+cupcake means I love you!
+
+430
+00:12:54,166 --> 00:12:56,041
+Or a toy means Hi!
+
+431
+00:12:54,166 --> 00:12:56,041
+How ya doin?
+
+432
+00:12:56,083 --> 00:12:59,250
+And sometimes a book means,
+
+433
+00:12:56,083 --> 00:12:59,250
+"Your mane looks AMAZING!"
+
+434
+00:12:59,291 --> 00:13:01,083
+And sometimes a scarf means...
+
+435
+00:13:01,125 --> 00:13:03,333
+well, a scarf usually
+
+436
+00:13:01,125 --> 00:13:03,333
+means you look cold.
+
+437
+00:13:03,375 --> 00:13:05,041
+That one's easy.
+
+438
+00:13:05,083 --> 00:13:07,458
+I don't understand
+
+439
+00:13:05,083 --> 00:13:07,458
+anything you're saying.
+
+440
+00:13:07,500 --> 00:13:10,000
+Whoa, whoa! [grunt]
+
+441
+00:13:10,041 --> 00:13:11,542
+What's happening to you?
+
+442
+00:13:11,583 --> 00:13:14,709
+My Spirit of Hearth's Warming
+
+443
+00:13:11,583 --> 00:13:14,709
+Presents-sense is going off!
+
+444
+00:13:14,750 --> 00:13:18,208
+That means a song
+
+445
+00:13:14,750 --> 00:13:18,208
+is coming on!
+
+446
+00:13:19,625 --> 00:13:23,500
+<i>♪</i> ♪<i> [ragtime]</i>
+
+447
+00:13:23,542 --> 00:13:26,166
+<i>♪ Take a look at everything</i>
+
+448
+00:13:23,542 --> 00:13:26,166
+<i>around you ♪</i>
+
+449
+00:13:26,208 --> 00:13:28,959
+<i>♪ All the smells that</i>
+
+450
+00:13:26,208 --> 00:13:28,959
+<i>surely will astound you ♪</i>
+
+451
+00:13:29,000 --> 00:13:32,208
+<i>♪ Open up your heart;</i>
+
+452
+00:13:29,000 --> 00:13:32,208
+<i>it will surround you ♪</i>
+
+453
+00:13:32,250 --> 00:13:34,959
+<i>♪ In the magic of</i>
+
+454
+00:13:32,250 --> 00:13:34,959
+<i>Hearth's Warming Eve ♪</i>
+
+455
+00:13:35,000 --> 00:13:37,792
+<i>♪ The little things</i>
+
+456
+00:13:35,000 --> 00:13:37,792
+<i>that make it better ♪</i>
+
+457
+00:13:37,834 --> 00:13:40,458
+<i>♪ Little ponies</i>
+
+458
+00:13:37,834 --> 00:13:40,458
+<i>spreading cheer! ♪</i>
+
+459
+00:13:40,500 --> 00:13:43,250
+<i>♪ Give a toy, a hug, a sweater ♪</i>
+
+460
+00:13:43,291 --> 00:13:46,041
+<i>♪ Memories that last all year! ♪</i>
+
+461
+00:13:46,083 --> 00:13:48,959
+<i>♪ The present's always</i>
+
+462
+00:13:46,083 --> 00:13:48,959
+<i>filled with presents ♪</i>
+
+463
+00:13:49,000 --> 00:13:51,458
+<i>♪ Large, medium and small ♪</i>
+
+464
+00:13:51,500 --> 00:13:54,250
+<i>♪ Sometimes the most</i>
+
+465
+00:13:51,500 --> 00:13:54,250
+<i>important things ♪</i>
+
+466
+00:13:54,291 --> 00:13:57,125
+<i>♪ Aren't very big at all ♪</i>
+
+467
+00:13:57,166 --> 00:14:04,041
+<i>♪♪ [tap shoes clicking]</i>
+
+468
+00:14:07,083 --> 00:14:10,083
+<i>♪ What a party! There's</i>
+
+469
+00:14:07,083 --> 00:14:10,083
+<i>so much to see here! ♪</i>
+
+470
+00:14:10,125 --> 00:14:12,792
+<i>♪ I can't believe you</i>
+
+471
+00:14:10,125 --> 00:14:12,792
+<i>didn't want to be here ♪</i>
+
+472
+00:14:12,834 --> 00:14:15,667
+<i>♪ You would've had a</i>
+
+473
+00:14:12,834 --> 00:14:15,667
+<i>blast I guarantee here ♪</i>
+
+474
+00:14:15,709 --> 00:14:18,542
+<i>♪ THIS is the spirit of</i>
+
+475
+00:14:15,709 --> 00:14:18,542
+<i>Hearth's Warming Eve! ♪</i>
+
+476
+00:14:18,583 --> 00:14:21,250
+<i>♪ The cider's flowing,</i>
+
+477
+00:14:18,583 --> 00:14:21,250
+<i>this is living! ♪</i>
+
+478
+00:14:21,291 --> 00:14:24,083
+<i>♪ Come on and feel the beat! ♪</i>
+
+479
+00:14:24,125 --> 00:14:26,875
+<i>♪ Life is better</i>
+
+480
+00:14:24,125 --> 00:14:26,875
+<i>when you're givin' ♪</i>
+
+481
+00:14:26,917 --> 00:14:29,875
+<i>♪ Each time you do</i>
+
+482
+00:14:26,917 --> 00:14:29,875
+<i>it feels so sweet! ♪</i>
+
+483
+00:14:29,917 --> 00:14:32,542
+<i>♪ The present's always</i>
+
+484
+00:14:29,917 --> 00:14:32,542
+<i>filled with presents ♪</i>
+
+485
+00:14:32,583 --> 00:14:35,000
+<i>♪ So come on open your eyes ♪</i>
+
+486
+00:14:35,041 --> 00:14:37,667
+<i>♪ Spend time with</i>
+
+487
+00:14:35,041 --> 00:14:37,667
+<i>ponies just like you ♪</i>
+
+488
+00:14:37,709 --> 00:14:40,834
+<i>♪ and watch your spirits rise ♪</i>
+
+489
+00:14:40,875 --> 00:14:43,625
+<i>♪ The present's always</i>
+
+490
+00:14:40,875 --> 00:14:43,625
+<i>filled with presents ♪</i>
+
+491
+00:14:43,667 --> 00:14:46,125
+<i>♪ Take a look around ♪</i>
+
+492
+00:14:46,166 --> 00:14:48,667
+<i>♪ The reason for the holiday ♪</i>
+
+493
+00:14:48,709 --> 00:14:51,458
+<i>♪ is quite easily found ♪</i>
+
+494
+00:14:51,500 --> 00:14:58,083
+<i>♪ Yes the reason for the</i>
+
+495
+00:14:51,500 --> 00:14:58,083
+<i>holiday is quite easily found ♪</i>
+
+496
+00:14:58,875 --> 00:15:01,500
+<i>♪ And the reason is to</i>
+
+497
+00:14:58,875 --> 00:15:01,500
+<i>be with your friends! ♪</i>
+
+498
+00:15:02,291 --> 00:15:04,667
+<i>♪ And the reason is to</i>
+
+499
+00:15:02,291 --> 00:15:04,667
+<i>be with your friends! ♪</i>
+
+500
+00:15:05,583 --> 00:15:06,834
+What?
+
+501
+00:15:06,875 --> 00:15:09,750
+You know you're doing your
+
+502
+00:15:06,875 --> 00:15:09,750
+Pinkie Pie voice, right?
+
+503
+00:15:09,792 --> 00:15:11,250
+I was not...
+
+504
+00:15:11,291 --> 00:15:12,959
+[laugh]
+
+505
+00:15:13,000 --> 00:15:16,250
+So [sigh] what happens next?
+
+506
+00:15:16,291 --> 00:15:17,542
+Well, the party was--
+
+507
+00:15:17,583 --> 00:15:19,667
+WAIT! Can we take
+
+508
+00:15:17,583 --> 00:15:19,667
+a quick break?
+
+509
+00:15:19,709 --> 00:15:21,458
+I need to refill my cocoa!
+
+510
+00:15:21,500 --> 00:15:23,125
+[growl] Fine.
+
+511
+00:15:24,083 --> 00:15:26,500
+But hurry up! We're
+
+512
+00:15:24,083 --> 00:15:26,500
+almost to the best part!
+
+513
+00:15:31,625 --> 00:15:34,000
+OK. I'm ready.
+
+514
+00:15:34,041 --> 00:15:36,333
+The party was in full swing.
+
+515
+00:15:36,375 --> 00:15:37,834
+Snowdash!
+
+516
+00:15:37,875 --> 00:15:39,250
+Hey, Merry.
+
+517
+00:15:39,291 --> 00:15:41,542
+Why, whatever is
+
+518
+00:15:39,291 --> 00:15:41,542
+the matter, darling?
+
+519
+00:15:41,583 --> 00:15:42,750
+Was it the eggnog?
+
+520
+00:15:42,792 --> 00:15:45,542
+[sigh] I knew I put
+
+521
+00:15:42,792 --> 00:15:45,542
+in too much cinnamon.
+
+522
+00:15:45,583 --> 00:15:48,417
+Oh, no! The eggnog was
+
+523
+00:15:45,583 --> 00:15:48,417
+awesome, Flutterholly.
+
+524
+00:15:48,458 --> 00:15:50,542
+I'm just mad at somepony
+
+525
+00:15:48,458 --> 00:15:50,542
+who was complaining
+
+526
+00:15:50,583 --> 00:15:53,166
+about how awful
+
+527
+00:15:50,583 --> 00:15:53,166
+Hearth's Warming Eve is.
+
+528
+00:15:53,208 --> 00:15:56,959
+I don't suppose that pony's
+
+529
+00:15:53,208 --> 00:15:56,959
+name starts with "Snow"?
+
+530
+00:15:57,000 --> 00:15:58,959
+And ends with "frost"?
+
+531
+00:15:59,000 --> 00:16:02,542
+She said Hearth's Warming Eve
+
+532
+00:15:59,000 --> 00:16:02,542
+is just an excuse to party
+
+533
+00:16:02,583 --> 00:16:04,792
+and we'd all be better
+
+534
+00:16:02,583 --> 00:16:04,792
+off spending time working
+
+535
+00:16:04,834 --> 00:16:06,959
+to make Equestria
+
+536
+00:16:04,834 --> 00:16:06,959
+a better place.
+
+537
+00:16:07,000 --> 00:16:10,333
+Boo!
+
+538
+00:16:10,375 --> 00:16:13,375
+What does Snowfall think a
+
+539
+00:16:10,375 --> 00:16:13,375
+better Equestria looks like?
+
+540
+00:16:13,417 --> 00:16:15,166
+Ponies working hard.
+
+541
+00:16:15,208 --> 00:16:16,625
+Learning.
+
+542
+00:16:16,667 --> 00:16:19,166
+And using their abilities for
+
+543
+00:16:16,667 --> 00:16:19,166
+the benefit of Equestria.
+
+544
+00:16:19,208 --> 00:16:20,625
+[giggle]
+
+545
+00:16:22,250 --> 00:16:25,375
+Yeah! [laugh] [cheers]
+
+546
+00:16:25,417 --> 00:16:28,000
+It looks like we've got
+
+547
+00:16:25,417 --> 00:16:28,000
+everything on Snowfall's list
+
+548
+00:16:28,041 --> 00:16:29,208
+right here.
+
+549
+00:16:29,250 --> 00:16:31,959
+I think a perfect
+
+550
+00:16:29,250 --> 00:16:31,959
+Equestria looks a lot like
+
+551
+00:16:32,000 --> 00:16:33,834
+a Hearth's Warming Eve party.
+
+552
+00:16:36,917 --> 00:16:41,625
+Me too. Too bad it's going
+
+553
+00:16:36,917 --> 00:16:41,625
+to be the last one EVER!
+
+554
+00:16:41,667 --> 00:16:45,792
+Ever...ever...ever.
+
+555
+00:16:45,834 --> 00:16:49,166
+Spirit? What do you mean?
+
+556
+00:16:45,834 --> 00:16:49,166
+What's going to happen?
+
+557
+00:16:49,208 --> 00:16:56,083
+[whistling wind]
+
+558
+00:16:57,250 --> 00:16:58,542
+Who are you?
+
+559
+00:16:58,583 --> 00:17:02,625
+I am the Spirit of Hearth's
+
+560
+00:16:58,583 --> 00:17:02,625
+Warming Yet to Come.
+
+561
+00:17:02,667 --> 00:17:03,834
+Are you here to show me
+
+562
+00:17:03,875 --> 00:17:06,500
+what future Hearth's
+
+563
+00:17:03,875 --> 00:17:06,500
+Warming Eves are like?
+
+564
+00:17:06,542 --> 00:17:09,875
+No. For there are no more
+
+565
+00:17:06,542 --> 00:17:09,875
+Hearth's Warming Eves
+
+566
+00:17:09,917 --> 00:17:11,333
+for me to show.
+
+567
+00:17:11,375 --> 00:17:12,792
+Why not?
+
+568
+00:17:12,834 --> 00:17:17,083
+You will succeed in erasing
+
+569
+00:17:12,834 --> 00:17:17,083
+the holiday as you wished.
+
+570
+00:17:17,125 --> 00:17:19,417
+And what happens?
+
+571
+00:17:19,458 --> 00:17:26,083
+<i>♪ I see a cold wind</i>
+
+572
+00:17:19,458 --> 00:17:26,083
+<i>blowing through ♪</i>
+
+573
+00:17:26,125 --> 00:17:32,375
+<i>♪ I see days neither</i>
+
+574
+00:17:26,125 --> 00:17:32,375
+<i>fun nor free ♪</i>
+
+575
+00:17:32,417 --> 00:17:38,959
+<i>♪ I see a future</i>
+
+576
+00:17:32,417 --> 00:17:38,959
+<i>caused by you ♪</i>
+
+577
+00:17:39,000 --> 00:17:45,041
+<i>♪ I see a path not</i>
+
+578
+00:17:39,000 --> 00:17:45,041
+<i>meant to be ♪</i>
+
+579
+00:17:45,083 --> 00:17:51,208
+<i>♪ The future should</i>
+
+580
+00:17:45,083 --> 00:17:51,208
+<i>be filled with magic ♪</i>
+
+581
+00:17:51,250 --> 00:17:57,500
+<i>♪ dreams and wishes</i>
+
+582
+00:17:51,250 --> 00:17:57,500
+<i>brought to life ♪</i>
+
+583
+00:17:58,417 --> 00:18:04,834
+<i>♪ But the days ahead</i>
+
+584
+00:17:58,417 --> 00:18:04,834
+<i>are dark and tragic ♪</i>
+
+585
+00:18:04,875 --> 00:18:11,417
+<i>♪ no time for hope</i>
+
+586
+00:18:04,875 --> 00:18:11,417
+<i>when all is strife ♪</i>
+
+587
+00:18:11,458 --> 00:18:14,959
+<i>♪ Whatever might have been ♪</i>
+
+588
+00:18:15,000 --> 00:18:18,625
+<i>♪ all the dreams</i>
+
+589
+00:18:15,000 --> 00:18:18,625
+<i>that ponies share ♪</i>
+
+590
+00:18:18,667 --> 00:18:21,625
+<i>♪ Because of you,</i>
+
+591
+00:18:18,667 --> 00:18:21,625
+<i>Snowfall Frost ♪</i>
+
+592
+00:18:21,667 --> 00:18:25,667
+<i>♪ Now the future is</i>
+
+593
+00:18:21,667 --> 00:18:25,667
+<i>a cold nightmare ♪</i>
+
+594
+00:18:25,709 --> 00:18:27,792
+WINDIGOS!? They
+
+595
+00:18:25,709 --> 00:18:27,792
+aren't real.
+
+596
+00:18:27,834 --> 00:18:29,583
+It's just a little
+
+597
+00:18:27,834 --> 00:18:29,583
+filly's story!
+
+598
+00:18:29,625 --> 00:18:31,542
+They are all too
+
+599
+00:18:29,625 --> 00:18:31,542
+real, Snowfall.
+
+600
+00:18:31,583 --> 00:18:34,834
+And your actions will
+
+601
+00:18:31,583 --> 00:18:34,834
+allow them to return.
+
+602
+00:18:34,875 --> 00:18:37,375
+The future of Equestria
+
+603
+00:18:34,875 --> 00:18:37,375
+shall be bathed in a blanket
+
+604
+00:18:37,417 --> 00:18:39,792
+of eternal snow.
+
+605
+00:18:39,834 --> 00:18:43,500
+No! I never meant for this to
+
+606
+00:18:39,834 --> 00:18:43,500
+happen. I didn't understand!
+
+607
+00:18:43,542 --> 00:18:46,500
+I didn't see how important
+
+608
+00:18:43,542 --> 00:18:46,500
+Hearth's Warming Eve was!
+
+609
+00:18:46,542 --> 00:18:49,709
+Please, spirit! I haven't
+
+610
+00:18:46,542 --> 00:18:49,709
+cast the spell yet!
+
+611
+00:18:49,750 --> 00:18:52,458
+Is there still time?
+
+612
+00:18:49,750 --> 00:18:52,458
+I'm sorry!
+
+613
+00:19:03,709 --> 00:19:05,125
+There's still time!
+
+614
+00:19:08,500 --> 00:19:09,458
+Oh my.
+
+615
+00:19:09,500 --> 00:19:11,333
+Snowfall Frost?
+
+616
+00:19:11,375 --> 00:19:13,750
+I was hoping I wasn't
+
+617
+00:19:11,375 --> 00:19:13,750
+too late for the party.
+
+618
+00:19:13,792 --> 00:19:16,208
+I brought gifts.
+
+619
+00:19:16,250 --> 00:19:18,166
+[spits] Boss?
+
+620
+00:19:18,208 --> 00:19:21,333
+I was wrong earlier. About
+
+621
+00:19:18,208 --> 00:19:21,333
+Hearth's Warming Eve.
+
+622
+00:19:21,375 --> 00:19:24,250
+It's not all about
+
+623
+00:19:21,375 --> 00:19:24,250
+singing and presents.
+
+624
+00:19:24,291 --> 00:19:26,625
+The singing and presents
+
+625
+00:19:24,291 --> 00:19:26,625
+are all about celebrating
+
+626
+00:19:26,667 --> 00:19:28,625
+the ponies in our lives.
+
+627
+00:19:28,667 --> 00:19:32,667
+The ponies we should listen
+
+628
+00:19:28,667 --> 00:19:32,667
+to more often. Our friends.
+
+629
+00:19:35,250 --> 00:19:36,667
+Wow.
+
+630
+00:19:38,208 --> 00:19:42,250
+Dragon toenail? Uh...thanks?
+
+631
+00:19:42,291 --> 00:19:45,625
+I was in a hurry. I'll
+
+632
+00:19:42,291 --> 00:19:45,625
+do better next time.
+
+633
+00:19:45,667 --> 00:19:46,875
+[laugh] You kidding?
+
+634
+00:19:46,917 --> 00:19:49,500
+No one's ever given me
+
+635
+00:19:46,917 --> 00:19:49,500
+dragon toenail before!
+
+636
+00:19:49,542 --> 00:19:52,417
+It's awesome! Now
+
+637
+00:19:49,542 --> 00:19:52,417
+come get some eggnog!
+
+638
+00:19:52,458 --> 00:19:54,959
+<i>And from then on it</i>
+
+639
+00:19:52,458 --> 00:19:54,959
+<i>was always said of all</i>
+
+640
+00:19:55,000 --> 00:19:57,083
+<i>the Hearth's Warming</i>
+
+641
+00:19:55,000 --> 00:19:57,083
+<i>Eve celebrations,</i>
+
+642
+00:19:57,125 --> 00:19:59,542
+<i>Snowfall's was the</i>
+
+643
+00:19:57,125 --> 00:19:59,542
+<i>Hearth's Warmingest.</i>
+
+644
+00:20:00,750 --> 00:20:01,917
+The end.
+
+645
+00:20:03,458 --> 00:20:06,208
+Well, that's it. Thanks for
+
+646
+00:20:03,458 --> 00:20:06,208
+letting me read you the story.
+
+647
+00:20:06,250 --> 00:20:08,875
+Guess you can call
+
+648
+00:20:06,250 --> 00:20:08,875
+it a night.
+
+649
+00:20:09,000 --> 00:20:11,000
+Spike and I are
+
+650
+00:20:09,000 --> 00:20:11,000
+heading downstairs.
+
+651
+00:20:11,041 --> 00:20:13,959
+And if you wanted to, you'd
+
+652
+00:20:11,041 --> 00:20:13,959
+be welcome to join us.
+
+653
+00:20:17,917 --> 00:20:22,250
+[giggling]
+
+654
+00:20:22,291 --> 00:20:26,041
+Welcome to the party. Happy
+
+655
+00:20:22,291 --> 00:20:26,041
+Hearth's Warming Starlight.
+
+656
+00:20:26,083 --> 00:20:28,375
+Happy Hearth's
+
+657
+00:20:26,083 --> 00:20:28,375
+Warming, Twilight.
+
+658
+00:20:28,417 --> 00:20:31,875
+<i>♪ Hearth's Warming Eve</i>
+
+659
+00:20:28,417 --> 00:20:31,875
+<i>is filled with presents ♪</i>
+
+660
+00:20:31,917 --> 00:20:35,083
+<i>♪ some take you by surprise ♪</i>
+
+661
+00:20:35,125 --> 00:20:38,417
+<i>♪ A story shared by</i>
+
+662
+00:20:35,125 --> 00:20:38,417
+<i>your good friends ♪</i>
+
+663
+00:20:38,458 --> 00:20:41,417
+<i>♪ that makes your</i>
+
+664
+00:20:38,458 --> 00:20:41,417
+<i>spirits rise ♪</i>
+
+665
+00:20:41,458 --> 00:20:44,625
+<i>♪ Sometimes you just</i>
+
+666
+00:20:41,458 --> 00:20:44,625
+<i>let go of the past ♪</i>
+
+667
+00:20:44,667 --> 00:20:47,792
+<i>♪ enjoy the present</i>
+
+668
+00:20:44,667 --> 00:20:47,792
+<i>while it lasts ♪</i>
+
+669
+00:20:47,834 --> 00:20:50,875
+<i>♪ And really it's not</i>
+
+670
+00:20:47,834 --> 00:20:50,875
+<i>that much to ask ♪</i>
+
+671
+00:20:50,917 --> 00:20:53,792
+<i>♪ with good friends</i>
+
+672
+00:20:50,917 --> 00:20:53,792
+<i>by your side. ♪</i>
+
+673
+00:20:53,834 --> 00:21:00,750
+<i>♪♪</i>
+
+674
+00:21:02,875 --> 00:21:04,834
+<i>♪ Now it's time to celebrate ♪</i>
+
+675
+00:21:04,875 --> 00:21:06,834
+<i>♪ Hearth's Warming Eve</i>
+
+676
+00:21:04,875 --> 00:21:06,834
+<i>is here once again ♪</i>
+
+677
+00:21:06,875 --> 00:21:08,834
+<i>♪ All together feeling great ♪</i>
+
+678
+00:21:08,875 --> 00:21:10,834
+<i>♪ Hearth's Warming Eve</i>
+
+679
+00:21:08,875 --> 00:21:10,834
+<i>is here once again ♪</i>
+
+680
+00:21:10,875 --> 00:21:12,834
+<i>♪ Can't hardly wait ♪</i>
+
+681
+00:21:12,875 --> 00:21:14,834
+<i>♪ We'll party till late ♪</i>
+
+682
+00:21:14,875 --> 00:21:16,208
+<i>♪ Our favorite date ♪</i>
+
+683
+00:21:16,250 --> 00:21:19,000
+<i>♪ Hearth's Warming Eve</i>
+
+684
+00:21:16,250 --> 00:21:19,000
+<i>is here once again. ♪</i>
+
+685
+00:21:19,041 --> 00:21:23,208
+<i>♪ Happy, Happy, Hearth's</i>
+
+686
+00:21:19,041 --> 00:21:23,208
+<i>Warming Eve, ♪</i>
+
+687
+00:21:23,250 --> 00:21:27,041
+<i>♪ Happy ,Happy, Hearth's</i>
+
+688
+00:21:23,250 --> 00:21:27,041
+<i>Warming Eve. ♪</i>
+
+689
+00:21:27,083 --> 00:21:30,208
+<i>♪ Hearth's Warming Eve</i>
+
+690
+00:21:27,083 --> 00:21:30,208
+<i>is here once again. ♪</i>
+

@@ -1,0 +1,2520 @@
+1
+00:00:00,918 --> 00:00:04,004
+♪♪
+
+2
+00:00:09,134 --> 00:00:12,805
+♪ [trumpet fanfare] ♪
+
+3
+00:00:12,847 --> 00:00:15,933
+♪♪
+
+4
+00:00:20,228 --> 00:00:21,856
+Oooo, be careful!
+
+5
+00:00:21,897 --> 00:00:26,360
+♪♪
+
+6
+00:00:42,334 --> 00:00:43,460
+[clatter]
+
+7
+00:00:43,502 --> 00:00:45,044
+Oh!
+
+8
+00:00:45,086 --> 00:00:46,672
+Are you OK, Angel?
+
+9
+00:00:50,049 --> 00:00:53,012
+[loud crying]
+
+10
+00:00:53,052 --> 00:00:55,681
+I told you that entering the
+
+11
+00:00:53,052 --> 00:00:55,681
+Ponyville Paw-Kour contest
+
+12
+00:00:55,723 --> 00:00:58,099
+was a dangerous idea.
+
+13
+00:00:58,141 --> 00:01:01,937
+You just rest here and I'll have
+
+14
+00:00:58,141 --> 00:01:01,937
+you all fixed up in no time.
+
+15
+00:01:01,979 --> 00:01:04,314
+♪♪
+
+16
+00:01:04,356 --> 00:01:08,151
+Oh, dear. I'm all out
+
+17
+00:01:04,356 --> 00:01:08,151
+of bunny foot braces.
+
+18
+00:01:08,193 --> 00:01:11,655
+I think we need to pay
+
+19
+00:01:08,193 --> 00:01:11,655
+a visit to Dr. Fauna.
+
+20
+00:01:11,697 --> 00:01:15,075
+[whimpering]
+
+21
+00:01:15,116 --> 00:01:20,497
+♪♪
+
+22
+00:01:20,539 --> 00:01:26,503
+[grunts]
+
+23
+00:01:26,545 --> 00:01:29,590
+I was sure that she
+
+24
+00:01:26,545 --> 00:01:29,590
+would be here today.
+
+25
+00:01:29,631 --> 00:01:33,719
+Hello? Is anypony there?
+
+26
+00:01:33,761 --> 00:01:37,347
+Fluttershy? Oh, am
+
+27
+00:01:33,761 --> 00:01:37,347
+I glad to see you!
+
+28
+00:01:40,267 --> 00:01:42,937
+I wish I could say the same,
+
+29
+00:01:40,267 --> 00:01:42,937
+but the door is stuck so,
+
+30
+00:01:42,978 --> 00:01:45,313
+I um... can't see you.
+
+31
+00:01:49,401 --> 00:01:52,780
+Ooh. Somebunny hurt his foot!
+
+32
+00:01:52,821 --> 00:01:55,783
+Let's bandage that up
+
+33
+00:01:52,821 --> 00:01:55,783
+so he can get back home.
+
+34
+00:01:55,824 --> 00:01:58,493
+I'd like to keep him overnight,
+
+35
+00:01:55,824 --> 00:01:58,493
+but as you can see
+
+36
+00:01:58,535 --> 00:02:01,956
+my place is just
+
+37
+00:01:58,535 --> 00:02:01,956
+bursting with animals.
+
+38
+00:02:01,997 --> 00:02:05,250
+I don't think I can take in even
+
+39
+00:02:01,997 --> 00:02:05,250
+one more critter right now.
+
+40
+00:02:08,921 --> 00:02:10,672
+[sneeze]
+
+41
+00:02:10,714 --> 00:02:12,049
+[both] Oh, dear.
+
+42
+00:02:16,971 --> 00:02:20,390
+<i>♪ My little pony,</i>
+
+43
+00:02:16,971 --> 00:02:20,390
+<i>my little pony ♪</i>
+
+44
+00:02:20,432 --> 00:02:22,309
+<i>♪ Aaaahhh ♪</i>
+
+45
+00:02:22,350 --> 00:02:25,020
+<i>♪ My little Pony ♪</i>
+
+46
+00:02:25,062 --> 00:02:26,855
+<i>♪ I used to wonder what</i>
+
+47
+00:02:25,062 --> 00:02:26,855
+<i>friendship could be. ♪</i>
+
+48
+00:02:26,897 --> 00:02:28,565
+<i>♪ My Little Pony ♪</i>
+
+49
+00:02:28,607 --> 00:02:31,276
+<i>♪ Until you all shared</i>
+
+50
+00:02:28,607 --> 00:02:31,276
+<i>its magic with me. ♪</i>
+
+51
+00:02:31,318 --> 00:02:32,861
+<i>♪ Big adventure! ♪</i>
+
+52
+00:02:31,318 --> 00:02:32,861
+<i>♪ Tons of fun ♪</i>
+
+53
+00:02:32,903 --> 00:02:34,404
+<i>♪ A beautiful heart! ♪ ♪</i>
+
+54
+00:02:32,903 --> 00:02:34,404
+<i>Faithful and strong! ♪</i>
+
+55
+00:02:34,446 --> 00:02:37,449
+<i>♪ Sharing kindness ♪</i>
+
+56
+00:02:34,446 --> 00:02:37,449
+<i>♪ it's an easy feat ♪</i>
+
+57
+00:02:37,491 --> 00:02:39,701
+<i>♪♪ And magic makes it</i>
+
+58
+00:02:37,491 --> 00:02:39,701
+<i>all complete! ♪</i>
+
+59
+00:02:39,743 --> 00:02:41,829
+<i>♪ To have my little pony ♪</i>
+
+60
+00:02:41,870 --> 00:02:45,248
+<i>♪ Do you know you're all</i>
+
+61
+00:02:41,870 --> 00:02:45,248
+<i>my very best friends? ♪</i>
+
+62
+00:02:45,290 --> 00:02:48,376
+♪♪
+
+63
+00:02:52,131 --> 00:02:53,256
+♪♪
+
+64
+00:02:53,298 --> 00:03:00,055
+[animal sounds]
+
+65
+00:03:00,097 --> 00:03:06,603
+♪♪
+
+66
+00:03:06,645 --> 00:03:07,270
+[gasp]
+
+67
+00:03:07,312 --> 00:03:08,396
+[thud]
+
+68
+00:03:09,857 --> 00:03:12,275
+You really have your
+
+69
+00:03:09,857 --> 00:03:12,275
+hooves full here.
+
+70
+00:03:13,527 --> 00:03:14,903
+This place is like a zoo!
+
+71
+00:03:16,864 --> 00:03:19,700
+Then again, it's normally
+
+72
+00:03:16,864 --> 00:03:19,700
+like that but still...
+
+73
+00:03:19,741 --> 00:03:20,909
+I can't keep up!
+
+74
+00:03:28,249 --> 00:03:33,172
+Now does my favorite wittle
+
+75
+00:03:28,249 --> 00:03:33,172
+bunny want a carrot-pop?
+
+76
+00:03:33,212 --> 00:03:34,048
+[raspberry]
+
+77
+00:03:37,217 --> 00:03:40,220
+That's OK. I think the goats
+
+78
+00:03:37,217 --> 00:03:40,220
+ate all of them, anyway.
+
+79
+00:03:40,261 --> 00:03:41,680
+[burp]
+
+80
+00:03:43,390 --> 00:03:46,185
+I just can't believe all these
+
+81
+00:03:43,390 --> 00:03:46,185
+poor little animals are hurt!
+
+82
+00:03:46,226 --> 00:03:47,895
+What happened?
+
+83
+00:03:47,936 --> 00:03:49,396
+I'm flummoxed!
+
+84
+00:03:49,437 --> 00:03:52,482
+Every day, there's more and
+
+85
+00:03:49,437 --> 00:03:52,482
+more animals on my doorstep.
+
+86
+00:03:52,524 --> 00:03:54,442
+Most of them just
+
+87
+00:03:52,524 --> 00:03:54,442
+have minor ailments:
+
+88
+00:03:54,484 --> 00:03:57,029
+hurt wings, stuffy
+
+89
+00:03:54,484 --> 00:03:57,029
+noses and such.
+
+90
+00:03:57,071 --> 00:04:00,407
+But the trouble is, even
+
+91
+00:03:57,071 --> 00:04:00,407
+after they're all healed up,
+
+92
+00:04:02,534 --> 00:04:05,996
+I can't seem to get these
+
+93
+00:04:02,534 --> 00:04:05,996
+comfy critters to leave!
+
+94
+00:04:06,038 --> 00:04:07,455
+Oh, dear!
+
+95
+00:04:12,878 --> 00:04:15,714
+They do seem to have made
+
+96
+00:04:12,878 --> 00:04:15,714
+themselves right at home here.
+
+97
+00:04:17,465 --> 00:04:21,136
+I wonder why they chose
+
+98
+00:04:17,465 --> 00:04:21,136
+to flock to my office.
+
+99
+00:04:21,178 --> 00:04:23,889
+It just doesn't
+
+100
+00:04:21,178 --> 00:04:23,889
+make sense.
+
+101
+00:04:23,931 --> 00:04:26,183
+Don't be silly, Dr. Fauna.
+
+102
+00:04:26,225 --> 00:04:28,685
+You're the best Vet
+
+103
+00:04:26,225 --> 00:04:28,685
+Pony in Equestria!
+
+104
+00:04:28,727 --> 00:04:31,479
+At least that's what I've
+
+105
+00:04:28,727 --> 00:04:31,479
+been telling everypony.
+
+106
+00:04:31,521 --> 00:04:33,232
+Ah, you did what?
+
+107
+00:04:35,984 --> 00:04:40,864
+Oh, no! Do you suppose it's
+
+108
+00:04:35,984 --> 00:04:40,864
+my fault? I'm so sorry;
+
+109
+00:04:40,906 --> 00:04:42,824
+I didn't mean for
+
+110
+00:04:40,906 --> 00:04:42,824
+this to happen.
+
+111
+00:04:42,866 --> 00:04:46,078
+I just know animals feel safe
+
+112
+00:04:42,866 --> 00:04:46,078
+and happy under your care.
+
+113
+00:04:46,120 --> 00:04:50,082
+[chirping]
+
+114
+00:04:50,124 --> 00:04:52,918
+Normally, I don't mind if a
+
+115
+00:04:50,124 --> 00:04:52,918
+snake wants to slither in
+
+116
+00:04:52,960 --> 00:04:56,463
+or a raccoon needs a rest. But
+
+117
+00:04:52,960 --> 00:04:56,463
+now this place is so full,
+
+118
+00:04:56,504 --> 00:04:59,633
+I have no space to treat
+
+119
+00:04:56,504 --> 00:04:59,633
+any injured animals!
+
+120
+00:04:59,674 --> 00:05:03,344
+That is a big problem.
+
+121
+00:05:03,386 --> 00:05:06,223
+That I'm going to
+
+122
+00:05:03,386 --> 00:05:06,223
+fix for you!
+
+123
+00:05:06,265 --> 00:05:08,142
+I already have the
+
+124
+00:05:06,265 --> 00:05:08,142
+perfect solution
+
+125
+00:05:08,183 --> 00:05:12,020
+that'll make the critters
+
+126
+00:05:08,183 --> 00:05:12,020
+happy and give you more space!
+
+127
+00:05:12,062 --> 00:05:14,397
+Then you'll have all
+
+128
+00:05:12,062 --> 00:05:14,397
+your ducks in a row.
+
+129
+00:05:20,612 --> 00:05:22,156
+The sooner you fix
+
+130
+00:05:20,612 --> 00:05:22,156
+it, the better!
+
+131
+00:05:23,949 --> 00:05:25,117
+I'm on it.
+
+132
+00:05:27,410 --> 00:05:28,369
+[sob]
+
+133
+00:05:29,663 --> 00:05:31,206
+I want to thank you all
+
+134
+00:05:31,248 --> 00:05:33,041
+for rushing right
+
+135
+00:05:31,248 --> 00:05:33,041
+over when I called.
+
+136
+00:05:35,085 --> 00:05:36,795
+[angry chittering]
+
+137
+00:05:36,837 --> 00:05:40,674
+Dr. Fauna needs my help
+
+138
+00:05:36,837 --> 00:05:40,674
+with a serious problem.
+
+139
+00:05:40,715 --> 00:05:42,092
+A friendship problem?
+
+140
+00:05:42,134 --> 00:05:47,139
+No. Her vet clinic is a
+
+141
+00:05:42,134 --> 00:05:47,139
+bit maybe um... overrun
+
+142
+00:05:47,181 --> 00:05:50,391
+with adorable critters in
+
+143
+00:05:47,181 --> 00:05:50,391
+dire need of a safe place
+
+144
+00:05:50,433 --> 00:05:52,560
+to lay their heads and...
+
+145
+00:05:52,602 --> 00:05:56,355
+they don't have
+
+146
+00:05:52,602 --> 00:05:56,355
+anywhere to go!
+
+147
+00:05:56,397 --> 00:05:58,608
+Oh, that's just awful.
+
+148
+00:05:58,650 --> 00:06:00,401
+I know!
+
+149
+00:06:00,443 --> 00:06:03,446
+Yeah, Dr. Fauna's
+
+150
+00:06:00,443 --> 00:06:03,446
+always fixin' Winona up
+
+151
+00:06:03,488 --> 00:06:05,073
+when she ain't
+
+152
+00:06:03,488 --> 00:06:05,073
+feelin' too fine,
+
+153
+00:06:05,115 --> 00:06:07,534
+so helpin' her out
+
+154
+00:06:05,115 --> 00:06:07,534
+is A-OK by me.
+
+155
+00:06:07,575 --> 00:06:08,827
+Yeah!
+
+156
+00:06:08,869 --> 00:06:11,246
+[all agreeing]
+
+157
+00:06:11,288 --> 00:06:15,083
+That's great news because it
+
+158
+00:06:11,288 --> 00:06:15,083
+means you'll all be helping me
+
+159
+00:06:15,125 --> 00:06:17,169
+with something special, too.
+
+160
+00:06:17,211 --> 00:06:21,173
+Something that's been a dream
+
+161
+00:06:17,211 --> 00:06:21,173
+of mine for a long time.
+
+162
+00:06:21,215 --> 00:06:23,382
+Oh, goody! Is your dream
+
+163
+00:06:21,215 --> 00:06:23,382
+to make a bouncy castle
+
+164
+00:06:23,424 --> 00:06:25,593
+shaped like a
+
+165
+00:06:23,424 --> 00:06:25,593
+gigantic bundt cake?
+
+166
+00:06:25,635 --> 00:06:28,596
+Um, no...
+
+167
+00:06:25,635 --> 00:06:28,596
+not exactly.
+
+168
+00:06:28,638 --> 00:06:30,640
+Oh, just me then.
+
+169
+00:06:30,682 --> 00:06:33,768
+So what is it,
+
+170
+00:06:30,682 --> 00:06:33,768
+Fluttershy? Spill!
+
+171
+00:06:33,810 --> 00:06:38,357
+My dream is to build a
+
+172
+00:06:33,810 --> 00:06:38,357
+real animal sanctuary.
+
+173
+00:06:38,397 --> 00:06:42,694
+A beautiful habitat where every
+
+174
+00:06:38,397 --> 00:06:42,694
+animal, whether sick...
+
+175
+00:06:42,736 --> 00:06:44,029
+or scared...
+
+176
+00:06:44,071 --> 00:06:46,447
+or even just lonely.
+
+177
+00:06:46,489 --> 00:06:49,826
+Feathered or furry,
+
+178
+00:06:46,489 --> 00:06:49,826
+scaly or slimy,
+
+179
+00:06:49,868 --> 00:06:52,704
+every critter would be welcome.
+
+180
+00:06:52,746 --> 00:06:55,749
+My sanctuary can be the
+
+181
+00:06:52,746 --> 00:06:55,749
+one place in Equestria
+
+182
+00:06:55,790 --> 00:06:59,836
+they call home till they feel
+
+183
+00:06:55,790 --> 00:06:59,836
+ready to take on the world.
+
+184
+00:06:59,878 --> 00:07:02,923
+[cheering]
+
+185
+00:07:02,964 --> 00:07:04,716
+Wow, Fluttershy.
+
+186
+00:07:04,758 --> 00:07:06,718
+I've never heard you speak
+
+187
+00:07:04,758 --> 00:07:06,718
+with such conviction.
+
+188
+00:07:06,760 --> 00:07:09,221
+That was exquisite!
+
+189
+00:07:09,263 --> 00:07:11,723
+Pretty awesome.
+
+190
+00:07:11,765 --> 00:07:13,725
+Thank you, everypony.
+
+191
+00:07:13,767 --> 00:07:16,519
+You've all taught me so much
+
+192
+00:07:13,767 --> 00:07:16,519
+about building my confidence
+
+193
+00:07:16,561 --> 00:07:19,814
+over the years. It's
+
+194
+00:07:16,561 --> 00:07:19,814
+because of your friendship
+
+195
+00:07:19,856 --> 00:07:24,278
+that I finally feel able to make
+
+196
+00:07:19,856 --> 00:07:24,278
+my dream project a reality.
+
+197
+00:07:24,319 --> 00:07:28,949
+But I can't build the sanctuary
+
+198
+00:07:24,319 --> 00:07:28,949
+alone. Will you join me?
+
+199
+00:07:28,990 --> 00:07:30,784
+Of course! Yeah!
+
+200
+00:07:30,825 --> 00:07:34,288
+I'm happy to offer my
+
+201
+00:07:30,825 --> 00:07:34,288
+extra hooves to ya!
+
+202
+00:07:34,329 --> 00:07:37,416
+But come to think of it,
+
+203
+00:07:34,329 --> 00:07:37,416
+I actually know a filly
+
+204
+00:07:37,457 --> 00:07:39,960
+who'd be more help than I
+
+205
+00:07:37,457 --> 00:07:39,960
+would. She's a friend of mine
+
+206
+00:07:40,001 --> 00:07:43,088
+from Winona's sheep herdin'
+
+207
+00:07:40,001 --> 00:07:43,088
+competition: Wrangler.
+
+208
+00:07:43,130 --> 00:07:45,257
+She's an expert in
+
+209
+00:07:43,130 --> 00:07:45,257
+animal enclosures.
+
+210
+00:07:45,299 --> 00:07:46,758
+How lovely!
+
+211
+00:07:46,800 --> 00:07:49,261
+Ooo! Ooo! Ooo! I
+
+212
+00:07:46,800 --> 00:07:49,261
+know somepony, too!
+
+213
+00:07:49,303 --> 00:07:52,389
+Hard Hat is the best
+
+214
+00:07:49,303 --> 00:07:52,389
+construction pony in Ponyville.
+
+215
+00:07:52,431 --> 00:07:55,809
+He can build anything you
+
+216
+00:07:52,431 --> 00:07:55,809
+could ever, ever, ever want!
+
+217
+00:07:55,850 --> 00:07:58,019
+Hearing you all
+
+218
+00:07:55,850 --> 00:07:58,019
+mention these experts,
+
+219
+00:07:58,061 --> 00:08:00,981
+I am reminded that I,
+
+220
+00:07:58,061 --> 00:08:00,981
+too, have the perfect pony
+
+221
+00:08:01,022 --> 00:08:03,317
+to help capture the
+
+222
+00:08:01,022 --> 00:08:03,317
+essence of your vision.
+
+223
+00:08:03,358 --> 00:08:06,694
+To give it some
+
+224
+00:08:03,358 --> 00:08:06,694
+style, some flair!
+
+225
+00:08:06,736 --> 00:08:08,280
+Is it you, Rarity?
+
+226
+00:08:08,322 --> 00:08:13,952
+No, no. Um I was referring to
+
+227
+00:08:08,322 --> 00:08:13,952
+the premiere interior designer
+
+228
+00:08:13,994 --> 00:08:17,998
+of the Canterlot
+
+229
+00:08:13,994 --> 00:08:17,998
+Elite: Dandy Grandeur.
+
+230
+00:08:18,039 --> 00:08:21,293
+He helped me when I was setting
+
+231
+00:08:18,039 --> 00:08:21,293
+up my Canterlot boutique.
+
+232
+00:08:21,335 --> 00:08:23,920
+I know he'd be thrilled
+
+233
+00:08:21,335 --> 00:08:23,920
+to work with you!
+
+234
+00:08:23,962 --> 00:08:26,589
+Wow, everypony!
+
+235
+00:08:23,962 --> 00:08:26,589
+Thank you.
+
+236
+00:08:26,631 --> 00:08:30,177
+I can't wait to meet all of
+
+237
+00:08:26,631 --> 00:08:30,177
+them and hear their ideas.
+
+238
+00:08:30,218 --> 00:08:31,845
+We're right on
+
+239
+00:08:30,218 --> 00:08:31,845
+track to building
+
+240
+00:08:31,886 --> 00:08:35,098
+the most wonderful
+
+241
+00:08:31,886 --> 00:08:35,098
+sanctuary in Equestria.
+
+242
+00:08:35,140 --> 00:08:38,226
+♪♪
+
+243
+00:08:47,568 --> 00:08:48,778
+Thank you,
+
+244
+00:08:47,568 --> 00:08:48,778
+Rupert!
+
+245
+00:08:52,657 --> 00:08:55,910
+Ahem. It's wonderful that
+
+246
+00:08:52,657 --> 00:08:55,910
+you all could join me
+
+247
+00:08:55,952 --> 00:08:58,955
+to discuss the Ponyville
+
+248
+00:08:55,952 --> 00:08:58,955
+sanctuary project.
+
+249
+00:08:58,997 --> 00:09:01,166
+My friends have so
+
+250
+00:08:58,997 --> 00:09:01,166
+many nice things to say
+
+251
+00:09:01,208 --> 00:09:03,293
+about each of your talents!
+
+252
+00:09:03,335 --> 00:09:06,004
+This is a big project,
+
+253
+00:09:03,335 --> 00:09:06,004
+so I'm happy to have
+
+254
+00:09:06,046 --> 00:09:08,882
+such experienced ponies
+
+255
+00:09:06,046 --> 00:09:08,882
+working on it with me.
+
+256
+00:09:08,923 --> 00:09:12,927
+Rarity has impeccable taste
+
+257
+00:09:08,923 --> 00:09:12,927
+in design and friends.
+
+258
+00:09:12,969 --> 00:09:15,722
+So I can't wait to work
+
+259
+00:09:12,969 --> 00:09:15,722
+with you, you know?
+
+260
+00:09:15,763 --> 00:09:17,724
+I--I think so.
+
+261
+00:09:17,765 --> 00:09:19,309
+Yee-haw!
+
+262
+00:09:19,351 --> 00:09:21,520
+I'm just lookin' forward
+
+263
+00:09:19,351 --> 00:09:21,520
+to helpin' ya out, ma'am.
+
+264
+00:09:21,561 --> 00:09:22,854
+And the animals.
+
+265
+00:09:22,896 --> 00:09:24,314
+Of course.
+
+266
+00:09:24,356 --> 00:09:27,817
+So, uh... Pinkie Pie said
+
+267
+00:09:24,356 --> 00:09:27,817
+you drew up some blueprints?
+
+268
+00:09:27,859 --> 00:09:31,196
+Um, Not exactly; it's
+
+269
+00:09:27,859 --> 00:09:31,196
+more of a "dream-board."
+
+270
+00:09:31,238 --> 00:09:34,324
+♪♪
+
+271
+00:09:40,663 --> 00:09:42,999
+That sure doesn't look
+
+272
+00:09:40,663 --> 00:09:42,999
+like an animal hospital.
+
+273
+00:09:43,041 --> 00:09:46,294
+That's because it's
+
+274
+00:09:43,041 --> 00:09:46,294
+not. It's a sanctuary.
+
+275
+00:09:46,336 --> 00:09:50,757
+A place that is safe but not
+
+276
+00:09:46,336 --> 00:09:50,757
+restrictive, cozy but natural.
+
+277
+00:09:50,798 --> 00:09:53,593
+A place where the animals can
+
+278
+00:09:50,798 --> 00:09:53,593
+come and go as they please.
+
+279
+00:09:55,929 --> 00:09:59,640
+[squeaking]
+
+280
+00:09:59,682 --> 00:10:01,560
+So... can you build it?
+
+281
+00:10:06,273 --> 00:10:07,857
+[nervous chuckles]
+
+282
+00:10:13,488 --> 00:10:17,325
+I want the sanctuary to
+
+283
+00:10:13,488 --> 00:10:17,325
+have an open floor plan.
+
+284
+00:10:17,367 --> 00:10:21,662
+No walls, more like an enclosure
+
+285
+00:10:17,367 --> 00:10:21,662
+that melts into the trees,
+
+286
+00:10:21,704 --> 00:10:22,914
+with a gate in the back.
+
+287
+00:10:22,956 --> 00:10:25,459
+That way, the animals
+
+288
+00:10:22,956 --> 00:10:25,459
+can return to the forest
+
+289
+00:10:25,500 --> 00:10:27,544
+right when they feel ready.
+
+290
+00:10:27,586 --> 00:10:30,505
+Sneaky! I like it.
+
+291
+00:10:30,547 --> 00:10:33,300
+You know, I designed
+
+292
+00:10:30,547 --> 00:10:33,300
+the Ponyville Hospital.
+
+293
+00:10:33,341 --> 00:10:35,635
+I could do the exact
+
+294
+00:10:33,341 --> 00:10:35,635
+same thing right here.
+
+295
+00:10:35,676 --> 00:10:37,804
+I still have the blueprints.
+
+296
+00:10:37,845 --> 00:10:41,600
+Though it'll take a while
+
+297
+00:10:37,845 --> 00:10:41,600
+to clear all these trees.
+
+298
+00:10:41,641 --> 00:10:45,937
+But I don't want to clear the
+
+299
+00:10:41,641 --> 00:10:45,937
+trees. I want to use them.
+
+300
+00:10:45,979 --> 00:10:47,606
+Are you sure?
+
+301
+00:10:47,688 --> 00:10:49,190
+What you're talking about
+
+302
+00:10:47,688 --> 00:10:49,190
+doesn't really seem
+
+303
+00:10:49,232 --> 00:10:53,278
+like a cohesive structure. Or
+
+304
+00:10:49,232 --> 00:10:53,278
+any structure I'm familiar with.
+
+305
+00:10:53,320 --> 00:10:56,948
+Critters don't live
+
+306
+00:10:53,320 --> 00:10:56,948
+the same way ponies do.
+
+307
+00:10:56,990 --> 00:10:59,784
+I know this is unconventional,
+
+308
+00:10:56,990 --> 00:10:59,784
+but that's because
+
+309
+00:10:59,826 --> 00:11:03,371
+we're trying to do something
+
+310
+00:10:59,826 --> 00:11:03,371
+that's never been done before.
+
+311
+00:11:03,413 --> 00:11:05,081
+And I really believe
+
+312
+00:11:03,413 --> 00:11:05,081
+it'll work.
+
+313
+00:11:05,123 --> 00:11:08,876
+[chirping]
+
+314
+00:11:11,171 --> 00:11:15,342
+All right, then. I'll
+
+315
+00:11:11,171 --> 00:11:15,342
+see what I can do.
+
+316
+00:11:15,383 --> 00:11:18,719
+See, Fluttershy?
+
+317
+00:11:15,383 --> 00:11:18,719
+Whatever you want!
+
+318
+00:11:18,761 --> 00:11:20,013
+Good.
+
+319
+00:11:20,054 --> 00:11:21,722
+♪♪
+
+320
+00:11:21,764 --> 00:11:24,100
+I know she thinks
+
+321
+00:11:21,764 --> 00:11:24,100
+knows what's best,
+
+322
+00:11:24,142 --> 00:11:25,893
+but once she sees how
+
+323
+00:11:24,142 --> 00:11:25,893
+much better it works
+
+324
+00:11:25,935 --> 00:11:27,979
+with these plans,
+
+325
+00:11:25,935 --> 00:11:27,979
+she'll thank us.
+
+326
+00:11:34,861 --> 00:11:37,614
+Which one do you like for
+
+327
+00:11:34,861 --> 00:11:37,614
+the window treatments?
+
+328
+00:11:37,656 --> 00:11:40,825
+Loving the print
+
+329
+00:11:37,656 --> 00:11:40,825
+on those!
+
+330
+00:11:40,867 --> 00:11:44,871
+Um... not to be rude, but
+
+331
+00:11:40,867 --> 00:11:44,871
+there must be some mistake.
+
+332
+00:11:44,912 --> 00:11:47,541
+We have no need for
+
+333
+00:11:44,912 --> 00:11:47,541
+curtains at the sanctuary.
+
+334
+00:11:47,582 --> 00:11:49,584
+And why ever not?
+
+335
+00:11:49,626 --> 00:11:52,711
+Everything is going to look
+
+336
+00:11:49,626 --> 00:11:52,711
+natural in the animal habitats,
+
+337
+00:11:52,753 --> 00:11:55,048
+not like it was
+
+338
+00:11:52,753 --> 00:11:55,048
+made for ponies.
+
+339
+00:11:55,089 --> 00:11:57,217
+All those shades
+
+340
+00:11:55,089 --> 00:11:57,217
+of brown and green?
+
+341
+00:11:57,258 --> 00:12:01,471
+But... they're so
+
+342
+00:11:57,258 --> 00:12:01,471
+drab. You know?
+
+343
+00:12:01,513 --> 00:12:03,431
+Ha ha ha ha!
+
+344
+00:12:03,473 --> 00:12:08,645
+Drab? You're calling the colors
+
+345
+00:12:03,473 --> 00:12:08,645
+of beautiful trees drab?
+
+346
+00:12:08,687 --> 00:12:12,440
+Exactly! The "natural"
+
+347
+00:12:08,687 --> 00:12:12,440
+look is not in right now.
+
+348
+00:12:12,482 --> 00:12:14,150
+This is better, trust me.
+
+349
+00:12:16,277 --> 00:12:19,614
+I appreciate your input,
+
+350
+00:12:16,277 --> 00:12:19,614
+but I just know the animals
+
+351
+00:12:19,656 --> 00:12:21,575
+would be happiest with
+
+352
+00:12:19,656 --> 00:12:21,575
+dirt brown pillows
+
+353
+00:12:21,616 --> 00:12:23,660
+and leaf green accents.
+
+354
+00:12:23,702 --> 00:12:26,663
+I'll look into it.
+
+355
+00:12:26,705 --> 00:12:27,914
+Thank you.
+
+356
+00:12:29,123 --> 00:12:30,208
+When a client has a vision!
+
+357
+00:12:30,250 --> 00:12:31,585
+[giggle]
+
+358
+00:12:32,793 --> 00:12:36,839
+Sometimes they need me to
+
+359
+00:12:32,793 --> 00:12:36,839
+steer them away from it.
+
+360
+00:12:36,881 --> 00:12:39,551
+Especially if its dirt brown.
+
+361
+00:12:42,011 --> 00:12:45,139
+And right there we got yer
+
+362
+00:12:42,011 --> 00:12:45,139
+standard sheep travelin' cage.
+
+363
+00:12:45,181 --> 00:12:47,267
+Fits two critters,
+
+364
+00:12:45,181 --> 00:12:47,267
+dependin' on size.
+
+365
+00:12:47,308 --> 00:12:49,310
+Hmmm.
+
+366
+00:12:49,352 --> 00:12:51,229
+What is it, sugarcube?
+
+367
+00:12:51,271 --> 00:12:54,315
+I'm looking for something
+
+368
+00:12:51,271 --> 00:12:54,315
+less like a cage...
+
+369
+00:12:54,357 --> 00:12:59,112
+more like a nice hug. Maybe
+
+370
+00:12:54,357 --> 00:12:59,112
+if we lose that part...
+
+371
+00:12:59,153 --> 00:13:02,115
+Well, then it
+
+372
+00:12:59,153 --> 00:13:02,115
+wouldn't be a cage.
+
+373
+00:13:02,156 --> 00:13:04,618
+Exactly! Ooh!
+
+374
+00:13:04,659 --> 00:13:07,828
+This is the perfect
+
+375
+00:13:04,659 --> 00:13:07,828
+base for a little nest.
+
+376
+00:13:07,870 --> 00:13:09,080
+I'll take a bunch of these.
+
+377
+00:13:09,122 --> 00:13:12,208
+And anything else the
+
+378
+00:13:09,122 --> 00:13:12,208
+animals can burrow into.
+
+379
+00:13:12,250 --> 00:13:13,710
+You sure you don't
+
+380
+00:13:12,250 --> 00:13:13,710
+want something
+
+381
+00:13:13,752 --> 00:13:15,545
+more secure for
+
+382
+00:13:13,752 --> 00:13:15,545
+the critters?
+
+383
+00:13:15,587 --> 00:13:17,171
+She does have a
+
+384
+00:13:15,587 --> 00:13:17,171
+point there.
+
+385
+00:13:17,213 --> 00:13:18,381
+You wouldn't want
+
+386
+00:13:17,213 --> 00:13:18,381
+a bunny wandering
+
+387
+00:13:18,423 --> 00:13:19,840
+into the wrong
+
+388
+00:13:18,423 --> 00:13:19,840
+cave, would ya?
+
+389
+00:13:19,882 --> 00:13:24,345
+No! No cages. I want to
+
+390
+00:13:19,882 --> 00:13:24,345
+give the animals the freedom
+
+391
+00:13:24,387 --> 00:13:28,475
+to come and go. It's the only
+
+392
+00:13:24,387 --> 00:13:28,475
+way they'll feel comfortable.
+
+393
+00:13:28,516 --> 00:13:30,226
+Well, she's the boss!
+
+394
+00:13:30,268 --> 00:13:31,561
+♪♪
+
+395
+00:13:31,603 --> 00:13:33,772
+[hammering]
+
+396
+00:13:33,812 --> 00:13:36,815
+♪♪
+
+397
+00:13:42,280 --> 00:13:43,197
+[gasp]
+
+398
+00:13:44,073 --> 00:13:46,618
+Hey! What do you
+
+399
+00:13:44,073 --> 00:13:46,618
+think, Fluttershy?
+
+400
+00:13:46,660 --> 00:13:48,119
+I told you we'd be fast!
+
+401
+00:13:48,161 --> 00:13:50,371
+Almost finished with
+
+402
+00:13:48,161 --> 00:13:50,371
+the building already!
+
+403
+00:13:50,413 --> 00:13:53,124
+The color just pops,
+
+404
+00:13:50,413 --> 00:13:53,124
+you know?
+
+405
+00:13:53,166 --> 00:13:57,086
+Quite roomy inside,
+
+406
+00:13:53,166 --> 00:13:57,086
+really. And very safe!
+
+407
+00:13:57,128 --> 00:13:59,255
+Don't keep us
+
+408
+00:13:57,128 --> 00:13:59,255
+waiting, Fluttershy!
+
+409
+00:13:59,297 --> 00:14:02,801
+Do you love it or
+
+410
+00:13:59,297 --> 00:14:02,801
+do you love it?
+
+411
+00:14:02,841 --> 00:14:06,304
+I... I...
+
+412
+00:14:06,346 --> 00:14:10,891
+I don't love it. This is
+
+413
+00:14:06,346 --> 00:14:10,891
+not going to work at all!
+
+414
+00:14:10,933 --> 00:14:13,394
+A giraffe can't fit
+
+415
+00:14:10,933 --> 00:14:13,394
+through this door.
+
+416
+00:14:13,436 --> 00:14:15,188
+With these curtains
+
+417
+00:14:13,436 --> 00:14:15,188
+blocking the light,
+
+418
+00:14:15,229 --> 00:14:17,982
+how are the birds going
+
+419
+00:14:15,229 --> 00:14:17,982
+to sing in the sunshine?
+
+420
+00:14:18,024 --> 00:14:21,778
+And this is the
+
+421
+00:14:18,024 --> 00:14:21,778
+opposite of a nice hug!
+
+422
+00:14:21,820 --> 00:14:23,780
+I know you all
+
+423
+00:14:21,820 --> 00:14:23,780
+worked hard,
+
+424
+00:14:23,822 --> 00:14:26,741
+but none of you did
+
+425
+00:14:23,822 --> 00:14:26,741
+anything I asked for.
+
+426
+00:14:28,576 --> 00:14:32,789
+That's not true! We used the
+
+427
+00:14:28,576 --> 00:14:32,789
+trees just like you asked.
+
+428
+00:14:32,831 --> 00:14:35,249
+And that curtain
+
+429
+00:14:32,831 --> 00:14:35,249
+fabric is organic!
+
+430
+00:14:35,291 --> 00:14:37,502
+It's got
+
+431
+00:14:35,291 --> 00:14:37,502
+"natural" fibers.
+
+432
+00:14:37,544 --> 00:14:40,129
+And I added pillows
+
+433
+00:14:37,544 --> 00:14:40,129
+inside my cages!
+
+434
+00:14:40,171 --> 00:14:42,590
+That should count as
+
+435
+00:14:40,171 --> 00:14:42,590
+feelin' like a hug.
+
+436
+00:14:42,632 --> 00:14:45,301
+I may not know much
+
+437
+00:14:42,632 --> 00:14:45,301
+about construction,
+
+438
+00:14:45,343 --> 00:14:48,262
+or interior design,
+
+439
+00:14:45,343 --> 00:14:48,262
+or wrangling...
+
+440
+00:14:48,304 --> 00:14:53,727
+but I am an expert at one
+
+441
+00:14:48,304 --> 00:14:53,727
+thing: the care of animals.
+
+442
+00:14:53,768 --> 00:14:59,023
+And what animals need is
+
+443
+00:14:53,768 --> 00:14:59,023
+a sanctuary, not this!
+
+444
+00:14:59,065 --> 00:15:03,944
+Maybe your vision wasn't all it
+
+445
+00:14:59,065 --> 00:15:03,944
+was cracked up to be, you know?
+
+446
+00:15:03,986 --> 00:15:06,447
+My vision isn't
+
+447
+00:15:03,986 --> 00:15:06,447
+the problem here.
+
+448
+00:15:06,489 --> 00:15:09,325
+I told you all
+
+449
+00:15:06,489 --> 00:15:09,325
+exactly what I wanted
+
+450
+00:15:09,367 --> 00:15:11,786
+and none of you
+
+451
+00:15:09,367 --> 00:15:11,786
+listened to me.
+
+452
+00:15:11,828 --> 00:15:13,913
+So while I appreciate
+
+453
+00:15:11,828 --> 00:15:13,913
+your efforts,
+
+454
+00:15:13,954 --> 00:15:16,624
+I no longer require
+
+455
+00:15:13,954 --> 00:15:16,624
+your services.
+
+456
+00:15:16,666 --> 00:15:22,255
+♪♪
+
+457
+00:15:22,296 --> 00:15:26,967
+Hello! The animals have been
+
+458
+00:15:22,296 --> 00:15:26,967
+so excited for the sanctuary,
+
+459
+00:15:27,009 --> 00:15:30,971
+they couldn't wait any longer.
+
+460
+00:15:27,009 --> 00:15:30,971
+Can we take a look inside?
+
+461
+00:15:31,013 --> 00:15:34,975
+Oh, um actually,
+
+462
+00:15:31,013 --> 00:15:34,975
+it's uh, not ready and--
+
+463
+00:15:35,017 --> 00:15:35,935
+[gasp]
+
+464
+00:15:38,354 --> 00:15:39,313
+[bonk]
+
+465
+00:15:39,355 --> 00:15:42,233
+♪♪
+
+466
+00:15:42,275 --> 00:15:43,443
+[rip]
+
+467
+00:15:43,484 --> 00:15:44,778
+♪♪
+
+468
+00:15:44,819 --> 00:15:45,945
+[woodpecker pecking]
+
+469
+00:15:45,986 --> 00:15:46,946
+[bleat]
+
+470
+00:15:48,239 --> 00:15:48,989
+[slam]
+
+471
+00:15:49,031 --> 00:15:49,741
+[growl]
+
+472
+00:15:50,825 --> 00:15:51,868
+[crash]
+
+473
+00:15:53,828 --> 00:15:55,121
+Oh, no! Ahhh!
+
+474
+00:15:58,124 --> 00:16:00,334
+[creaking]
+
+475
+00:16:00,376 --> 00:16:02,545
+[crash]
+
+476
+00:16:02,962 --> 00:16:04,464
+[gasp]
+
+477
+00:16:04,505 --> 00:16:08,676
+♪♪
+
+478
+00:16:08,718 --> 00:16:11,095
+Oh, I'm so sorry,
+
+479
+00:16:08,718 --> 00:16:11,095
+Fluttershy.
+
+480
+00:16:11,137 --> 00:16:14,390
+No, I'm the one who
+
+481
+00:16:11,137 --> 00:16:14,390
+should be sorry.
+
+482
+00:16:14,432 --> 00:16:16,684
+This didn't go at all
+
+483
+00:16:14,432 --> 00:16:16,684
+like I had imagined.
+
+484
+00:16:21,481 --> 00:16:24,191
+♪♪
+
+485
+00:16:24,233 --> 00:16:26,653
+Sleep tight, little one.
+
+486
+00:16:27,570 --> 00:16:30,323
+It's going to be
+
+487
+00:16:27,570 --> 00:16:30,323
+OK, I promise.
+
+488
+00:16:30,364 --> 00:16:32,158
+[squeak squeak]
+
+489
+00:16:32,199 --> 00:16:35,202
+Now, now. Everymouse has
+
+490
+00:16:32,199 --> 00:16:35,202
+got to wait their turn.
+
+491
+00:16:38,331 --> 00:16:42,752
+I'm so sorry. I thought I'd
+
+492
+00:16:38,331 --> 00:16:42,752
+have a beautiful sanctuary
+
+493
+00:16:42,794 --> 00:16:44,921
+for you all to stay
+
+494
+00:16:42,794 --> 00:16:44,921
+in by now,
+
+495
+00:16:44,963 --> 00:16:47,841
+but I put my trust
+
+496
+00:16:44,963 --> 00:16:47,841
+in the wrong ponies.
+
+497
+00:16:47,882 --> 00:16:51,678
+It's OK, Fluttershy, I
+
+498
+00:16:47,882 --> 00:16:51,678
+know you did your best.
+
+499
+00:16:51,719 --> 00:16:57,224
+But we can make this work
+
+500
+00:16:51,719 --> 00:16:57,224
+here. It'll be a bit... tight,
+
+501
+00:16:57,266 --> 00:16:58,726
+but with your help,
+
+502
+00:16:58,768 --> 00:17:01,813
+we'll have these patients back
+
+503
+00:16:58,768 --> 00:17:01,813
+on their paws in no time.
+
+504
+00:17:01,855 --> 00:17:04,565
+Even without a sanctuary.
+
+505
+00:17:04,607 --> 00:17:06,818
+No!
+
+506
+00:17:06,860 --> 00:17:10,029
+I won't give up!
+
+507
+00:17:06,860 --> 00:17:10,029
+These animals need me
+
+508
+00:17:10,070 --> 00:17:13,115
+and I'm going to solve
+
+509
+00:17:10,070 --> 00:17:13,115
+this once and for all.
+
+510
+00:17:13,157 --> 00:17:15,451
+If this little lady can
+
+511
+00:17:13,157 --> 00:17:15,451
+crawl all the way here
+
+512
+00:17:15,493 --> 00:17:18,412
+from Western Equestria, I
+
+513
+00:17:15,493 --> 00:17:18,412
+can find a way to build her
+
+514
+00:17:18,454 --> 00:17:20,623
+a safe place to rest!
+
+515
+00:17:20,665 --> 00:17:23,626
+[noisy excitement]
+
+516
+00:17:23,668 --> 00:17:28,297
+[laughter]
+
+517
+00:17:28,339 --> 00:17:32,176
+Oops, everyone
+
+518
+00:17:28,339 --> 00:17:32,176
+back to sleep now.
+
+519
+00:17:32,218 --> 00:17:35,013
+Thanks for coming,
+
+520
+00:17:32,218 --> 00:17:35,013
+everypony. As you know,
+
+521
+00:17:35,054 --> 00:17:38,057
+building the sanctuary
+
+522
+00:17:35,054 --> 00:17:38,057
+didn't go quite as planned.
+
+523
+00:17:38,098 --> 00:17:39,851
+I know, right? Who'd
+
+524
+00:17:38,098 --> 00:17:39,851
+have guessed
+
+525
+00:17:39,893 --> 00:17:42,478
+that Hard Hat wouldn't
+
+526
+00:17:39,893 --> 00:17:42,478
+build whatever you want?
+
+527
+00:17:42,520 --> 00:17:44,438
+I never would have
+
+528
+00:17:42,520 --> 00:17:44,438
+invited Dandy to help
+
+529
+00:17:44,480 --> 00:17:47,107
+if I thought he'd
+
+530
+00:17:44,480 --> 00:17:47,107
+act in such a manner.
+
+531
+00:17:47,149 --> 00:17:49,736
+And Wrangler sure made
+
+532
+00:17:47,149 --> 00:17:49,736
+a fool outta me, too.
+
+533
+00:17:49,777 --> 00:17:51,529
+I'm sorry, Fluttershy.
+
+534
+00:17:51,571 --> 00:17:54,866
+It's OK. You were all
+
+535
+00:17:51,571 --> 00:17:54,866
+just trying to help.
+
+536
+00:17:54,908 --> 00:17:58,536
+But I know that letting all the
+
+537
+00:17:54,908 --> 00:17:58,536
+experts go was the right call.
+
+538
+00:17:58,578 --> 00:18:00,329
+So what are you going
+
+539
+00:17:58,578 --> 00:18:00,329
+to do now?
+
+540
+00:18:00,371 --> 00:18:01,873
+Try again.
+
+541
+00:18:01,915 --> 00:18:04,291
+I'm going to re-build
+
+542
+00:18:01,915 --> 00:18:04,291
+the sanctuary...
+
+543
+00:18:04,333 --> 00:18:06,335
+and do it my way this time.
+
+544
+00:18:06,377 --> 00:18:09,213
+Awesome!
+
+545
+00:18:06,377 --> 00:18:09,213
+That's the spirit!
+
+546
+00:18:06,377 --> 00:18:09,213
+You show 'em!
+
+547
+00:18:10,172 --> 00:18:11,758
+How about putting an
+
+548
+00:18:10,172 --> 00:18:11,758
+awesome flying course
+
+549
+00:18:11,799 --> 00:18:13,259
+for the birds right there?
+
+550
+00:18:13,300 --> 00:18:15,219
+And a carrot-cake
+
+551
+00:18:13,300 --> 00:18:15,219
+stand here!
+
+552
+00:18:15,261 --> 00:18:16,846
+A library cave?
+
+553
+00:18:16,888 --> 00:18:18,431
+Everypony, STOP!
+
+554
+00:18:20,683 --> 00:18:22,894
+I appreciate you
+
+555
+00:18:20,683 --> 00:18:22,894
+sharing your thoughts,
+
+556
+00:18:22,936 --> 00:18:25,980
+but I need everypony
+
+557
+00:18:22,936 --> 00:18:25,980
+to respect mine.
+
+558
+00:18:26,022 --> 00:18:28,649
+Other ponies may be
+
+559
+00:18:26,022 --> 00:18:28,649
+experts in their fields,
+
+560
+00:18:28,691 --> 00:18:31,861
+but animals are my
+
+561
+00:18:28,691 --> 00:18:31,861
+field of expertise.
+
+562
+00:18:31,903 --> 00:18:34,530
+And if I say this
+
+563
+00:18:31,903 --> 00:18:34,530
+is what I want...
+
+564
+00:18:34,572 --> 00:18:38,367
+Then this is what
+
+565
+00:18:34,572 --> 00:18:38,367
+needs to happen!
+
+566
+00:18:38,409 --> 00:18:41,079
+For the animals,
+
+567
+00:18:38,409 --> 00:18:41,079
+of course.
+
+568
+00:18:41,120 --> 00:18:44,206
+Wow, we should call
+
+569
+00:18:41,120 --> 00:18:44,206
+you Flutterbold now!
+
+570
+00:18:44,248 --> 00:18:47,209
+[laughter]
+
+571
+00:18:47,251 --> 00:18:50,088
+To get things back on
+
+572
+00:18:47,251 --> 00:18:50,088
+track, I called in a favor
+
+573
+00:18:50,129 --> 00:18:52,757
+from an old friend.
+
+574
+00:18:50,129 --> 00:18:52,757
+He'll be here any minute.
+
+575
+00:18:52,799 --> 00:18:55,969
+I thought you said
+
+576
+00:18:52,799 --> 00:18:55,969
+no more "experts."
+
+577
+00:18:56,010 --> 00:18:59,597
+This is one expert I know I can
+
+578
+00:18:56,010 --> 00:18:59,597
+trust to put the animals first.
+
+579
+00:18:59,639 --> 00:19:01,808
+Plus there's nopony
+
+580
+00:18:59,639 --> 00:19:01,808
+better at building.
+
+581
+00:19:01,849 --> 00:19:03,309
+[knocking at door]
+
+582
+00:19:05,103 --> 00:19:09,273
+Heh heh. I heard somepony
+
+583
+00:19:05,103 --> 00:19:09,273
+needs construction help
+
+584
+00:19:09,315 --> 00:19:11,150
+for them critters.
+
+585
+00:19:11,191 --> 00:19:12,485
+Big Daddy McColt!
+
+586
+00:19:14,528 --> 00:19:16,697
+We met each other back when the
+
+587
+00:19:14,528 --> 00:19:16,697
+map called me and Fluttershy
+
+588
+00:19:16,739 --> 00:19:18,699
+to the Smokey Mountains!
+
+589
+00:19:18,741 --> 00:19:21,535
+And he certainly knows his stuff
+
+590
+00:19:18,741 --> 00:19:21,535
+when it comes to buildings
+
+591
+00:19:21,577 --> 00:19:23,788
+and caring for animals.
+
+592
+00:19:23,830 --> 00:19:28,292
+Well, shucks, let's not stand
+
+593
+00:19:23,830 --> 00:19:28,292
+around talkin' about it.
+
+594
+00:19:28,334 --> 00:19:30,753
+Let's build us
+
+595
+00:19:28,334 --> 00:19:30,753
+a sanctuary!
+
+596
+00:19:30,795 --> 00:19:33,840
+[excited agreement]
+
+597
+00:19:33,881 --> 00:19:37,844
+♪ [bluegrass music] ♪
+
+598
+00:19:37,885 --> 00:19:42,932
+♪♪
+
+599
+00:20:23,263 --> 00:20:24,557
+Are you ready?
+
+600
+00:20:24,598 --> 00:20:28,936
+Oh, I'm more excited than
+
+601
+00:20:24,598 --> 00:20:28,936
+a beaver in a log pile!
+
+602
+00:20:28,978 --> 00:20:32,314
+OK. You can open your eyes!
+
+603
+00:20:32,356 --> 00:20:35,609
+Welcome to Sweetfeather
+
+604
+00:20:32,356 --> 00:20:35,609
+Sanctuary!
+
+605
+00:20:35,651 --> 00:20:39,238
+A safe and cozy retreat
+
+606
+00:20:35,651 --> 00:20:39,238
+for every creature.
+
+607
+00:20:39,279 --> 00:20:42,241
+♪♪
+
+608
+00:20:50,041 --> 00:20:54,336
+Oh, Fluttershy.
+
+609
+00:20:50,041 --> 00:20:54,336
+This is amazing!
+
+610
+00:20:54,378 --> 00:20:56,839
+Now you should have plenty
+
+611
+00:20:54,378 --> 00:20:56,839
+of room at the clinic
+
+612
+00:20:56,881 --> 00:20:59,884
+because once you've treated
+
+613
+00:20:56,881 --> 00:20:59,884
+them, they can recover here!
+
+614
+00:20:59,926 --> 00:21:01,635
+With my help, of course.
+
+615
+00:21:04,764 --> 00:21:08,101
+It's OK, Lola. We all
+
+616
+00:21:04,764 --> 00:21:08,101
+move at our own pace.
+
+617
+00:21:08,142 --> 00:21:11,187
+♪♪
+
+618
+00:21:11,229 --> 00:21:15,566
+Sometimes all we need to do
+
+619
+00:21:11,229 --> 00:21:15,566
+is believe in our dreams!
+
+620
+00:21:15,608 --> 00:21:17,902
+And when we finally
+
+621
+00:21:15,608 --> 00:21:17,902
+reach our goal...
+
+622
+00:21:17,944 --> 00:21:21,280
+we'll know that it was worth
+
+623
+00:21:17,944 --> 00:21:21,280
+what it took to get there.
+
+624
+00:21:21,321 --> 00:21:25,826
+Because the view will be even
+
+625
+00:21:21,321 --> 00:21:25,826
+better than you imagined.
+
+626
+00:21:25,868 --> 00:21:31,958
+♪♪
+
+627
+00:21:34,376 --> 00:21:36,754
+<i>♪ My Little Pony ♪</i>
+
+628
+00:21:38,631 --> 00:21:41,092
+<i>♪ My Little Pony ♪</i>
+
+629
+00:21:51,685 --> 00:21:53,896
+<i>♪ My Little Pony ♪</i>
+
+630
+00:21:53,938 --> 00:21:58,025
+<i>♪ friends ♪</i>
+

@@ -1,0 +1,2600 @@
+1
+00:00:03,000 --> 00:00:08,542
+OK. Library... library... Where
+
+2
+00:00:03,000 --> 00:00:08,542
+did they put the library?
+
+3
+00:00:14,375 --> 00:00:17,458
+[sigh] This Castle looked a
+
+4
+00:00:14,375 --> 00:00:17,458
+lot smaller from the outside.
+
+5
+00:00:21,583 --> 00:00:22,834
+Morning, Starlight.
+
+6
+00:00:22,875 --> 00:00:24,458
+Whoops!
+
+7
+00:00:24,500 --> 00:00:28,083
+Sorry, Spike! I guess I'm still
+
+8
+00:00:24,500 --> 00:00:28,083
+trying to find my way around.
+
+9
+00:00:28,125 --> 00:00:31,291
+You don't happen to know
+
+10
+00:00:28,125 --> 00:00:31,291
+where the library is, do you?
+
+11
+00:00:31,333 --> 00:00:32,375
+Next door on the left.
+
+12
+00:00:32,417 --> 00:00:33,875
+[slam]
+
+13
+00:00:33,917 --> 00:00:35,709
+Oh. Thanks.
+
+14
+00:00:36,166 --> 00:00:39,875
+Acceptance, mm-hmm,
+
+15
+00:00:36,166 --> 00:00:39,875
+Altruism, definitely.
+
+16
+00:00:39,917 --> 00:00:42,166
+Starlight! Good
+
+17
+00:00:39,917 --> 00:00:42,166
+morning! Come in!
+
+18
+00:00:42,208 --> 00:00:44,959
+Sorry I'm late. I got
+
+19
+00:00:42,208 --> 00:00:44,959
+a little turned around.
+
+20
+00:00:45,000 --> 00:00:47,750
+I still can't believe you're
+
+21
+00:00:45,000 --> 00:00:47,750
+letting me stay here.
+
+22
+00:00:47,792 --> 00:00:51,959
+As your pupil. After
+
+23
+00:00:47,792 --> 00:00:51,959
+everything I did.
+
+24
+00:00:52,000 --> 00:00:55,125
+Well, I'm not one to dwell on
+
+25
+00:00:52,000 --> 00:00:55,125
+the past and neither should you.
+
+26
+00:00:55,166 --> 00:00:59,166
+The castle is your home now and
+
+27
+00:00:55,166 --> 00:00:59,166
+as far as being my pupil goes...
+
+28
+00:00:59,208 --> 00:01:00,417
+I was just trying to figure out
+
+29
+00:01:00,458 --> 00:01:02,709
+what your first friendship
+
+30
+00:01:00,458 --> 00:01:02,709
+lesson should be!
+
+31
+00:01:02,750 --> 00:01:05,542
+Oh. Well, it looks like you're
+
+32
+00:01:02,750 --> 00:01:05,542
+really narrowing it down.
+
+33
+00:01:05,583 --> 00:01:08,750
+Oh, these are just the As. After
+
+34
+00:01:05,583 --> 00:01:08,750
+this, I move on to the Bs!
+
+35
+00:01:16,792 --> 00:01:20,166
+<i>♪ My little pony,</i>
+
+36
+00:01:16,792 --> 00:01:20,166
+<i>my little pony ♪</i>
+
+37
+00:01:20,208 --> 00:01:22,083
+<i>♪ Aaaahhh ♪</i>
+
+38
+00:01:22,125 --> 00:01:24,333
+<i>♪ My little Pony ♪</i>
+
+39
+00:01:24,375 --> 00:01:26,375
+<i>♪ I used to wonder what</i>
+
+40
+00:01:24,375 --> 00:01:26,375
+<i>friendship could be. ♪</i>
+
+41
+00:01:26,417 --> 00:01:28,250
+<i>♪ My Little Pony ♪</i>
+
+42
+00:01:28,291 --> 00:01:30,750
+<i>♪ Until you all shared</i>
+
+43
+00:01:28,291 --> 00:01:30,750
+<i>its magic with me. ♪</i>
+
+44
+00:01:30,792 --> 00:01:32,792
+<i>♪ Big adventure! </i>
+
+45
+00:01:30,792 --> 00:01:32,792
+<i>Tons of fun ♪</i>
+
+46
+00:01:32,834 --> 00:01:35,083
+<i>♪ A beautiful heart!  </i>
+
+47
+00:01:32,834 --> 00:01:35,083
+<i>Faithful and strong! ♪</i>
+
+48
+00:01:35,083 --> 00:01:37,166
+<i>♪ Sharing kindness </i>
+
+49
+00:01:35,083 --> 00:01:37,166
+<i>it's an easy feat ♪</i>
+
+50
+00:01:37,208 --> 00:01:39,166
+<i>♪ And magic makes it</i>
+
+51
+00:01:37,208 --> 00:01:39,166
+<i>all complete! ♪</i>
+
+52
+00:01:39,208 --> 00:01:41,333
+<i>♪ To have my little pony ♪</i>
+
+53
+00:01:41,375 --> 00:01:44,959
+<i>♪ Do you know you're all</i>
+
+54
+00:01:41,375 --> 00:01:44,959
+<i>my very best friends? ♪</i>
+
+55
+00:01:45,083 --> 00:01:47,208
+♪♪
+
+56
+00:01:53,583 --> 00:01:55,792
+Starlight: I know I'm just
+
+57
+00:01:53,583 --> 00:01:55,792
+learning about friendship,
+
+58
+00:01:55,834 --> 00:01:59,166
+but I didn't think there were
+
+59
+00:01:55,834 --> 00:01:59,166
+this many lessons for anything.
+
+60
+00:01:59,208 --> 00:02:00,875
+How do we choose?
+
+61
+00:02:00,917 --> 00:02:03,834
+Maybe I should pare things down
+
+62
+00:02:00,917 --> 00:02:03,834
+a bit before we go through them.
+
+63
+00:02:03,875 --> 00:02:06,083
+Why don't you join the
+
+64
+00:02:03,875 --> 00:02:06,083
+others in the throne room?
+
+65
+00:02:06,083 --> 00:02:08,083
+They're planning our trip
+
+66
+00:02:06,083 --> 00:02:08,083
+to the Crystal Empire
+
+67
+00:02:08,083 --> 00:02:11,083
+when Shining Armor and Princess
+
+68
+00:02:08,083 --> 00:02:11,083
+Cadance have their baby.
+
+69
+00:02:11,083 --> 00:02:12,125
+Throne room. Got it!
+
+70
+00:02:14,792 --> 00:02:17,375
+Um, which way is
+
+71
+00:02:14,792 --> 00:02:17,375
+the throne room?
+
+72
+00:02:17,417 --> 00:02:19,542
+[sigh]
+
+73
+00:02:19,583 --> 00:02:21,792
+Rainbow Dash: Well, I think
+
+74
+00:02:19,583 --> 00:02:21,792
+we should leave ASAP!
+
+75
+00:02:21,834 --> 00:02:23,583
+I don't want to miss
+
+76
+00:02:21,834 --> 00:02:23,583
+the Crystalling!
+
+77
+00:02:23,625 --> 00:02:26,792
+But, um, shouldn't we
+
+78
+00:02:23,625 --> 00:02:26,792
+wait for the invitation?
+
+79
+00:02:26,834 --> 00:02:29,417
+Frankly, I'm not exactly
+
+80
+00:02:26,834 --> 00:02:29,417
+clear on all the customs
+
+81
+00:02:29,458 --> 00:02:31,417
+and traditions of
+
+82
+00:02:29,458 --> 00:02:31,417
+the Crystal Empire.
+
+83
+00:02:31,458 --> 00:02:33,542
+Especially when it
+
+84
+00:02:31,458 --> 00:02:33,542
+comes to a Crystalling.
+
+85
+00:02:33,583 --> 00:02:35,208
+What's a Crystalling?
+
+86
+00:02:35,250 --> 00:02:37,500
+Well, that's just
+
+87
+00:02:35,250 --> 00:02:37,500
+it, Darling.
+
+88
+00:02:37,542 --> 00:02:40,667
+Princess Cadance and Shining
+
+89
+00:02:37,542 --> 00:02:40,667
+Armor's baby is due any day
+
+90
+00:02:40,709 --> 00:02:42,667
+and we're still not sure.
+
+91
+00:02:42,709 --> 00:02:46,083
+The Crystal Empire was
+
+92
+00:02:42,709 --> 00:02:46,083
+gone for a thousand years.
+
+93
+00:02:46,083 --> 00:02:49,083
+A lot of their customs
+
+94
+00:02:46,083 --> 00:02:49,083
+are a bit murky.
+
+95
+00:02:49,083 --> 00:02:51,375
+We know it's got something
+
+96
+00:02:49,083 --> 00:02:51,375
+to do with the new baby.
+
+97
+00:02:51,417 --> 00:02:52,500
+And a party!
+
+98
+00:02:52,542 --> 00:02:54,083
+And the Crystal Heart.
+
+99
+00:02:54,083 --> 00:02:55,250
+And a party!
+
+100
+00:02:55,291 --> 00:02:57,417
+And some kind of cool energy.
+
+101
+00:02:57,458 --> 00:02:58,792
+And...
+
+102
+00:02:58,834 --> 00:03:00,083
+A PARTY!
+
+103
+00:03:02,500 --> 00:03:04,625
+Spike: It's not
+
+104
+00:03:02,500 --> 00:03:04,625
+hard to understand.
+
+105
+00:03:04,667 --> 00:03:07,834
+Most things in the
+
+106
+00:03:04,667 --> 00:03:07,834
+Crystal Empire aren't.
+
+107
+00:03:07,875 --> 00:03:10,792
+Like how I'm a big hero
+
+108
+00:03:07,875 --> 00:03:10,792
+there, for example.
+
+109
+00:03:17,667 --> 00:03:18,667
+Plus, I've had to help Twilight
+
+110
+00:03:18,709 --> 00:03:20,417
+do a lot of research
+
+111
+00:03:18,709 --> 00:03:20,417
+on Crystallings.
+
+112
+00:03:21,792 --> 00:03:23,834
+Whenever a baby is born
+
+113
+00:03:21,792 --> 00:03:23,834
+in the Crystal Empire,
+
+114
+00:03:23,875 --> 00:03:26,458
+the parents bring it
+
+115
+00:03:23,875 --> 00:03:26,458
+before the Crystal Heart.
+
+116
+00:03:26,500 --> 00:03:29,083
+They get the purest shard
+
+117
+00:03:26,500 --> 00:03:29,083
+of crystal they can find,
+
+118
+00:03:29,083 --> 00:03:31,250
+then pick a Crystaller
+
+119
+00:03:29,083 --> 00:03:31,250
+to present the baby
+
+120
+00:03:31,291 --> 00:03:33,083
+to everypony who comes.
+
+121
+00:03:33,083 --> 00:03:35,959
+Then they all share the
+
+122
+00:03:33,083 --> 00:03:35,959
+light and joy they feel,
+
+123
+00:03:36,083 --> 00:03:38,625
+feeding it into the crystal
+
+124
+00:03:36,083 --> 00:03:38,625
+that joins with the Heart
+
+125
+00:03:38,667 --> 00:03:41,417
+and increases its power.
+
+126
+00:03:41,458 --> 00:03:43,709
+And this is going to
+
+127
+00:03:41,458 --> 00:03:43,709
+be a Royal Crystalling,
+
+128
+00:03:43,750 --> 00:03:45,792
+so pretty much the whole
+
+129
+00:03:43,750 --> 00:03:45,792
+Empire will show up.
+
+130
+00:03:45,834 --> 00:03:47,667
+That hasn't happened
+
+131
+00:03:45,834 --> 00:03:47,667
+in a millennia.
+
+132
+00:03:49,250 --> 00:03:52,083
+What do you mean it increases
+
+133
+00:03:49,250 --> 00:03:52,083
+the Crystal Heart's power?
+
+134
+00:03:52,083 --> 00:03:55,083
+The energy it uses to protect
+
+135
+00:03:52,083 --> 00:03:55,083
+the Crystal Empire, I guess.
+
+136
+00:03:55,083 --> 00:03:57,291
+Protect it from what?
+
+137
+00:03:57,333 --> 00:03:59,375
+I didn't help Twilight
+
+138
+00:03:57,333 --> 00:03:59,375
+with that part.
+
+139
+00:04:07,583 --> 00:04:09,375
+Hey, Twilight, can
+
+140
+00:04:07,583 --> 00:04:09,375
+I ask you something
+
+141
+00:04:09,417 --> 00:04:10,709
+about the Crystal Empire?
+
+142
+00:04:10,750 --> 00:04:13,083
+Ha! Funny you
+
+143
+00:04:10,750 --> 00:04:13,083
+should mention it...
+
+144
+00:04:13,083 --> 00:04:14,917
+Because I just narrowed your
+
+145
+00:04:13,083 --> 00:04:14,917
+first friendship lesson
+
+146
+00:04:14,959 --> 00:04:16,417
+down to three options.
+
+147
+00:04:16,458 --> 00:04:18,709
+And one of them is in
+
+148
+00:04:16,458 --> 00:04:18,709
+the Crystal Empire.
+
+149
+00:04:18,750 --> 00:04:20,291
+Really?
+
+150
+00:04:20,333 --> 00:04:22,083
+I found out that's
+
+151
+00:04:20,333 --> 00:04:22,083
+where the first pony
+
+152
+00:04:22,083 --> 00:04:23,667
+you ever cared about lives!
+
+153
+00:04:23,709 --> 00:04:24,709
+Sunburst?
+
+154
+00:04:24,750 --> 00:04:26,917
+Of course that's just one idea.
+
+155
+00:04:26,959 --> 00:04:28,917
+We could also go to
+
+156
+00:04:26,959 --> 00:04:28,917
+Griffinstone.[voice fades]
+
+157
+00:04:28,959 --> 00:04:31,709
+<i>Making friends with a Griffin</i>
+
+158
+00:04:28,959 --> 00:04:31,709
+<i>is a challenge all by itself.</i>
+
+159
+00:04:31,750 --> 00:04:33,667
+<i>Or we could tag</i>
+
+160
+00:04:31,750 --> 00:04:33,667
+<i>along with the CMCs</i>
+
+161
+00:04:33,709 --> 00:04:36,959
+<i>the next time they help a</i>
+
+162
+00:04:33,709 --> 00:04:36,959
+<i>pony who can't figure out</i>
+
+163
+00:04:37,083 --> 00:04:39,750
+Starlight, is something wrong?
+
+164
+00:04:39,792 --> 00:04:43,542
+What? Oh, no. Those
+
+165
+00:04:39,792 --> 00:04:43,542
+all sound great.
+
+166
+00:04:43,583 --> 00:04:45,291
+I know! I guess you
+
+167
+00:04:43,583 --> 00:04:45,291
+were right.
+
+168
+00:04:45,333 --> 00:04:47,458
+It is going to be
+
+169
+00:04:45,333 --> 00:04:47,458
+hard to choose one.
+
+170
+00:04:47,500 --> 00:04:49,750
+[nervous laugh]
+
+171
+00:04:49,792 --> 00:04:50,625
+Yeah.
+
+172
+00:04:53,500 --> 00:04:54,709
+[crash]
+
+173
+00:04:57,250 --> 00:04:58,083
+[slam]
+
+174
+00:05:03,417 --> 00:05:07,166
+Ugh! I am never going to find
+
+175
+00:05:03,417 --> 00:05:07,166
+my way around this place!
+
+176
+00:05:07,208 --> 00:05:09,125
+Gee, Starlight, what's wrong?
+
+177
+00:05:09,166 --> 00:05:10,709
+I don't know, Spike.
+
+178
+00:05:10,750 --> 00:05:13,750
+Twilight's figuring out what
+
+179
+00:05:10,750 --> 00:05:13,750
+my first friendship lesson is
+
+180
+00:05:13,792 --> 00:05:17,166
+and I guess I'm not exactly
+
+181
+00:05:13,792 --> 00:05:17,166
+thrilled with the options.
+
+182
+00:05:17,208 --> 00:05:19,792
+Well, with one of them.
+
+183
+00:05:19,834 --> 00:05:20,959
+Which one?
+
+184
+00:05:21,083 --> 00:05:24,375
+Reuniting me with
+
+185
+00:05:21,083 --> 00:05:24,375
+my first friend.
+
+186
+00:05:24,417 --> 00:05:25,959
+What's so terrible about that?
+
+187
+00:05:27,458 --> 00:05:28,750
+[sigh]
+
+188
+00:05:31,083 --> 00:05:32,542
+<i>When we were foals,</i>
+
+189
+00:05:32,583 --> 00:05:35,083
+<i>Sunburst knew everything there</i>
+
+190
+00:05:32,583 --> 00:05:35,083
+<i>was to know about magic.</i>
+
+191
+00:05:45,458 --> 00:05:47,083
+<i>He always knew just what to do.</i>
+
+192
+00:05:51,250 --> 00:05:53,542
+[bubbles]
+
+193
+00:05:55,917 --> 00:05:58,875
+<i>And he was always</i>
+
+194
+00:05:55,917 --> 00:05:58,875
+<i>there to help me.</i>
+
+195
+00:05:58,917 --> 00:06:01,667
+[whoosh]
+
+196
+00:06:08,625 --> 00:06:11,542
+<i>I guess it's not surprising that</i>
+
+197
+00:06:08,625 --> 00:06:11,542
+<i>Sunburst got his cutie mark</i>
+
+198
+00:06:11,583 --> 00:06:15,542
+<i>in magic and went off to</i>
+
+199
+00:06:11,583 --> 00:06:15,542
+<i>Princess Celestia's school.</i>
+
+200
+00:06:15,583 --> 00:06:17,583
+<i>But when he left...</i>
+
+201
+00:06:17,625 --> 00:06:19,083
+You blamed cutie marks and
+
+202
+00:06:17,625 --> 00:06:19,083
+stripped a whole village
+
+203
+00:06:19,125 --> 00:06:21,083
+of theirs and when Twilight
+
+204
+00:06:19,125 --> 00:06:21,083
+and the others stopped you,
+
+205
+00:06:21,083 --> 00:06:23,750
+you went back in time and
+
+206
+00:06:21,083 --> 00:06:23,750
+almost destroyed Equestria.
+
+207
+00:06:23,792 --> 00:06:24,625
+[poof]
+
+208
+00:06:26,125 --> 00:06:28,083
+Not really stuff I'm super
+
+209
+00:06:26,125 --> 00:06:28,083
+eager to tell Sunburst about.
+
+210
+00:06:28,083 --> 00:06:32,083
+I mean, he's probably some
+
+211
+00:06:28,083 --> 00:06:32,083
+big, important wizard now
+
+212
+00:06:32,083 --> 00:06:36,083
+and I can't even find my way
+
+213
+00:06:32,083 --> 00:06:36,083
+around Twilight's Castle.
+
+214
+00:06:36,083 --> 00:06:38,625
+Well, if Sunburst is
+
+215
+00:06:36,083 --> 00:06:38,625
+that good at magic,
+
+216
+00:06:38,667 --> 00:06:41,750
+maybe he'd appreciate
+
+217
+00:06:38,667 --> 00:06:41,750
+your [ahem] exploits.
+
+218
+00:06:43,583 --> 00:06:45,083
+You should talk to
+
+219
+00:06:43,583 --> 00:06:45,083
+Twilight about it.
+
+220
+00:06:45,125 --> 00:06:47,834
+I'm sure she'd want to
+
+221
+00:06:45,125 --> 00:06:47,834
+hear what you have to say.
+
+222
+00:06:47,875 --> 00:06:51,583
+I know, but I don't want her to
+
+223
+00:06:47,875 --> 00:06:51,583
+think I'm not ready to learn
+
+224
+00:06:51,625 --> 00:06:54,375
+or that I'm not grateful
+
+225
+00:06:51,625 --> 00:06:54,375
+for everything she's doing.
+
+226
+00:06:54,417 --> 00:06:56,583
+Twilight: SPIKE! COME QUICK!
+
+227
+00:06:56,625 --> 00:07:01,875
+[whistling wind]
+
+228
+00:07:01,917 --> 00:07:06,834
+♪♪
+
+229
+00:07:06,875 --> 00:07:08,834
+It's a Crystalling invitation!
+
+230
+00:07:08,875 --> 00:07:13,083
+Shining Armor's a
+
+231
+00:07:08,875 --> 00:07:13,083
+father! I'm an Aunt!
+
+232
+00:07:13,125 --> 00:07:14,458
+Well, this settles it.
+
+233
+00:07:14,500 --> 00:07:16,250
+Since we're going to
+
+234
+00:07:14,500 --> 00:07:16,250
+the Crystal Empire,
+
+235
+00:07:16,291 --> 00:07:19,250
+your first friendship
+
+236
+00:07:16,291 --> 00:07:19,250
+lesson is going to be...
+
+237
+00:07:19,291 --> 00:07:22,250
+reuniting with Sunburst!
+
+238
+00:07:22,291 --> 00:07:23,750
+Great.
+
+239
+00:07:28,417 --> 00:07:31,166
+[train chugging and whistle]
+
+240
+00:07:37,959 --> 00:07:41,333
+[yawn]
+
+241
+00:07:41,375 --> 00:07:44,333
+Um, Applejack, what is that?
+
+242
+00:07:44,375 --> 00:07:46,542
+Oh, just a little
+
+243
+00:07:44,375 --> 00:07:46,542
+something for the young'un.
+
+244
+00:07:48,208 --> 00:07:51,375
+Made from genuine Sweet
+
+245
+00:07:48,208 --> 00:07:51,375
+Apple Acres apple trees.
+
+246
+00:07:51,417 --> 00:07:52,917
+We make 'em for all the Apples
+
+247
+00:07:52,959 --> 00:07:57,208
+and anypony related to Twilight
+
+248
+00:07:52,959 --> 00:07:57,208
+is practically family.
+
+249
+00:07:57,250 --> 00:08:03,583
+Yeah. It's OK, but it's no
+
+250
+00:07:57,250 --> 00:08:03,583
+Cloudsdale Mobile...BAM!
+
+251
+00:08:03,625 --> 00:08:05,917
+Oooh! Pretty!
+
+252
+00:08:08,333 --> 00:08:10,583
+Well, a mobile is real nice...
+
+253
+00:08:10,625 --> 00:08:14,250
+as long as you have something to
+
+254
+00:08:10,625 --> 00:08:14,250
+lay in so you can look at it.
+
+255
+00:08:14,291 --> 00:08:17,875
+And a fetching blanket
+
+256
+00:08:14,291 --> 00:08:17,875
+to keep you warm.
+
+257
+00:08:17,917 --> 00:08:20,083
+I'm sure Shining Armor
+
+258
+00:08:17,917 --> 00:08:20,083
+and Princess Cadance
+
+259
+00:08:20,125 --> 00:08:22,792
+will love all our gifts, but
+
+260
+00:08:20,125 --> 00:08:22,792
+I think they're more happy
+
+261
+00:08:22,834 --> 00:08:25,291
+we'll be attending the
+
+262
+00:08:22,834 --> 00:08:25,291
+baby's Crystalling.
+
+263
+00:08:25,333 --> 00:08:27,458
+Ooh! I can't wait to see
+
+264
+00:08:25,333 --> 00:08:27,458
+all that light and love
+
+265
+00:08:27,500 --> 00:08:30,542
+make the Crystal Heart even
+
+266
+00:08:27,500 --> 00:08:30,542
+more sparkly and shiny!
+
+267
+00:08:30,583 --> 00:08:32,583
+Actually, Pinkie,
+
+268
+00:08:30,583 --> 00:08:32,583
+the Crystal Heart
+
+269
+00:08:32,625 --> 00:08:34,500
+is an ancient and
+
+270
+00:08:32,625 --> 00:08:34,500
+powerful relic.
+
+271
+00:08:34,542 --> 00:08:36,667
+Without its magic, the
+
+272
+00:08:34,542 --> 00:08:36,667
+Crystal Empire would be lost
+
+273
+00:08:36,709 --> 00:08:38,250
+to the Frozen North.
+
+274
+00:08:38,291 --> 00:08:42,542
+Wow. This Crystalling
+
+275
+00:08:38,291 --> 00:08:42,542
+sounds pretty important.
+
+276
+00:08:42,583 --> 00:08:45,792
+I'd understand if you
+
+277
+00:08:42,583 --> 00:08:45,792
+wanted to, you know,
+
+278
+00:08:45,834 --> 00:08:48,625
+wait to do a different
+
+279
+00:08:45,834 --> 00:08:48,625
+friendship lesson
+
+280
+00:08:48,667 --> 00:08:50,083
+when we get back.
+
+281
+00:08:50,083 --> 00:08:52,542
+Are you kidding?
+
+282
+00:08:50,083 --> 00:08:52,542
+This trip is perfect.
+
+283
+00:08:52,583 --> 00:08:55,500
+Not only do I get to see the
+
+284
+00:08:52,583 --> 00:08:55,500
+baby and take part in a ceremony
+
+285
+00:08:55,542 --> 00:08:57,917
+that helps maintain the
+
+286
+00:08:55,542 --> 00:08:57,917
+magic of the Crystal Empire,
+
+287
+00:08:57,959 --> 00:08:59,667
+but I'm starting
+
+288
+00:08:57,959 --> 00:08:59,667
+my new pupil off
+
+289
+00:08:59,709 --> 00:09:04,667
+with the most amazing friendship
+
+290
+00:08:59,709 --> 00:09:04,667
+lesson ever. I can't wait!
+
+291
+00:09:04,709 --> 00:09:07,375
+Right. Me neither.
+
+292
+00:09:11,208 --> 00:09:14,083
+Actually, Twilight,
+
+293
+00:09:11,208 --> 00:09:14,083
+I am a little worried
+
+294
+00:09:14,083 --> 00:09:16,125
+about meeting Sunburst.
+
+295
+00:09:16,166 --> 00:09:19,291
+Oh, trust me, I know what
+
+296
+00:09:16,166 --> 00:09:19,291
+it's like to see old friends,
+
+297
+00:09:19,333 --> 00:09:21,542
+but I'll be right there
+
+298
+00:09:19,333 --> 00:09:21,542
+to help things along.
+
+299
+00:09:21,583 --> 00:09:24,166
+I've broken the whole lesson
+
+300
+00:09:21,583 --> 00:09:24,166
+down into a few easy steps
+
+301
+00:09:24,208 --> 00:09:26,750
+to ensure this reunion
+
+302
+00:09:24,208 --> 00:09:26,750
+goes off without a hitch.
+
+303
+00:09:26,792 --> 00:09:28,709
+[nervous giggle]
+
+304
+00:09:28,750 --> 00:09:31,583
+[clattering train wheels]
+
+305
+00:09:31,625 --> 00:09:33,083
+[squeaking brakes]
+
+306
+00:09:34,959 --> 00:09:37,667
+Step one, head to Sunburst's
+
+307
+00:09:34,959 --> 00:09:37,667
+house and get you two started
+
+308
+00:09:37,709 --> 00:09:39,250
+on the right hoof.
+
+309
+00:09:39,291 --> 00:09:41,959
+Step two, get to the Castle with
+
+310
+00:09:39,291 --> 00:09:41,959
+enough time to visit the baby.
+
+311
+00:09:43,083 --> 00:09:44,542
+[gasp] Shining Armor!
+
+312
+00:09:44,583 --> 00:09:46,750
+Twilight!
+
+313
+00:09:46,792 --> 00:09:48,834
+I didn't know you
+
+314
+00:09:46,792 --> 00:09:48,834
+were meeting us.
+
+315
+00:09:48,875 --> 00:09:52,458
+Of course I am. It's me.
+
+316
+00:09:48,875 --> 00:09:52,458
+Right here. Here I am.
+
+317
+00:09:52,500 --> 00:09:54,542
+Why wouldn't I come
+
+318
+00:09:52,500 --> 00:09:54,542
+meet my sister?
+
+319
+00:09:54,583 --> 00:09:57,375
+Though we have met before.
+
+320
+00:09:57,417 --> 00:09:58,750
+Are you all right?
+
+321
+00:09:58,792 --> 00:10:01,959
+Never better! Being a father
+
+322
+00:09:58,792 --> 00:10:01,959
+is amazing and wonderful
+
+323
+00:10:02,000 --> 00:10:05,291
+and amazing and
+
+324
+00:10:02,000 --> 00:10:05,291
+confusing and amazing...
+
+325
+00:10:05,333 --> 00:10:07,583
+But surprising too, you know?
+
+326
+00:10:07,625 --> 00:10:11,041
+I mean, not that you'd know. You
+
+327
+00:10:07,625 --> 00:10:11,041
+wouldn't know, I know. You know?
+
+328
+00:10:13,000 --> 00:10:16,875
+Sorry. I haven't really slept
+
+329
+00:10:13,000 --> 00:10:16,875
+since Cadance had the baby.
+
+330
+00:10:16,917 --> 00:10:20,000
+Come to think of it,
+
+331
+00:10:16,917 --> 00:10:20,000
+she hasn't either.
+
+332
+00:10:20,041 --> 00:10:22,000
+It sure would be
+
+333
+00:10:20,041 --> 00:10:22,000
+great to get a break.
+
+334
+00:10:22,041 --> 00:10:25,542
+Oh. Of course. I don't
+
+335
+00:10:22,041 --> 00:10:25,542
+know what I was thinking.
+
+336
+00:10:25,583 --> 00:10:27,959
+You two probably need
+
+337
+00:10:25,583 --> 00:10:27,959
+all kinds of help!
+
+338
+00:10:28,000 --> 00:10:30,417
+I'm sorry, Starlight,
+
+339
+00:10:28,000 --> 00:10:30,417
+but I guess combining
+
+340
+00:10:30,458 --> 00:10:33,875
+your first lesson with this
+
+341
+00:10:30,458 --> 00:10:33,875
+visit wasn't such a good idea.
+
+342
+00:10:33,917 --> 00:10:37,583
+Oh, don't be ridiculous!
+
+343
+00:10:33,917 --> 00:10:37,583
+You're an aunt now.
+
+344
+00:10:37,625 --> 00:10:42,208
+That's way more important
+
+345
+00:10:37,625 --> 00:10:42,208
+than some friendship lesson.
+
+346
+00:10:42,250 --> 00:10:44,458
+I just wish there
+
+347
+00:10:42,250 --> 00:10:44,458
+was a way to do both.
+
+348
+00:10:46,041 --> 00:10:48,625
+Maybe there is.
+
+349
+00:10:48,667 --> 00:10:50,542
+You've already done the
+
+350
+00:10:48,667 --> 00:10:50,542
+work for Starlight's lesson
+
+351
+00:10:50,583 --> 00:10:51,792
+with this list.
+
+352
+00:10:51,834 --> 00:10:53,709
+All we have to do is follow it.
+
+353
+00:10:53,750 --> 00:10:56,417
+Spike, you're a genius!
+
+354
+00:10:56,458 --> 00:10:59,625
+Yeah. Genius.
+
+355
+00:10:59,667 --> 00:11:01,125
+Then it's settled.
+
+356
+00:11:01,166 --> 00:11:03,333
+Shining Armor and I will
+
+357
+00:11:01,166 --> 00:11:03,333
+head straight to the castle
+
+358
+00:11:03,375 --> 00:11:05,750
+and you two can head
+
+359
+00:11:03,375 --> 00:11:05,750
+straight to Sunburst's.
+
+360
+00:11:05,792 --> 00:11:07,083
+Aye, aye, princess.
+
+361
+00:11:11,333 --> 00:11:12,583
+All right, big brother.
+
+362
+00:11:12,625 --> 00:11:15,417
+Let's go see this
+
+363
+00:11:12,625 --> 00:11:15,417
+amazing baby pony.
+
+364
+00:11:15,458 --> 00:11:19,166
+[snoring]
+
+365
+00:11:22,291 --> 00:11:24,166
+I know you're a little
+
+366
+00:11:22,291 --> 00:11:24,166
+worried about this reunion,
+
+367
+00:11:24,208 --> 00:11:26,709
+but I'm sure Twilight's
+
+368
+00:11:24,208 --> 00:11:26,709
+got everything covered.
+
+369
+00:11:26,750 --> 00:11:31,291
+Everything except how I'd rather
+
+370
+00:11:26,750 --> 00:11:31,291
+do absolutely anything else.
+
+371
+00:11:31,333 --> 00:11:33,709
+I bet she's taken
+
+372
+00:11:31,333 --> 00:11:33,709
+that into account too.
+
+373
+00:11:33,750 --> 00:11:37,875
+It's all part of the
+
+374
+00:11:33,750 --> 00:11:37,875
+lesson. Trust the lesson.
+
+375
+00:11:37,917 --> 00:11:39,333
+Right.
+
+376
+00:11:43,083 --> 00:11:46,083
+Hey, is that you?
+
+377
+00:11:46,083 --> 00:11:48,709
+Oh. Yep. It sure is.
+
+378
+00:11:48,750 --> 00:11:51,500
+Now... according to the
+
+379
+00:11:48,750 --> 00:11:51,500
+list, Sunburst's house is--
+
+380
+00:11:51,542 --> 00:11:54,667
+Why is there a statue of
+
+381
+00:11:51,542 --> 00:11:54,667
+you in the Crystal Empire?
+
+382
+00:11:54,709 --> 00:11:57,083
+Because Spike, the
+
+383
+00:11:54,709 --> 00:11:57,083
+brave and glorious,
+
+384
+00:11:57,125 --> 00:11:59,667
+saved all of us
+
+385
+00:11:57,125 --> 00:11:59,667
+from King Sombra.
+
+386
+00:11:59,709 --> 00:12:02,375
+And then again during
+
+387
+00:11:59,709 --> 00:12:02,375
+the Equestria Games.
+
+388
+00:12:02,417 --> 00:12:03,417
+Really?
+
+389
+00:12:03,458 --> 00:12:05,083
+Really! Big fan.
+
+390
+00:12:06,583 --> 00:12:09,083
+Um, when were you going
+
+391
+00:12:06,583 --> 00:12:09,083
+to tell me about this?
+
+392
+00:12:09,083 --> 00:12:11,667
+Oh, it's no big deal.
+
+393
+00:12:11,709 --> 00:12:13,834
+IT MOST CERTAINLY IS!
+
+394
+00:12:14,667 --> 00:12:16,500
+That's it.
+
+395
+00:12:16,542 --> 00:12:19,583
+We're not going anywhere
+
+396
+00:12:16,542 --> 00:12:19,583
+until I get the whole story.
+
+397
+00:12:24,917 --> 00:12:28,667
+Before we go in, I should
+
+398
+00:12:24,917 --> 00:12:28,667
+probably tell you,
+
+399
+00:12:28,709 --> 00:12:32,083
+seeing the baby might
+
+400
+00:12:28,709 --> 00:12:32,083
+be a bit of a shock.
+
+401
+00:12:32,083 --> 00:12:35,125
+Come on, big brother,
+
+402
+00:12:32,083 --> 00:12:35,125
+I've met babies before.
+
+403
+00:12:35,166 --> 00:12:37,542
+I expect meeting this one
+
+404
+00:12:35,166 --> 00:12:37,542
+won't be any different.
+
+405
+00:12:41,500 --> 00:12:42,750
+[gasp]
+
+406
+00:12:42,792 --> 00:12:45,250
+[cooing]
+
+407
+00:12:45,291 --> 00:12:47,750
+Of course, I could be wrong.
+
+408
+00:12:51,083 --> 00:12:52,875
+♪♪
+
+409
+00:12:52,917 --> 00:12:55,375
+[cooing]
+
+410
+00:12:55,417 --> 00:12:57,834
+The baby is an Alicorn?
+
+411
+00:12:57,875 --> 00:12:59,875
+It looks that way.
+
+412
+00:12:59,917 --> 00:13:02,875
+But I thought Alicorn
+
+413
+00:12:59,917 --> 00:13:02,875
+wings had to be earned
+
+414
+00:13:02,917 --> 00:13:06,458
+by accomplishing some great
+
+415
+00:13:02,917 --> 00:13:06,458
+princess-worthy deed.
+
+416
+00:13:06,500 --> 00:13:09,166
+Yeah, how can you just
+
+417
+00:13:06,500 --> 00:13:09,166
+be born with them?
+
+418
+00:13:09,208 --> 00:13:10,542
+The birth of an Alicorn
+
+419
+00:13:10,583 --> 00:13:13,250
+is something Equestria
+
+420
+00:13:10,583 --> 00:13:13,250
+has never seen.
+
+421
+00:13:13,291 --> 00:13:15,750
+It is beyond even
+
+422
+00:13:13,291 --> 00:13:15,750
+our understanding.
+
+423
+00:13:15,792 --> 00:13:18,083
+That's not very reassuring.
+
+424
+00:13:18,083 --> 00:13:20,667
+Wow, a unicorn and a Pegasus!
+
+425
+00:13:20,709 --> 00:13:25,083
+So, she could be a super strong
+
+426
+00:13:20,709 --> 00:13:25,083
+flyer and have crazy baby magic.
+
+427
+00:13:25,083 --> 00:13:28,083
+Well, I know all about
+
+428
+00:13:25,083 --> 00:13:28,083
+super strong flying.
+
+429
+00:13:28,083 --> 00:13:30,834
+And I can help keep
+
+430
+00:13:28,083 --> 00:13:30,834
+tabs on her magic.
+
+431
+00:13:30,875 --> 00:13:33,709
+[starting to sneeze]
+
+432
+00:13:33,750 --> 00:13:34,917
+[achoo/crash]
+
+433
+00:13:43,583 --> 00:13:45,834
+It appears her magic
+
+434
+00:13:43,583 --> 00:13:45,834
+is more powerful
+
+435
+00:13:45,875 --> 00:13:47,792
+than that of a newborn unicorn.
+
+436
+00:13:47,834 --> 00:13:49,792
+The crowds have already
+
+437
+00:13:47,834 --> 00:13:49,792
+started to gather.
+
+438
+00:13:52,417 --> 00:13:54,959
+This Crystalling is
+
+439
+00:13:52,417 --> 00:13:54,959
+gonna be some party!
+
+440
+00:13:55,083 --> 00:13:55,917
+[pop]
+
+441
+00:13:57,083 --> 00:13:59,083
+Do you think we
+
+442
+00:13:57,083 --> 00:13:59,083
+should call it off?
+
+443
+00:13:59,125 --> 00:14:03,291
+Um, we've all faced a lot
+
+444
+00:13:59,125 --> 00:14:03,291
+worse than baby magic.
+
+445
+00:14:03,333 --> 00:14:04,750
+I can't imagine cancelling
+
+446
+00:14:04,792 --> 00:14:06,750
+such a beautiful and
+
+447
+00:14:04,792 --> 00:14:06,750
+important ceremony
+
+448
+00:14:06,792 --> 00:14:09,625
+over something so
+
+449
+00:14:06,792 --> 00:14:09,625
+potentially adorable.
+
+450
+00:14:09,667 --> 00:14:12,125
+Yeah! Of course! Come on!
+
+451
+00:14:12,166 --> 00:14:14,375
+In light of the little
+
+452
+00:14:12,166 --> 00:14:14,375
+one's abilities,
+
+453
+00:14:14,417 --> 00:14:17,625
+this Crystalling might be
+
+454
+00:14:14,417 --> 00:14:17,625
+more important than ever.
+
+455
+00:14:17,667 --> 00:14:19,667
+Perhaps you should
+
+456
+00:14:17,667 --> 00:14:19,667
+address your subjects
+
+457
+00:14:19,709 --> 00:14:20,959
+and remind them of that.
+
+458
+00:14:28,083 --> 00:14:29,750
+[snoring]
+
+459
+00:14:29,792 --> 00:14:31,750
+Shining Armor, do you
+
+460
+00:14:29,792 --> 00:14:31,750
+have everything you need
+
+461
+00:14:31,792 --> 00:14:33,583
+for the ceremony?
+
+462
+00:14:33,625 --> 00:14:37,750
+Huh? Oh! NO! I still have to
+
+463
+00:14:33,625 --> 00:14:37,750
+interview the Honor Guards,
+
+464
+00:14:37,792 --> 00:14:40,250
+chose the Purity Crystal
+
+465
+00:14:37,792 --> 00:14:40,250
+and pick a Crystaller!
+
+466
+00:14:42,333 --> 00:14:43,792
+All right. Take it easy.
+
+467
+00:14:43,834 --> 00:14:46,500
+Pinkie can stay here with me
+
+468
+00:14:43,834 --> 00:14:46,500
+and keep an eye on the baby.
+
+469
+00:14:48,834 --> 00:14:51,959
+And we'll all help you
+
+470
+00:14:48,834 --> 00:14:51,959
+with everything else.
+
+471
+00:14:52,083 --> 00:14:55,792
+[snoring and muttering]
+
+472
+00:14:55,834 --> 00:14:58,625
+That is if you can stay awake
+
+473
+00:14:55,834 --> 00:14:58,625
+long enough to tell us how.
+
+474
+00:15:00,250 --> 00:15:01,792
+And that's how we found
+
+475
+00:15:00,250 --> 00:15:01,792
+the Crystal Heart,
+
+476
+00:15:01,834 --> 00:15:04,834
+defeated King Sombra
+
+477
+00:15:01,834 --> 00:15:04,834
+and saved the Empire.
+
+478
+00:15:04,875 --> 00:15:07,667
+Yay! We love you, Spike! Yeah!
+
+479
+00:15:07,709 --> 00:15:10,583
+Tell the one about
+
+480
+00:15:07,709 --> 00:15:10,583
+the Equestria Games!
+
+481
+00:15:10,625 --> 00:15:14,208
+Well, as much as I love
+
+482
+00:15:10,625 --> 00:15:14,208
+reliving my heroic deeds,
+
+483
+00:15:14,250 --> 00:15:16,583
+Starlight and I have an
+
+484
+00:15:14,250 --> 00:15:16,583
+important lesson to do
+
+485
+00:15:16,625 --> 00:15:19,083
+by order of the
+
+486
+00:15:16,625 --> 00:15:19,083
+Princess of Friendship.
+
+487
+00:15:19,083 --> 00:15:20,792
+AWWWWW!
+
+488
+00:15:20,834 --> 00:15:25,291
+Oh, come on, Spike. I want to
+
+489
+00:15:20,834 --> 00:15:25,291
+hear about the Games, too.
+
+490
+00:15:25,333 --> 00:15:27,500
+I know you're nervous
+
+491
+00:15:25,333 --> 00:15:27,500
+about seeing Sunburst,
+
+492
+00:15:27,542 --> 00:15:29,792
+but it says right
+
+493
+00:15:27,542 --> 00:15:29,792
+in step three to,
+
+494
+00:15:29,834 --> 00:15:33,583
+"deal with your fears by facing
+
+495
+00:15:29,834 --> 00:15:33,583
+them," not by putting it off.
+
+496
+00:15:34,875 --> 00:15:38,083
+Ugh. Let's go get
+
+497
+00:15:34,875 --> 00:15:38,083
+this over with.
+
+498
+00:15:38,083 --> 00:15:44,083
+<i>♪ [tense music] </i>
+
+499
+00:15:44,083 --> 00:15:45,083
+Wait!
+
+500
+00:15:45,083 --> 00:15:46,500
+What?
+
+501
+00:15:46,542 --> 00:15:48,834
+Knocking on the door isn't
+
+502
+00:15:46,542 --> 00:15:48,834
+the next thing on the list.
+
+503
+00:15:48,875 --> 00:15:50,083
+Seriously?
+
+504
+00:15:50,083 --> 00:15:52,083
+I know Twilight can
+
+505
+00:15:50,083 --> 00:15:52,083
+be a little nitpicky,
+
+506
+00:15:52,083 --> 00:15:54,083
+but this is your first
+
+507
+00:15:52,083 --> 00:15:54,083
+lesson as her pupil
+
+508
+00:15:54,083 --> 00:15:56,917
+and it's important
+
+509
+00:15:54,083 --> 00:15:56,917
+that we do it right.
+
+510
+00:15:56,959 --> 00:16:00,625
+Fine. What's the next
+
+511
+00:15:56,959 --> 00:16:00,625
+thing on the list?
+
+512
+00:16:00,667 --> 00:16:04,083
+"Before they see each other,
+
+513
+00:16:00,667 --> 00:16:04,083
+make sure to highlight
+
+514
+00:16:04,083 --> 00:16:06,083
+the importance of the meeting."
+
+515
+00:16:06,083 --> 00:16:08,417
+I don't know.  I'm pretty sure
+
+516
+00:16:06,083 --> 00:16:08,417
+we can skip that.
+
+517
+00:16:08,458 --> 00:16:09,875
+I don't know.
+
+518
+00:16:09,917 --> 00:16:12,208
+I mean, if we skip it, the
+
+519
+00:16:09,917 --> 00:16:12,208
+whole lesson could go south.
+
+520
+00:16:12,250 --> 00:16:14,709
+And then you might end up
+
+521
+00:16:12,250 --> 00:16:14,709
+taking a giant step backwards
+
+522
+00:16:14,750 --> 00:16:15,959
+instead of forwards.
+
+523
+00:16:16,083 --> 00:16:17,333
+Maybe you'll never be
+
+524
+00:16:16,083 --> 00:16:17,333
+able to learn anything
+
+525
+00:16:17,375 --> 00:16:19,125
+about friendship at all.
+
+526
+00:16:19,166 --> 00:16:23,709
+It's almost like your whole
+
+527
+00:16:19,166 --> 00:16:23,709
+future depends on this moment.
+
+528
+00:16:23,750 --> 00:16:26,458
+"Highlight the importance
+
+529
+00:16:23,750 --> 00:16:26,458
+of the meeting." Check.
+
+530
+00:16:26,500 --> 00:16:28,417
+I can't believe you
+
+531
+00:16:26,500 --> 00:16:28,417
+wanted to skip that.
+
+532
+00:16:31,333 --> 00:16:33,125
+[knock knock knock]
+
+533
+00:16:42,208 --> 00:16:44,083
+Sunburst?
+
+534
+00:16:44,083 --> 00:16:46,083
+Yes? What can I do for you?
+
+535
+00:16:46,083 --> 00:16:49,792
+It's, it's me. Starlight.
+
+536
+00:16:49,834 --> 00:16:51,500
+We used to be friends?
+
+537
+00:16:54,083 --> 00:16:59,208
+Oh, of course! Starlight. My
+
+538
+00:16:54,083 --> 00:16:59,208
+goodness, it's been a long time.
+
+539
+00:16:59,250 --> 00:17:02,083
+What, what have
+
+540
+00:16:59,250 --> 00:17:02,083
+you been up to?
+
+541
+00:17:02,125 --> 00:17:07,750
+Me? Oh, you know, some
+
+542
+00:17:02,125 --> 00:17:07,750
+of this, some of that.
+
+543
+00:17:07,792 --> 00:17:10,375
+Different stuff.
+
+544
+00:17:10,417 --> 00:17:13,917
+Right now I'm sort of,
+
+545
+00:17:10,417 --> 00:17:13,917
+Twilight Sparkle's new pupil.
+
+546
+00:17:13,959 --> 00:17:15,917
+The Princess of Friendship?
+
+547
+00:17:15,959 --> 00:17:20,500
+Heh. Yeah. That's actually
+
+548
+00:17:15,959 --> 00:17:20,500
+kind of why I'm here.
+
+549
+00:17:20,542 --> 00:17:23,917
+I mean, I know you're
+
+550
+00:17:20,542 --> 00:17:23,917
+probably very busy.
+
+551
+00:17:23,959 --> 00:17:25,166
+What do you mean?
+
+552
+00:17:25,208 --> 00:17:27,333
+Well, I figured
+
+553
+00:17:25,208 --> 00:17:27,333
+after Magic School,
+
+554
+00:17:27,375 --> 00:17:30,375
+you'd go on to do important
+
+555
+00:17:27,375 --> 00:17:30,375
+wizard work, but...
+
+556
+00:17:30,417 --> 00:17:35,625
+Oh. No. Yes. Oh yes, that's
+
+557
+00:17:30,417 --> 00:17:35,625
+me. Yep. Important wizard.
+
+558
+00:17:35,667 --> 00:17:38,834
+Really busy with lots of,
+
+559
+00:17:35,667 --> 00:17:38,834
+uh... wizarding stuff.
+
+560
+00:17:41,625 --> 00:17:44,667
+Right, well Good to see you.
+
+561
+00:17:44,709 --> 00:17:46,208
+[door closes]
+
+562
+00:17:46,250 --> 00:17:48,333
+Huh. Maybe we
+
+563
+00:17:46,250 --> 00:17:48,333
+should have skipped
+
+564
+00:17:48,375 --> 00:17:51,166
+"highlighting the importance
+
+565
+00:17:48,375 --> 00:17:51,166
+of the meeting" after all.
+
+566
+00:17:51,208 --> 00:17:53,208
+Well? I guess that's that!
+
+567
+00:17:53,250 --> 00:17:55,333
+Starlight, come on!
+
+568
+00:17:55,375 --> 00:17:58,417
+We have to at least explain
+
+569
+00:17:55,375 --> 00:17:58,417
+what Twilight wants!
+
+570
+00:17:58,458 --> 00:17:59,583
+Ugh.
+
+571
+00:18:01,458 --> 00:18:02,417
+[knocking]
+
+572
+00:18:07,166 --> 00:18:11,542
+Dearest Citizens, I am sure
+
+573
+00:18:07,166 --> 00:18:11,542
+you are all just as thrilled
+
+574
+00:18:11,583 --> 00:18:15,750
+and ready for this Crystalling
+
+575
+00:18:11,583 --> 00:18:15,750
+as myself and Shining Armor.
+
+576
+00:18:15,792 --> 00:18:19,125
+[cheers]
+
+577
+00:18:19,166 --> 00:18:24,083
+[gasp] I'm not ready!
+
+578
+00:18:24,083 --> 00:18:25,083
+Take it easy.
+
+579
+00:18:26,709 --> 00:18:28,500
+Just pick whoever looks
+
+580
+00:18:26,709 --> 00:18:28,500
+the most like honor
+
+581
+00:18:26,709 --> 00:18:28,500
+guard material.
+
+582
+00:18:28,542 --> 00:18:30,250
+Right. Right!
+
+583
+00:18:34,083 --> 00:18:35,417
+I'm sorry;
+
+584
+00:18:35,458 --> 00:18:38,834
+fatherhood is way more
+
+585
+00:18:35,458 --> 00:18:38,834
+stressful than I ever thought.
+
+586
+00:18:38,875 --> 00:18:40,792
+I can only imagine.
+
+587
+00:18:40,834 --> 00:18:43,291
+Now, I know choosing
+
+588
+00:18:40,834 --> 00:18:43,291
+the crystal of purity
+
+589
+00:18:43,333 --> 00:18:45,417
+is a very important decision,
+
+590
+00:18:45,458 --> 00:18:48,083
+so I have gone through the
+
+591
+00:18:45,458 --> 00:18:48,083
+trouble of arranging them
+
+592
+00:18:48,083 --> 00:18:52,250
+in order from incredibly
+
+593
+00:18:48,083 --> 00:18:52,250
+pure to outrageously pure.
+
+594
+00:18:52,291 --> 00:18:55,917
+Um, Rarity? Don't they
+
+595
+00:18:52,291 --> 00:18:55,917
+all sort of look the same?
+
+596
+00:18:55,959 --> 00:18:59,125
+Oh well, to the
+
+597
+00:18:55,959 --> 00:18:59,125
+untrained eye, perhaps.
+
+598
+00:18:59,166 --> 00:19:01,333
+What do you think,
+
+599
+00:18:59,166 --> 00:19:01,333
+Shining Armor?
+
+600
+00:19:03,333 --> 00:19:04,834
+I DON'T KNOW!
+
+601
+00:19:06,333 --> 00:19:07,709
+[whispers] I hope
+
+602
+00:19:06,333 --> 00:19:07,709
+Twilight and Pinkie
+
+603
+00:19:07,750 --> 00:19:09,709
+are having better
+
+604
+00:19:07,750 --> 00:19:09,709
+luck with the baby.
+
+605
+00:19:11,500 --> 00:19:14,959
+Well, at least she's having fun!
+
+606
+00:19:15,083 --> 00:19:18,083
+[baby gurgling happily]
+
+607
+00:19:22,583 --> 00:19:24,250
+Pinkie, hold her still!
+
+608
+00:19:24,291 --> 00:19:26,458
+I'm trying!
+
+609
+00:19:35,083 --> 00:19:40,291
+So, the Princess of
+
+610
+00:19:35,083 --> 00:19:40,291
+Friendship wants you and I
+
+611
+00:19:40,333 --> 00:19:42,458
+to be friends again?
+
+612
+00:19:42,500 --> 00:19:46,083
+I know. Weird, right?
+
+613
+00:19:46,125 --> 00:19:47,625
+I don't understand.
+
+614
+00:19:47,667 --> 00:19:50,583
+Did something happen to you
+
+615
+00:19:47,667 --> 00:19:50,583
+after I left for Magic School?
+
+616
+00:19:50,625 --> 00:19:54,542
+What? No! I don't see what
+
+617
+00:19:50,625 --> 00:19:54,542
+that has to do with anything.
+
+618
+00:19:54,583 --> 00:19:56,166
+Why would you even ask that?
+
+619
+00:19:58,625 --> 00:20:01,667
+I mean, did something
+
+620
+00:19:58,625 --> 00:20:01,667
+happen to you
+
+621
+00:20:01,709 --> 00:20:03,583
+after you left for magic school?
+
+622
+00:20:03,625 --> 00:20:10,291
+What? Um. No. Like you said,
+
+623
+00:20:03,625 --> 00:20:10,291
+I'm a [ahem] important wizard.
+
+624
+00:20:13,041 --> 00:20:14,458
+I'm sure there's something
+
+625
+00:20:13,041 --> 00:20:14,458
+on Twilight's list
+
+626
+00:20:14,500 --> 00:20:15,917
+that can help here.
+
+627
+00:20:18,709 --> 00:20:22,291
+[gasping]
+
+628
+00:20:24,625 --> 00:20:27,709
+OK. I chose the Honor Guard,
+
+629
+00:20:24,625 --> 00:20:27,709
+picked the Purity Crystal
+
+630
+00:20:27,750 --> 00:20:30,500
+and I know exactly who I
+
+631
+00:20:27,750 --> 00:20:30,500
+want to be our Crystaller.
+
+632
+00:20:30,542 --> 00:20:32,458
+So, all we need is...
+
+633
+00:20:34,250 --> 00:20:35,333
+The baby?
+
+634
+00:20:36,500 --> 00:20:38,291
+We're here!
+
+635
+00:20:38,333 --> 00:20:41,166
+She's a really strong flyer!
+
+636
+00:20:46,041 --> 00:20:49,041
+[whimpering]
+
+637
+00:20:53,375 --> 00:20:58,875
+[wail]
+
+638
+00:21:00,834 --> 00:21:03,125
+[cracking]
+
+639
+00:21:03,166 --> 00:21:04,208
+[shatter]
+
+640
+00:21:04,250 --> 00:21:07,250
+♪♪
+
+641
+00:21:12,458 --> 00:21:16,083
+I'm guessing that's gonna make
+
+642
+00:21:12,458 --> 00:21:16,083
+it hard to do the Crystalling.
+
+643
+00:21:16,125 --> 00:21:17,625
+It's worse than that...
+
+644
+00:21:17,667 --> 00:21:20,333
+Without the Heart, the Crystal
+
+645
+00:21:17,667 --> 00:21:20,333
+Empire is about to be buried
+
+646
+00:21:20,375 --> 00:21:23,208
+under a mountain
+
+647
+00:21:20,375 --> 00:21:23,208
+of ice and snow!
+
+648
+00:21:23,250 --> 00:21:27,875
+<i>♪ [dramatic] ♪</i>
+
+649
+00:21:27,917 --> 00:21:31,083
+<i>[gurgle]</i>
+
+650
+00:21:35,959 --> 00:21:38,959
+♪♪
+

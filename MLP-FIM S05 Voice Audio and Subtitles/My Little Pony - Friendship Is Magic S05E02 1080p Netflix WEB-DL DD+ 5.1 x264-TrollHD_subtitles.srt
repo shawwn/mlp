@@ -1,0 +1,2612 @@
+1
+00:00:02,333 --> 00:00:04,083
+♪♪
+
+2
+00:00:04,125 --> 00:00:05,542
+As princess, I've
+
+3
+00:00:04,125 --> 00:00:05,542
+been chosen
+
+4
+00:00:05,583 --> 00:00:07,917
+to spread the magic of
+
+5
+00:00:05,583 --> 00:00:07,917
+friendship across Equestria.
+
+6
+00:00:07,959 --> 00:00:09,458
+So why would the
+
+7
+00:00:07,959 --> 00:00:09,458
+Tree of Harmony
+
+8
+00:00:09,500 --> 00:00:11,458
+want us to sit in a
+
+9
+00:00:09,500 --> 00:00:11,458
+castle in Ponyville?
+
+10
+00:00:11,500 --> 00:00:13,458
+Spike: This is incredible!
+
+11
+00:00:13,500 --> 00:00:15,000
+It's got all of Equestria!
+
+12
+00:00:15,041 --> 00:00:17,333
+♪♪
+
+13
+00:00:17,375 --> 00:00:19,667
+Fluttershy: Why are our
+
+14
+00:00:17,375 --> 00:00:19,667
+Cutie Marks over there?
+
+15
+00:00:19,709 --> 00:00:22,125
+Twilight: It seems like the
+
+16
+00:00:19,709 --> 00:00:22,125
+map wants us to find out.
+
+17
+00:00:22,166 --> 00:00:24,500
+An entire village with
+
+18
+00:00:22,166 --> 00:00:24,500
+the same Cutie Mark?
+
+19
+00:00:24,542 --> 00:00:26,041
+Starlight: Welcome!
+
+20
+00:00:26,083 --> 00:00:28,041
+Fluttersky: This must be
+
+21
+00:00:26,083 --> 00:00:28,041
+the most pleasant place
+
+22
+00:00:28,083 --> 00:00:29,500
+in Equestria!
+
+23
+00:00:29,542 --> 00:00:31,208
+Starlight: I'm delighted
+
+24
+00:00:29,542 --> 00:00:31,208
+you're interested
+
+25
+00:00:31,250 --> 00:00:32,917
+in our Cutie Mark vault.
+
+26
+00:00:32,959 --> 00:00:33,792
+Twilight: It's a trap!
+
+27
+00:00:33,834 --> 00:00:35,458
+Aaah!
+
+28
+00:00:35,500 --> 00:00:38,166
+Starlight: Now you can spend
+
+29
+00:00:35,500 --> 00:00:38,166
+the rest of your lives here.
+
+30
+00:00:38,208 --> 00:00:40,834
+Without your Cutie Marks!
+
+31
+00:00:42,417 --> 00:00:45,917
+<i>♪ My little pony,</i>
+
+32
+00:00:42,417 --> 00:00:45,917
+<i>my little pony ♪</i>
+
+33
+00:00:45,959 --> 00:00:47,834
+<i>♪ Aaaahhh ♪</i>
+
+34
+00:00:47,875 --> 00:00:49,750
+<i>♪ My little Pony ♪</i>
+
+35
+00:00:49,792 --> 00:00:52,375
+<i>♪ I used to wonder what</i>
+
+36
+00:00:49,792 --> 00:00:52,375
+<i>friendship could be. ♪</i>
+
+37
+00:00:52,417 --> 00:00:54,083
+<i>♪ My Little Pony ♪</i>
+
+38
+00:00:54,125 --> 00:00:56,750
+<i>♪ Until you all shared</i>
+
+39
+00:00:54,125 --> 00:00:56,750
+<i>its magic with me. ♪</i>
+
+40
+00:00:56,792 --> 00:00:58,750
+<i>♪ Big adventure! ♪</i>
+
+41
+00:00:56,792 --> 00:00:58,750
+<i>♪ Tons of fun ♪</i>
+
+42
+00:00:58,792 --> 00:01:00,917
+<i>♪ A beautiful heart! ♪ ♪</i>
+
+43
+00:00:58,792 --> 00:01:00,917
+<i>Faithful and strong! ♪</i>
+
+44
+00:01:00,959 --> 00:01:03,083
+<i>♪ Sharing kindness ♪</i>
+
+45
+00:01:00,959 --> 00:01:03,083
+<i>♪ it's an easy feat ♪</i>
+
+46
+00:01:03,125 --> 00:01:05,166
+<i>♪ And magic makes it</i>
+
+47
+00:01:03,125 --> 00:01:05,166
+<i>all complete! ♪</i>
+
+48
+00:01:05,208 --> 00:01:07,208
+<i>♪ To have my little pony ♪</i>
+
+49
+00:01:07,250 --> 00:01:10,792
+<i>♪ Do you know you're all</i>
+
+50
+00:01:07,250 --> 00:01:10,792
+<i>my very best friends? ♪</i>
+
+51
+00:01:10,834 --> 00:01:13,125
+<i>♪ ♪</i>
+
+52
+00:01:17,625 --> 00:01:20,750
+<i>P.A.: In sameness,</i>
+
+53
+00:01:17,625 --> 00:01:20,750
+<i>there is peace.</i>
+
+54
+00:01:20,792 --> 00:01:23,625
+<i>Exceptionalism is a lie...</i>
+
+55
+00:01:23,667 --> 00:01:27,208
+<i>Free yourself from</i>
+
+56
+00:01:23,667 --> 00:01:27,208
+<i>your Cutie Mark...</i>
+
+57
+00:01:27,250 --> 00:01:29,583
+<i>Choose equality as</i>
+
+58
+00:01:27,250 --> 00:01:29,583
+<i>your special talent...</i>
+
+59
+00:01:30,750 --> 00:01:33,083
+[grunts]
+
+60
+00:01:33,125 --> 00:01:35,000
+[whimper]
+
+61
+00:01:35,041 --> 00:01:36,333
+Hey! This is pretty good!
+
+62
+00:01:36,375 --> 00:01:38,875
+[announcement continues]
+
+63
+00:01:38,917 --> 00:01:41,667
+Ugh. We've got to find
+
+64
+00:01:38,917 --> 00:01:41,667
+a way out of here.
+
+65
+00:01:41,709 --> 00:01:44,000
+I can't take much
+
+66
+00:01:41,709 --> 00:01:44,000
+more of that voice.
+
+67
+00:01:44,041 --> 00:01:46,125
+Oh, this is horrible!
+
+68
+00:01:46,166 --> 00:01:50,166
+There there, Rarity,
+
+69
+00:01:46,166 --> 00:01:50,166
+it's not so bad.
+
+70
+00:01:50,208 --> 00:01:52,458
+Yes it is! Look at
+
+71
+00:01:50,208 --> 00:01:52,458
+those drapes!
+
+72
+00:01:52,500 --> 00:01:54,792
+I have no idea if
+
+73
+00:01:52,500 --> 00:01:54,792
+they're tacky or not!
+
+74
+00:01:54,834 --> 00:01:56,750
+Well, I think they're nice.
+
+75
+00:01:59,750 --> 00:02:01,625
+So do I!
+
+76
+00:02:01,667 --> 00:02:03,583
+[blubbering]
+
+77
+00:02:03,625 --> 00:02:04,583
+[chirp]
+
+78
+00:02:04,625 --> 00:02:06,083
+Oh, thank goodness!
+
+79
+00:02:06,125 --> 00:02:07,917
+Can you help us, little birdy?
+
+80
+00:02:07,959 --> 00:02:10,333
+[chirping]
+
+81
+00:02:10,375 --> 00:02:13,041
+Go on, now. Fly away
+
+82
+00:02:10,375 --> 00:02:13,041
+and get us help.
+
+83
+00:02:14,250 --> 00:02:16,041
+[chirp]
+
+84
+00:02:16,083 --> 00:02:19,542
+Oh! Even tweets don't
+
+85
+00:02:16,083 --> 00:02:19,542
+make sense anymore.
+
+86
+00:02:22,542 --> 00:02:23,667
+[bang]
+
+87
+00:02:23,709 --> 00:02:27,083
+Agh! This door's shut
+
+88
+00:02:23,709 --> 00:02:27,083
+tighter than a...
+
+89
+00:02:27,125 --> 00:02:28,709
+summer of...
+
+90
+00:02:28,750 --> 00:02:30,417
+of piglets in...
+
+91
+00:02:30,458 --> 00:02:34,500
+Shoot, I can't even make
+
+92
+00:02:30,458 --> 00:02:34,500
+countryisms no more!
+
+93
+00:02:34,542 --> 00:02:37,417
+I don't know, maybe it'll be
+
+94
+00:02:34,542 --> 00:02:37,417
+super fun to be all the same!
+
+95
+00:02:39,333 --> 00:02:40,458
+Sort of.
+
+96
+00:02:40,500 --> 00:02:43,000
+More pleasant than
+
+97
+00:02:40,500 --> 00:02:43,000
+fun, I guess.
+
+98
+00:02:43,041 --> 00:02:45,417
+Something odd about
+
+99
+00:02:43,041 --> 00:02:45,417
+that staff.
+
+100
+00:02:45,458 --> 00:02:48,208
+I haven't studied Eastern
+
+101
+00:02:45,458 --> 00:02:48,208
+unicorns as much as I should've,
+
+102
+00:02:48,250 --> 00:02:51,250
+but I'm pretty sure Meadowbrook
+
+103
+00:02:48,250 --> 00:02:51,250
+only had eight magical items,
+
+104
+00:02:51,291 --> 00:02:52,750
+not nine.
+
+105
+00:02:52,792 --> 00:02:55,250
+And I don't remember any
+
+106
+00:02:52,792 --> 00:02:55,250
+of them being a staff.
+
+107
+00:02:55,291 --> 00:02:57,375
+Well, it looks like you'll
+
+108
+00:02:55,291 --> 00:02:57,375
+have plenty of time
+
+109
+00:02:57,417 --> 00:02:59,000
+to try to think about it.
+
+110
+00:02:59,041 --> 00:03:02,250
+[announcements continue]
+
+111
+00:03:02,291 --> 00:03:04,792
+<i>Difference is frustration...</i>
+
+112
+00:03:04,834 --> 00:03:07,458
+<i>To excel is to fail...</i>
+
+113
+00:03:07,500 --> 00:03:11,125
+<i>Be your best by never</i>
+
+114
+00:03:07,500 --> 00:03:11,125
+<i>being your best...</i>
+
+115
+00:03:11,166 --> 00:03:14,208
+<i>Conformity will set you free...</i>
+
+116
+00:03:14,250 --> 00:03:18,542
+<i>Accept your limitations and</i>
+
+117
+00:03:14,250 --> 00:03:18,542
+<i>happiness will follow...</i>
+
+118
+00:03:18,583 --> 00:03:20,750
+<i>You're no better</i>
+
+119
+00:03:18,583 --> 00:03:20,750
+<i>than your friends...</i>
+
+120
+00:03:20,792 --> 00:03:23,917
+I'VE GOT IT! I know how
+
+121
+00:03:20,792 --> 00:03:23,917
+we can get out!
+
+122
+00:03:23,959 --> 00:03:25,125
+[sigh]
+
+123
+00:03:25,166 --> 00:03:28,041
+Forget it, Twilight.
+
+124
+00:03:25,166 --> 00:03:28,041
+This door's not opening.
+
+125
+00:03:28,083 --> 00:03:31,375
+And I'm afraid the windows are
+
+126
+00:03:28,083 --> 00:03:31,375
+much too small for escape.
+
+127
+00:03:31,417 --> 00:03:33,125
+But there is a third way.
+
+128
+00:03:33,166 --> 00:03:34,542
+Pinkie: Of course!
+
+129
+00:03:34,583 --> 00:03:36,250
+Eventually the wind and weather
+
+130
+00:03:34,583 --> 00:03:36,250
+will wear down the walls
+
+131
+00:03:36,291 --> 00:03:37,834
+until they start to crumble!
+
+132
+00:03:37,875 --> 00:03:41,000
+Then all we have to do is wait
+
+133
+00:03:37,875 --> 00:03:41,000
+for a big enough hole to form
+
+134
+00:03:41,041 --> 00:03:42,458
+and we can just walk out!
+
+135
+00:03:42,500 --> 00:03:43,875
+It's the perfect plan!
+
+136
+00:03:42,500 --> 00:03:43,875
+I guess...
+
+137
+00:03:43,917 --> 00:03:46,000
+We don't actually
+
+138
+00:03:43,917 --> 00:03:46,000
+have to escape.
+
+139
+00:03:46,041 --> 00:03:47,750
+They'll just let us
+
+140
+00:03:46,041 --> 00:03:47,750
+out when they think
+
+141
+00:03:47,792 --> 00:03:49,458
+we've accepted
+
+142
+00:03:47,792 --> 00:03:49,458
+their philosophy.
+
+143
+00:03:49,500 --> 00:03:51,208
+But they're never gonna
+
+144
+00:03:49,500 --> 00:03:51,208
+believe we switched over
+
+145
+00:03:51,250 --> 00:03:53,166
+in just one night.
+
+146
+00:03:53,208 --> 00:03:55,125
+There's one of us
+
+147
+00:03:53,208 --> 00:03:55,125
+they might believe.
+
+148
+00:03:58,458 --> 00:04:00,208
+Ah! Me?
+
+149
+00:04:00,250 --> 00:04:03,208
+You've been saying how great
+
+150
+00:04:00,250 --> 00:04:03,208
+this place is since we got here!
+
+151
+00:04:03,250 --> 00:04:05,417
+That's because
+
+152
+00:04:03,250 --> 00:04:05,417
+everypony's so nice
+
+153
+00:04:05,458 --> 00:04:08,250
+and their village is so
+
+154
+00:04:05,458 --> 00:04:08,250
+pretty and...and...
+
+155
+00:04:10,333 --> 00:04:11,625
+Oh, you're right.
+
+156
+00:04:11,667 --> 00:04:14,083
+They probably would
+
+157
+00:04:11,667 --> 00:04:14,083
+believe me.
+
+158
+00:04:14,125 --> 00:04:15,792
+I hate to lie to them.
+
+159
+00:04:15,834 --> 00:04:18,375
+They've been so
+
+160
+00:04:15,834 --> 00:04:18,375
+welcoming and friendly.
+
+161
+00:04:18,417 --> 00:04:21,667
+Aside from locking us in here
+
+162
+00:04:18,417 --> 00:04:21,667
+and trying to brainwash us
+
+163
+00:04:21,709 --> 00:04:24,125
+into abandoning the things
+
+164
+00:04:21,709 --> 00:04:24,125
+that make us special.
+
+165
+00:04:26,166 --> 00:04:28,625
+OK. I'll do it.
+
+166
+00:04:28,667 --> 00:04:30,250
+WOO-HOO!
+
+167
+00:04:31,375 --> 00:04:33,083
+I mean, cool.
+
+168
+00:04:33,125 --> 00:04:35,333
+But what do I do
+
+169
+00:04:33,125 --> 00:04:35,333
+once I'm out?
+
+170
+00:04:35,375 --> 00:04:38,250
+You've got to find a way to
+
+171
+00:04:35,375 --> 00:04:38,250
+get our Cutie Marks back.
+
+172
+00:04:38,291 --> 00:04:39,125
+[gulp]
+
+173
+00:04:39,166 --> 00:04:40,417
+[feedback]
+
+174
+00:04:40,458 --> 00:04:42,291
+Oh, good morning!
+
+175
+00:04:44,709 --> 00:04:47,834
+I trust you had
+
+176
+00:04:44,709 --> 00:04:47,834
+a pleasant night.
+
+177
+00:04:47,875 --> 00:04:49,250
+This way, please.
+
+178
+00:04:49,291 --> 00:04:52,458
+There are some friends
+
+179
+00:04:49,291 --> 00:04:52,458
+who would like to see you.
+
+180
+00:04:54,959 --> 00:04:58,083
+Gather 'round,
+
+181
+00:04:54,959 --> 00:04:58,083
+friends, gather 'round!
+
+182
+00:04:58,125 --> 00:05:01,417
+We've come to ask if any of
+
+183
+00:04:58,125 --> 00:05:01,417
+you are ready to join us.
+
+184
+00:05:01,458 --> 00:05:04,083
+There are so many friends to
+
+185
+00:05:01,458 --> 00:05:04,083
+be made, once you realize
+
+186
+00:05:04,125 --> 00:05:06,417
+you don't need your
+
+187
+00:05:04,125 --> 00:05:06,417
+Cutie Marks
+
+188
+00:05:06,458 --> 00:05:09,458
+or the talents that
+
+189
+00:05:06,458 --> 00:05:09,458
+come with them.
+
+190
+00:05:09,500 --> 00:05:12,792
+We have a welcome
+
+191
+00:05:09,500 --> 00:05:12,792
+ceremony for new friends.
+
+192
+00:05:12,834 --> 00:05:17,291
+The whole village joins together
+
+193
+00:05:12,834 --> 00:05:17,291
+to build you your own cottage.
+
+194
+00:05:17,333 --> 00:05:19,625
+Not interested! You
+
+195
+00:05:17,333 --> 00:05:19,625
+may have them now,
+
+196
+00:05:19,667 --> 00:05:22,208
+but we're going to get
+
+197
+00:05:19,667 --> 00:05:22,208
+our Cutie Marks back!
+
+198
+00:05:22,250 --> 00:05:24,041
+Y'all don't understand, do ya?
+
+199
+00:05:24,083 --> 00:05:26,333
+You can't force
+
+200
+00:05:24,083 --> 00:05:26,333
+nopony to be friends!
+
+201
+00:05:26,375 --> 00:05:27,750
+It don't work like that!
+
+202
+00:05:27,792 --> 00:05:29,417
+Please, join us!
+
+203
+00:05:29,458 --> 00:05:31,375
+We love new friends!
+
+204
+00:05:31,417 --> 00:05:35,500
+It's all right, everypony, this
+
+205
+00:05:31,417 --> 00:05:35,500
+is a perfectly normal part
+
+206
+00:05:35,542 --> 00:05:39,333
+of the equalization process
+
+207
+00:05:35,542 --> 00:05:39,333
+for those who haven't...
+
+208
+00:05:39,375 --> 00:05:42,083
+quite seen the light yet.
+
+209
+00:05:42,125 --> 00:05:43,792
+We'll try again tomorrow,
+
+210
+00:05:43,834 --> 00:05:48,125
+once you've had a bit more time
+
+211
+00:05:43,834 --> 00:05:48,125
+to consider our philosophy.
+
+212
+00:05:54,959 --> 00:05:56,792
+I'd like to join!
+
+213
+00:05:56,834 --> 00:06:01,583
+[excited chatter]
+
+214
+00:06:01,625 --> 00:06:02,792
+Fluttershy?
+
+215
+00:06:02,834 --> 00:06:04,417
+How could you?
+
+216
+00:06:04,458 --> 00:06:06,834
+If giving up my Cutie
+
+217
+00:06:04,458 --> 00:06:06,834
+Mark means I get to stay
+
+218
+00:06:06,875 --> 00:06:09,542
+in this lovely village
+
+219
+00:06:06,875 --> 00:06:09,542
+with these lovely ponies,
+
+220
+00:06:09,583 --> 00:06:11,166
+then I'll do it.
+
+221
+00:06:14,792 --> 00:06:17,125
+We have a new
+
+222
+00:06:14,792 --> 00:06:17,125
+friend, everypony!
+
+223
+00:06:17,166 --> 00:06:21,375
+[excited chatter]
+
+224
+00:06:21,417 --> 00:06:24,083
+There's one more
+
+225
+00:06:21,417 --> 00:06:24,083
+order of business.
+
+226
+00:06:24,125 --> 00:06:26,709
+It seems some in
+
+227
+00:06:24,125 --> 00:06:26,709
+our midst might be
+
+228
+00:06:26,750 --> 00:06:29,166
+dissatisfied with
+
+229
+00:06:26,750 --> 00:06:29,166
+the village life!
+
+230
+00:06:29,208 --> 00:06:30,458
+[gasps]
+
+231
+00:06:30,500 --> 00:06:33,417
+Unfortunately, it's all
+
+232
+00:06:30,500 --> 00:06:33,417
+too true, my friends.
+
+233
+00:06:33,458 --> 00:06:36,625
+Will you kindly tell us the
+
+234
+00:06:33,458 --> 00:06:36,625
+names of those friends
+
+235
+00:06:36,667 --> 00:06:39,083
+who so desperately miss
+
+236
+00:06:36,667 --> 00:06:39,083
+their Cutie Marks
+
+237
+00:06:39,125 --> 00:06:42,333
+that they would sneak
+
+238
+00:06:39,125 --> 00:06:42,333
+around in the shadows
+
+239
+00:06:42,375 --> 00:06:45,583
+talking to
+
+240
+00:06:42,375 --> 00:06:45,583
+strangers about it?
+
+241
+00:06:45,625 --> 00:06:49,959
+Just so we can be sure your
+
+242
+00:06:45,625 --> 00:06:49,959
+intentions are, indeed, pure.
+
+243
+00:06:50,000 --> 00:06:51,041
+[gulp]
+
+244
+00:06:54,959 --> 00:06:58,041
+Um, I don't know
+
+245
+00:06:54,959 --> 00:06:58,041
+who they were.
+
+246
+00:06:58,083 --> 00:07:02,083
+Um. I'm sorry, I don't know
+
+247
+00:06:58,083 --> 00:07:02,083
+your names and faces yet.
+
+248
+00:07:02,125 --> 00:07:06,458
+Nonsense! Obviously these ponies
+
+249
+00:07:02,125 --> 00:07:06,458
+must have asked you directly.
+
+250
+00:07:06,500 --> 00:07:08,333
+Kindly point them out.
+
+251
+00:07:14,792 --> 00:07:17,291
+<i>Male: It was me!</i>
+
+252
+00:07:17,333 --> 00:07:19,250
+It was only me.
+
+253
+00:07:19,291 --> 00:07:21,834
+I only wanted it back
+
+254
+00:07:19,291 --> 00:07:21,834
+for a little while.
+
+255
+00:07:21,875 --> 00:07:25,875
+And you're quite
+
+256
+00:07:21,875 --> 00:07:25,875
+certain it was only you?
+
+257
+00:07:25,917 --> 00:07:28,583
+I just wanted to remember
+
+258
+00:07:25,917 --> 00:07:28,583
+what it was like.
+
+259
+00:07:28,625 --> 00:07:32,125
+And no thought to the pain
+
+260
+00:07:28,625 --> 00:07:32,125
+you'd cause your friends.
+
+261
+00:07:32,166 --> 00:07:34,750
+Such selfishness.
+
+262
+00:07:37,000 --> 00:07:38,667
+I'm sorry, everypony!
+
+263
+00:07:38,709 --> 00:07:40,667
+I never wanted to
+
+264
+00:07:38,709 --> 00:07:40,667
+leave the village!
+
+265
+00:07:40,709 --> 00:07:41,625
+I love all of--
+
+266
+00:07:41,667 --> 00:07:42,875
+[slam]
+
+267
+00:07:46,000 --> 00:07:47,959
+What was I thinking?
+
+268
+00:07:48,000 --> 00:07:49,959
+I can't believe I even
+
+269
+00:07:48,000 --> 00:07:49,959
+considered asking
+
+270
+00:07:50,000 --> 00:07:52,166
+for my Cutie Mark back.
+
+271
+00:07:52,208 --> 00:07:55,291
+Don't worry, Fluttershy will
+
+272
+00:07:52,208 --> 00:07:55,291
+have us out of here in no time.
+
+273
+00:07:55,333 --> 00:07:57,375
+Didn't you see what just
+
+274
+00:07:55,333 --> 00:07:57,375
+happened out there?
+
+275
+00:07:57,417 --> 00:07:59,166
+Your friend has
+
+276
+00:07:57,417 --> 00:07:59,166
+accepted our way.
+
+277
+00:07:59,208 --> 00:08:00,917
+You will all accept
+
+278
+00:07:59,208 --> 00:08:00,917
+our way.
+
+279
+00:08:00,959 --> 00:08:02,583
+It's only a matter
+
+280
+00:08:00,959 --> 00:08:02,583
+of time!
+
+281
+00:08:06,500 --> 00:08:08,750
+This guy's a
+
+282
+00:08:06,500 --> 00:08:08,750
+barrel of laughs.
+
+283
+00:08:08,792 --> 00:08:10,333
+Laughs don't come in barrels.
+
+284
+00:08:10,375 --> 00:08:13,208
+They come from inside you as
+
+285
+00:08:10,375 --> 00:08:13,208
+your body's response to delight.
+
+286
+00:08:14,333 --> 00:08:16,500
+So what are we gonna do while
+
+287
+00:08:14,333 --> 00:08:16,500
+Fluttershy's out there
+
+288
+00:08:16,542 --> 00:08:19,500
+lookin' for our Cutie Marks?
+
+289
+00:08:19,542 --> 00:08:21,959
+We have to stay as
+
+290
+00:08:19,542 --> 00:08:21,959
+positive as we can.
+
+291
+00:08:22,000 --> 00:08:24,792
+If Party Favor sees how much
+
+292
+00:08:22,000 --> 00:08:24,792
+we really do like each other,
+
+293
+00:08:24,834 --> 00:08:26,208
+even though we're all different,
+
+294
+00:08:26,250 --> 00:08:28,166
+maybe we can use him to
+
+295
+00:08:26,250 --> 00:08:28,166
+spread our message
+
+296
+00:08:28,208 --> 00:08:29,500
+to the rest
+
+297
+00:08:28,208 --> 00:08:29,500
+of the village.
+
+298
+00:08:29,542 --> 00:08:30,667
+[speaker static]
+
+299
+00:08:30,709 --> 00:08:32,750
+<i>To excel is to fail...</i>
+
+300
+00:08:32,792 --> 00:08:35,583
+Let's just hope they don't
+
+301
+00:08:32,792 --> 00:08:35,583
+convert any of us first.
+
+302
+00:08:37,583 --> 00:08:38,542
+Welcome!
+
+303
+00:08:38,583 --> 00:08:39,458
+Welcome!
+
+304
+00:08:39,500 --> 00:08:40,834
+Welcome!
+
+305
+00:08:40,875 --> 00:08:43,834
+Gosh, you really are the
+
+306
+00:08:40,875 --> 00:08:43,834
+nicest ponies I've ever met.
+
+307
+00:08:43,875 --> 00:08:46,041
+Come, all new
+
+308
+00:08:43,875 --> 00:08:46,041
+friends stay with me
+
+309
+00:08:46,083 --> 00:08:48,333
+until their cottage
+
+310
+00:08:46,083 --> 00:08:48,333
+is completed.
+
+311
+00:08:48,375 --> 00:08:50,834
+Let's get you settled
+
+312
+00:08:48,375 --> 00:08:50,834
+and then you can enjoy
+
+313
+00:08:50,875 --> 00:08:54,000
+all that our little
+
+314
+00:08:50,875 --> 00:08:54,000
+village has to offer.
+
+315
+00:08:54,041 --> 00:09:01,041
+♪♪
+
+316
+00:09:02,542 --> 00:09:03,500
+[slam]
+
+317
+00:09:07,041 --> 00:09:11,583
+[coughing]
+
+318
+00:09:11,625 --> 00:09:12,542
+[sigh]
+
+319
+00:09:12,583 --> 00:09:14,458
+Get the Cutie Marks back.
+
+320
+00:09:14,500 --> 00:09:17,000
+That's all you've got
+
+321
+00:09:14,500 --> 00:09:17,000
+to do, Fluttershy.
+
+322
+00:09:17,041 --> 00:09:20,917
+Just sneak through the dark
+
+323
+00:09:17,041 --> 00:09:20,917
+to that spooky old cave
+
+324
+00:09:20,959 --> 00:09:24,583
+with the scary magical staff
+
+325
+00:09:20,959 --> 00:09:24,583
+and get the Cutie Marks back.
+
+326
+00:09:26,583 --> 00:09:28,625
+OK, you're doing great.
+
+327
+00:09:28,667 --> 00:09:30,417
+The cave's got
+
+328
+00:09:28,667 --> 00:09:30,417
+to be close now.
+
+329
+00:09:33,041 --> 00:09:35,250
+Starlight: Excellent
+
+330
+00:09:33,041 --> 00:09:35,250
+work, Double Diamond.
+
+331
+00:09:35,291 --> 00:09:36,834
+Of course.
+
+332
+00:09:36,875 --> 00:09:40,375
+But I don't understand why you
+
+333
+00:09:36,875 --> 00:09:40,375
+wanted me to bring them here.
+
+334
+00:09:40,417 --> 00:09:44,500
+Fluttershy is one of us now;
+
+335
+00:09:40,417 --> 00:09:44,500
+surely she can be trusted.
+
+336
+00:09:46,083 --> 00:09:48,500
+This one belongs to a princess.
+
+337
+00:09:48,542 --> 00:09:51,667
+It could be very
+
+338
+00:09:48,542 --> 00:09:51,667
+important to our cause.
+
+339
+00:09:51,709 --> 00:09:54,667
+Double Diamond: But if Twilight
+
+340
+00:09:51,709 --> 00:09:54,667
+Sparkle becomes our friend,
+
+341
+00:09:54,709 --> 00:09:57,625
+then what do we care
+
+342
+00:09:54,709 --> 00:09:57,625
+about this old Cutie Mark?
+
+343
+00:09:57,667 --> 00:09:59,583
+I just want to keep
+
+344
+00:09:57,667 --> 00:09:59,583
+them close.
+
+345
+00:09:59,625 --> 00:10:02,500
+Until everything
+
+346
+00:09:59,625 --> 00:10:02,500
+is...settled.
+
+347
+00:10:02,542 --> 00:10:04,542
+You may go, Double Diamond.
+
+348
+00:10:11,667 --> 00:10:13,041
+Oh dear!
+
+349
+00:10:13,083 --> 00:10:15,542
+How am I ever going to get
+
+350
+00:10:13,083 --> 00:10:15,542
+the Cutie Marks back now?
+
+351
+00:10:17,417 --> 00:10:18,375
+[crash]
+
+352
+00:10:18,417 --> 00:10:19,417
+Ow!
+
+353
+00:10:23,291 --> 00:10:25,000
+Agh! Starlight,
+
+354
+00:10:23,291 --> 00:10:25,000
+you clumsy fool!
+
+355
+00:10:38,333 --> 00:10:39,333
+[gasp]
+
+356
+00:10:47,792 --> 00:10:48,917
+Oh no!
+
+357
+00:10:52,125 --> 00:10:54,417
+I've got a good
+
+358
+00:10:52,125 --> 00:10:54,417
+feeling about today!
+
+359
+00:10:56,667 --> 00:11:01,291
+So...do any of you have
+
+360
+00:10:56,667 --> 00:11:01,291
+anything you'd like to say?
+
+361
+00:11:04,250 --> 00:11:05,875
+Aw, a pity.
+
+362
+00:11:05,917 --> 00:11:10,125
+Well, let's try this
+
+363
+00:11:05,917 --> 00:11:10,125
+again tomorrow, shall we?
+
+364
+00:11:10,166 --> 00:11:12,834
+No new friends
+
+365
+00:11:10,166 --> 00:11:12,834
+today, I'm afraid!
+
+366
+00:11:15,083 --> 00:11:16,166
+Wait!
+
+367
+00:11:16,208 --> 00:11:18,500
+I'd like to lock them in.
+
+368
+00:11:18,542 --> 00:11:22,417
+Marvelous, Fluttershy,
+
+369
+00:11:18,542 --> 00:11:22,417
+that's the spirit!
+
+370
+00:11:22,458 --> 00:11:25,875
+Party Favor, will
+
+371
+00:11:22,458 --> 00:11:25,875
+you join us, please?
+
+372
+00:11:27,667 --> 00:11:29,417
+I'm sorry, Starlight!
+
+373
+00:11:29,458 --> 00:11:31,291
+I'm sorry, everypony!
+
+374
+00:11:31,333 --> 00:11:33,750
+I've seen the error of my ways!
+
+375
+00:11:33,792 --> 00:11:36,750
+I never want to look
+
+376
+00:11:33,792 --> 00:11:36,750
+at my Cutie Mark again!
+
+377
+00:11:36,792 --> 00:11:40,125
+It seems there's cause
+
+378
+00:11:36,792 --> 00:11:40,125
+for celebration after all!
+
+379
+00:11:40,166 --> 00:11:42,625
+[cheering]
+
+380
+00:11:42,667 --> 00:11:44,333
+They tried to break me!
+
+381
+00:11:44,375 --> 00:11:46,834
+They wouldn't stop talking
+
+382
+00:11:44,375 --> 00:11:46,834
+about how different they are,
+
+383
+00:11:46,875 --> 00:11:49,709
+and that somehow makes
+
+384
+00:11:46,875 --> 00:11:49,709
+their friendship stronger!
+
+385
+00:11:49,750 --> 00:11:52,375
+Such backwards thinking.
+
+386
+00:11:52,417 --> 00:11:53,917
+But I didn't listen!
+
+387
+00:11:53,959 --> 00:11:57,083
+I knew what they were up
+
+388
+00:11:53,959 --> 00:11:57,083
+to and I didn't listen!
+
+389
+00:11:57,125 --> 00:11:59,250
+Well done, Party Favor.
+
+390
+00:11:59,291 --> 00:12:02,667
+We welcome you back
+
+391
+00:11:59,291 --> 00:12:02,667
+with open hooves.
+
+392
+00:12:02,709 --> 00:12:04,417
+Fluttershy: Um, Starlight?
+
+393
+00:12:04,458 --> 00:12:07,667
+I think we might have one
+
+394
+00:12:04,458 --> 00:12:07,667
+more friend joining us today.
+
+395
+00:12:07,709 --> 00:12:09,291
+[gasps]
+
+396
+00:12:10,208 --> 00:12:11,917
+Is this true?
+
+397
+00:12:11,959 --> 00:12:14,458
+I...I think so.
+
+398
+00:12:14,500 --> 00:12:16,750
+But I just want to be sure.
+
+399
+00:12:16,792 --> 00:12:19,375
+If I agree to leave my
+
+400
+00:12:16,792 --> 00:12:19,375
+Cutie Mark in the vault,
+
+401
+00:12:19,417 --> 00:12:21,208
+I'll really be happier?
+
+402
+00:12:21,250 --> 00:12:22,500
+Just look around!
+
+403
+00:12:22,542 --> 00:12:24,625
+Equality has given
+
+404
+00:12:22,542 --> 00:12:24,625
+us more happiness
+
+405
+00:12:24,667 --> 00:12:26,875
+than you've ever known!
+
+406
+00:12:26,917 --> 00:12:29,291
+And you wouldn't let me just
+
+407
+00:12:26,917 --> 00:12:29,291
+live here in the village
+
+408
+00:12:29,333 --> 00:12:30,709
+with my old Cutie Mark?
+
+409
+00:12:30,750 --> 00:12:32,375
+Out of the question.
+
+410
+00:12:32,417 --> 00:12:34,542
+A pony with a different
+
+411
+00:12:32,417 --> 00:12:34,542
+Cutie Mark in our midst
+
+412
+00:12:34,583 --> 00:12:36,917
+would destroy our
+
+413
+00:12:34,583 --> 00:12:36,917
+entire philosophy.
+
+414
+00:12:36,959 --> 00:12:39,166
+We are all equal here!
+
+415
+00:12:39,208 --> 00:12:41,041
+[murmurs]
+
+416
+00:12:41,083 --> 00:12:43,375
+Fluttershy: Then how
+
+417
+00:12:41,083 --> 00:12:43,375
+do you explain THIS?
+
+418
+00:12:43,417 --> 00:12:44,750
+[splash]
+
+419
+00:12:45,583 --> 00:12:47,500
+I knew you couldn't
+
+420
+00:12:45,583 --> 00:12:47,500
+be trusted.
+
+421
+00:12:51,875 --> 00:12:53,792
+No! Get away!
+
+422
+00:12:53,834 --> 00:12:55,208
+[gasps]
+
+423
+00:12:57,542 --> 00:12:59,375
+Wha..What are you looking at?
+
+424
+00:12:59,417 --> 00:13:01,166
+They're the problem,
+
+425
+00:12:59,417 --> 00:13:01,166
+not me!
+
+426
+00:13:04,250 --> 00:13:06,333
+How could you?
+
+427
+00:13:06,375 --> 00:13:08,834
+You said Cutie
+
+428
+00:13:06,375 --> 00:13:08,834
+Marks were evil.
+
+429
+00:13:08,875 --> 00:13:13,083
+You said special talents
+
+430
+00:13:08,875 --> 00:13:13,083
+led to pain and heartache.
+
+431
+00:13:13,125 --> 00:13:14,750
+They do, don't you see?
+
+432
+00:13:14,792 --> 00:13:16,333
+Look at them!
+
+433
+00:13:16,375 --> 00:13:17,667
+Then why?
+
+434
+00:13:17,709 --> 00:13:20,125
+Why did you take ours
+
+435
+00:13:17,709 --> 00:13:20,125
+and not give up your own?
+
+436
+00:13:20,166 --> 00:13:23,041
+I..I had to, you fools!
+
+437
+00:13:23,083 --> 00:13:26,208
+How could I collect your
+
+438
+00:13:23,083 --> 00:13:26,208
+Cutie Marks without my magic?
+
+439
+00:13:26,250 --> 00:13:28,500
+But the staff has all
+
+440
+00:13:26,250 --> 00:13:28,500
+the magic we need!
+
+441
+00:13:28,542 --> 00:13:31,583
+The staff is a piece of
+
+442
+00:13:28,542 --> 00:13:31,583
+wood I found in the desert!
+
+443
+00:13:31,625 --> 00:13:33,875
+It's my magic that
+
+444
+00:13:31,625 --> 00:13:33,875
+makes all this possible!
+
+445
+00:13:33,917 --> 00:13:36,500
+You'd all still be living
+
+446
+00:13:33,917 --> 00:13:36,500
+your miserable lives,
+
+447
+00:13:36,542 --> 00:13:39,166
+thinking you're better
+
+448
+00:13:36,542 --> 00:13:39,166
+than everypony else,
+
+449
+00:13:39,208 --> 00:13:41,834
+if it weren't for my
+
+450
+00:13:39,208 --> 00:13:41,834
+magical abilities!
+
+451
+00:13:41,875 --> 00:13:43,333
+I brought you friendship!
+
+452
+00:13:43,375 --> 00:13:45,041
+I brought you equality!
+
+453
+00:13:45,083 --> 00:13:47,583
+I CREATED HARMONY!
+
+454
+00:13:47,625 --> 00:13:49,417
+You lied to us!
+
+455
+00:13:49,458 --> 00:13:50,709
+So what?
+
+456
+00:13:50,750 --> 00:13:52,750
+Everything else I
+
+457
+00:13:50,750 --> 00:13:52,750
+said is true!
+
+458
+00:13:52,792 --> 00:13:56,208
+The only way to be happy
+
+459
+00:13:52,792 --> 00:13:56,208
+is if we're all equal!
+
+460
+00:13:56,250 --> 00:13:58,000
+Except for you.
+
+461
+00:13:59,792 --> 00:14:02,291
+Twilight: Everypony has
+
+462
+00:13:59,792 --> 00:14:02,291
+unique talents and gifts.
+
+463
+00:14:02,333 --> 00:14:04,709
+And when we share them with
+
+464
+00:14:02,333 --> 00:14:04,709
+each other, that's how real--
+
+465
+00:14:04,750 --> 00:14:06,375
+QUIET!
+
+466
+00:14:06,417 --> 00:14:08,875
+You can't have that
+
+467
+00:14:06,417 --> 00:14:08,875
+Cutie Mark, Starlight.
+
+468
+00:14:08,917 --> 00:14:11,959
+Either we're all equal
+
+469
+00:14:08,917 --> 00:14:11,959
+or none of us are.
+
+470
+00:14:12,000 --> 00:14:19,000
+♪♪
+
+471
+00:14:19,166 --> 00:14:20,959
+[whoosh]
+
+472
+00:14:23,917 --> 00:14:27,542
+Come on, let's get
+
+473
+00:14:23,917 --> 00:14:27,542
+our Cutie Marks back!
+
+474
+00:14:27,583 --> 00:14:28,667
+Yeah!
+
+475
+00:14:28,709 --> 00:14:29,542
+Come on!
+
+476
+00:14:29,583 --> 00:14:32,000
+[pounding hooves]
+
+477
+00:14:32,041 --> 00:14:32,875
+Come on!
+
+478
+00:14:32,917 --> 00:14:35,000
+Let's go get OUR
+
+479
+00:14:32,917 --> 00:14:35,000
+Cutie Marks!
+
+480
+00:14:35,041 --> 00:14:37,333
+Fluttershy: Our Cutie Marks
+
+481
+00:14:35,041 --> 00:14:37,333
+aren't in the vault.
+
+482
+00:14:37,375 --> 00:14:40,875
+They're in there...with her!
+
+483
+00:14:43,417 --> 00:14:47,333
+♪♪
+
+484
+00:14:47,375 --> 00:14:49,542
+STAND BACK, EVERYPONY!
+
+485
+00:14:53,834 --> 00:14:55,125
+[clang]
+
+486
+00:14:55,166 --> 00:14:57,750
+[crackling]
+
+487
+00:14:57,792 --> 00:14:59,625
+[whoosh]
+
+488
+00:14:59,667 --> 00:15:02,917
+♪♪
+
+489
+00:15:02,959 --> 00:15:05,500
+[power up]
+
+490
+00:15:05,542 --> 00:15:12,542
+♪♪
+
+491
+00:15:16,792 --> 00:15:22,041
+Even without my Cutie Mark, I
+
+492
+00:15:16,792 --> 00:15:22,041
+can tell this is beautiful.
+
+493
+00:15:22,083 --> 00:15:25,667
+They think they can come to
+
+494
+00:15:22,083 --> 00:15:25,667
+my village and disrupt my life?
+
+495
+00:15:25,709 --> 00:15:28,083
+Let's see how they like spending
+
+496
+00:15:25,709 --> 00:15:28,083
+the rest of their lives
+
+497
+00:15:28,125 --> 00:15:30,709
+without their
+
+498
+00:15:28,125 --> 00:15:30,709
+precious Cutie Marks!
+
+499
+00:15:33,417 --> 00:15:34,583
+[smash]
+
+500
+00:15:34,625 --> 00:15:37,083
+[grunts]
+
+501
+00:15:39,542 --> 00:15:40,417
+[whistle]
+
+502
+00:15:41,667 --> 00:15:43,417
+Stand back, everypony!
+
+503
+00:15:46,083 --> 00:15:47,166
+[crash]
+
+504
+00:15:49,333 --> 00:15:50,375
+[smash]
+
+505
+00:15:52,083 --> 00:15:53,208
+They're gone!
+
+506
+00:15:53,250 --> 00:15:54,834
+They were right over there!
+
+507
+00:15:54,875 --> 00:16:01,875
+♪♪
+
+508
+00:16:05,625 --> 00:16:06,625
+Look!
+
+509
+00:16:14,750 --> 00:16:16,959
+She's headed for the pass!
+
+510
+00:16:17,000 --> 00:16:20,125
+If she makes it into those
+
+511
+00:16:17,000 --> 00:16:20,125
+mountains, we'll never find her.
+
+512
+00:16:21,333 --> 00:16:23,625
+These are amazing!
+
+513
+00:16:23,667 --> 00:16:25,500
+There's a whole network
+
+514
+00:16:23,667 --> 00:16:25,500
+of caves up there.
+
+515
+00:16:25,542 --> 00:16:27,667
+Your Cutie Marks
+
+516
+00:16:25,542 --> 00:16:27,667
+will be gone forever.
+
+517
+00:16:27,709 --> 00:16:29,583
+Then let's get movin', y'all!
+
+518
+00:16:35,709 --> 00:16:37,333
+Oh, come on!
+
+519
+00:16:37,375 --> 00:16:41,375
+♪♪
+
+520
+00:16:41,417 --> 00:16:43,542
+Are you all so willing to
+
+521
+00:16:41,417 --> 00:16:43,542
+give up everything
+
+522
+00:16:43,583 --> 00:16:45,792
+because of these... strangers?
+
+523
+00:16:49,834 --> 00:16:51,792
+We gave up everything for you!
+
+524
+00:16:51,834 --> 00:16:53,875
+Because we thought
+
+525
+00:16:51,834 --> 00:16:53,875
+you were our friend!
+
+526
+00:16:55,959 --> 00:16:58,375
+I can't believe we have to
+
+527
+00:16:55,959 --> 00:16:58,375
+count on these other ponies
+
+528
+00:16:58,417 --> 00:17:00,792
+to save our Cutie Marks!
+
+529
+00:17:00,834 --> 00:17:02,583
+If we hadn't come
+
+530
+00:17:00,834 --> 00:17:02,583
+here to help them,
+
+531
+00:17:02,625 --> 00:17:04,583
+they'd still be living
+
+532
+00:17:02,625 --> 00:17:04,583
+under her rules!
+
+533
+00:17:04,625 --> 00:17:06,709
+Now it's their turn to help us!
+
+534
+00:17:06,750 --> 00:17:08,792
+And I know they can do it!
+
+535
+00:17:08,834 --> 00:17:15,834
+♪♪
+
+536
+00:17:17,000 --> 00:17:18,709
+My newest recipe!
+
+537
+00:17:18,750 --> 00:17:20,333
+Snow pie!
+
+538
+00:17:20,375 --> 00:17:21,667
+[whoosh]
+
+539
+00:17:29,750 --> 00:17:30,917
+[explosion]
+
+540
+00:17:32,375 --> 00:17:39,375
+♪♪
+
+541
+00:17:45,709 --> 00:17:47,083
+She's gonna get away!
+
+542
+00:17:49,917 --> 00:17:50,959
+Whoa!
+
+543
+00:17:51,000 --> 00:17:52,875
+These are my old skis.
+
+544
+00:17:54,583 --> 00:17:57,041
+This is where I
+
+545
+00:17:54,583 --> 00:17:57,041
+first met Starlight.
+
+546
+00:17:57,083 --> 00:17:58,750
+Maybe you can
+
+547
+00:17:57,083 --> 00:17:58,750
+reminisce another time.
+
+548
+00:17:58,792 --> 00:18:00,834
+She's almost to the caves!
+
+549
+00:18:00,875 --> 00:18:02,625
+Feel like an airdrop?
+
+550
+00:18:02,667 --> 00:18:09,667
+♪♪
+
+551
+00:18:14,250 --> 00:18:15,750
+[smashing glass]
+
+552
+00:18:15,792 --> 00:18:18,417
+<i>♪ [chimes] ♪</i>
+
+553
+00:18:18,458 --> 00:18:21,959
+[whoosh]
+
+554
+00:18:22,000 --> 00:18:29,000
+♪♪
+
+555
+00:18:30,542 --> 00:18:32,083
+Yee-haw!
+
+556
+00:18:32,125 --> 00:18:34,417
+Finally, I can buck like
+
+557
+00:18:32,125 --> 00:18:34,417
+a five-bit snake herder
+
+558
+00:18:34,458 --> 00:18:36,709
+in an Appleoosa
+
+559
+00:18:34,458 --> 00:18:36,709
+ranch house again!
+
+560
+00:18:36,750 --> 00:18:39,083
+And you got your
+
+561
+00:18:36,750 --> 00:18:39,083
+countryisms back, too!
+
+562
+00:18:39,125 --> 00:18:46,125
+♪♪
+
+563
+00:18:49,458 --> 00:18:51,667
+[power up]
+
+564
+00:18:51,709 --> 00:18:57,667
+[zap]
+
+565
+00:18:57,709 --> 00:18:58,875
+[whoosh]
+
+566
+00:19:00,125 --> 00:19:02,250
+I studied that spell for years!
+
+567
+00:19:02,291 --> 00:19:03,792
+How can you--?
+
+568
+00:19:03,834 --> 00:19:06,625
+I studied magic for years, too,
+
+569
+00:19:03,834 --> 00:19:06,625
+but what I didn't know then
+
+570
+00:19:06,667 --> 00:19:09,333
+was that studying could
+
+571
+00:19:06,667 --> 00:19:09,333
+only take me so far.
+
+572
+00:19:09,375 --> 00:19:11,417
+Each of my friends has taught
+
+573
+00:19:09,375 --> 00:19:11,417
+me something different
+
+574
+00:19:11,458 --> 00:19:12,917
+about myself.
+
+575
+00:19:12,959 --> 00:19:15,500
+It was their unique gifts and
+
+576
+00:19:12,959 --> 00:19:15,500
+passions and personalities
+
+577
+00:19:15,542 --> 00:19:17,917
+that helped bring out the
+
+578
+00:19:15,542 --> 00:19:17,917
+magic inside of me.
+
+579
+00:19:17,959 --> 00:19:20,750
+I never would have learned that
+
+580
+00:19:17,959 --> 00:19:20,750
+I represent the Element of Magic
+
+581
+00:19:20,792 --> 00:19:22,333
+without these five.
+
+582
+00:19:22,375 --> 00:19:25,125
+And I certainly wouldn't
+
+583
+00:19:22,375 --> 00:19:25,125
+be here to stop you now.
+
+584
+00:19:25,166 --> 00:19:27,250
+Spare me your
+
+585
+00:19:25,166 --> 00:19:27,250
+sentimental nonsense.
+
+586
+00:19:27,291 --> 00:19:29,417
+I gave these ponies
+
+587
+00:19:27,291 --> 00:19:29,417
+real friendships
+
+588
+00:19:29,458 --> 00:19:31,250
+they never could
+
+589
+00:19:29,458 --> 00:19:31,250
+have had otherwise!
+
+590
+00:19:31,291 --> 00:19:32,834
+Double Diamond:
+
+591
+00:19:31,291 --> 00:19:32,834
+How do you know that?
+
+592
+00:19:32,875 --> 00:19:35,041
+You never even gave us a chance.
+
+593
+00:19:39,083 --> 00:19:40,083
+[explosion]
+
+594
+00:19:41,542 --> 00:19:43,291
+She's getting away!
+
+595
+00:19:43,333 --> 00:19:45,291
+We'll never find her in there.
+
+596
+00:19:45,333 --> 00:19:47,709
+We just have to hope that
+
+597
+00:19:45,333 --> 00:19:47,709
+when she's had a chance
+
+598
+00:19:47,750 --> 00:19:49,166
+to think it over,
+
+599
+00:19:49,208 --> 00:19:51,083
+she realizes that you all
+
+600
+00:19:49,208 --> 00:19:51,083
+have taught her something.
+
+601
+00:19:51,125 --> 00:19:54,041
+It's you who have
+
+602
+00:19:51,125 --> 00:19:54,041
+taught us something.
+
+603
+00:19:54,083 --> 00:19:56,458
+We all came to this village
+
+604
+00:19:54,083 --> 00:19:56,458
+because we were searching
+
+605
+00:19:56,500 --> 00:19:58,625
+for something missing
+
+606
+00:19:56,500 --> 00:19:58,625
+from our lives.
+
+607
+00:19:58,667 --> 00:20:02,166
+We thought Starlight had
+
+608
+00:19:58,667 --> 00:20:02,166
+given it to us, but now...
+
+609
+00:20:02,208 --> 00:20:05,083
+...now it seems it was
+
+610
+00:20:02,208 --> 00:20:05,083
+in front of us all along.
+
+611
+00:20:05,125 --> 00:20:06,333
+It's us.
+
+612
+00:20:07,875 --> 00:20:09,750
+Does that mean you'll
+
+613
+00:20:07,875 --> 00:20:09,750
+stay in the village?
+
+614
+00:20:09,792 --> 00:20:11,125
+It's our home.
+
+615
+00:20:11,166 --> 00:20:13,291
+I'm not going anywhere.
+
+616
+00:20:13,333 --> 00:20:17,458
+This is a chance for all of us
+
+617
+00:20:13,333 --> 00:20:17,458
+to get to know each other again
+
+618
+00:20:17,500 --> 00:20:19,667
+for the very first time.
+
+619
+00:20:19,709 --> 00:20:21,959
+And I finally have a
+
+620
+00:20:19,709 --> 00:20:21,959
+chance to bake something
+
+621
+00:20:22,000 --> 00:20:24,000
+besides terrible muffins!
+
+622
+00:20:24,041 --> 00:20:28,542
+[laughter]
+
+623
+00:20:28,583 --> 00:20:35,583
+[happy chatter]
+
+624
+00:20:38,125 --> 00:20:40,500
+Now those are real smiles.
+
+625
+00:20:44,208 --> 00:20:46,041
+I'll never get used to that.
+
+626
+00:20:46,083 --> 00:20:48,417
+I think it's divine.
+
+627
+00:20:48,458 --> 00:20:51,834
+Does that mean the map is
+
+628
+00:20:48,458 --> 00:20:51,834
+calling us somewhere else?
+
+629
+00:20:51,875 --> 00:20:54,792
+I have a feeling it means
+
+630
+00:20:51,875 --> 00:20:54,792
+our work here is done.
+
+631
+00:20:54,834 --> 00:20:56,458
+Applejack: Looks like you
+
+632
+00:20:54,834 --> 00:20:56,458
+were right, Twilight.
+
+633
+00:20:56,500 --> 00:20:59,041
+The map did have a reason
+
+634
+00:20:56,500 --> 00:20:59,041
+for sendin' us here.
+
+635
+00:20:59,083 --> 00:21:01,709
+We brought real friendship
+
+636
+00:20:59,083 --> 00:21:01,709
+to these here ponies.
+
+637
+00:21:01,750 --> 00:21:04,667
+Guess that's why you're the
+
+638
+00:21:01,750 --> 00:21:04,667
+Princess of Friendship.
+
+639
+00:21:04,709 --> 00:21:06,625
+But the map didn't send me.
+
+640
+00:21:06,667 --> 00:21:08,166
+It sent us.
+
+641
+00:21:08,208 --> 00:21:10,291
+You're a part of me, all of you,
+
+642
+00:21:10,333 --> 00:21:12,542
+and there's no doubt you're
+
+643
+00:21:10,333 --> 00:21:12,542
+a part of my mission
+
+644
+00:21:12,583 --> 00:21:14,166
+to spread friendship, too.
+
+645
+00:21:14,208 --> 00:21:16,625
+[happy chatter]
+
+646
+00:21:16,667 --> 00:21:18,166
+This feels like an ending.
+
+647
+00:21:18,208 --> 00:21:20,125
+It doesn't have to be
+
+648
+00:21:18,208 --> 00:21:20,125
+an ending yet, right?
+
+649
+00:21:20,166 --> 00:21:22,917
+'Cause that Sugar
+
+650
+00:21:20,166 --> 00:21:22,917
+Belle can bake.
+
+651
+00:21:22,959 --> 00:21:25,375
+Maybe we can stay a
+
+652
+00:21:22,959 --> 00:21:25,375
+little while longer.
+
+653
+00:21:25,417 --> 00:21:27,417
+Come on!
+

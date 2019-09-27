@@ -1,0 +1,2592 @@
+1
+00:00:01,293 --> 00:00:04,421
+♪♪
+
+2
+00:00:10,302 --> 00:00:11,720
+[hack and spit]
+
+3
+00:00:11,762 --> 00:00:14,181
+[rustling wind]
+
+4
+00:00:14,222 --> 00:00:15,140
+[crash]
+
+5
+00:00:19,645 --> 00:00:21,104
+Hey, Applejack.
+
+6
+00:00:19,645 --> 00:00:21,104
+Whatchya doin'?
+
+7
+00:00:21,146 --> 00:00:22,021
+[grunt]
+
+8
+00:00:23,190 --> 00:00:26,568
+Well, I was practicin'
+
+9
+00:00:23,190 --> 00:00:26,568
+my distance buckin'.
+
+10
+00:00:26,610 --> 00:00:30,364
+Distance bucking? What for?
+
+11
+00:00:30,405 --> 00:00:33,450
+Because Cousin Braeburn and
+
+12
+00:00:30,405 --> 00:00:33,450
+the rest of the Apple Family
+
+13
+00:00:33,492 --> 00:00:35,327
+in Appleoosa seem to think
+
+14
+00:00:35,369 --> 00:00:38,747
+that their team can beat
+
+15
+00:00:35,369 --> 00:00:38,747
+Ponyville at Buckball.
+
+16
+00:00:38,789 --> 00:00:40,415
+[crash]
+
+17
+00:00:40,457 --> 00:00:42,543
+[whoosh...thunk]
+
+18
+00:00:42,584 --> 00:00:47,214
+WHAT? Ha! That's ridiculous!
+
+19
+00:00:42,584 --> 00:00:47,214
+Nopony beats Ponyville!
+
+20
+00:00:47,255 --> 00:00:50,217
+I mean, I could beat the whole
+
+21
+00:00:47,255 --> 00:00:50,217
+town of Appleoosa at Buckball
+
+22
+00:00:50,258 --> 00:00:52,594
+with one wing tied
+
+23
+00:00:50,258 --> 00:00:52,594
+behind my back.
+
+24
+00:00:52,636 --> 00:00:58,726
+[crashes and grunts]
+
+25
+00:00:58,767 --> 00:01:00,268
+[crash]
+
+26
+00:01:00,310 --> 00:01:02,938
+So I can count on you to join
+
+27
+00:01:00,310 --> 00:01:02,938
+the Ponyville Buckball team?
+
+28
+00:01:02,980 --> 00:01:07,108
+Oh, yeah! I am so there.
+
+29
+00:01:02,980 --> 00:01:07,108
+I've just got one question.
+
+30
+00:01:07,150 --> 00:01:08,652
+Mm?
+
+31
+00:01:08,694 --> 00:01:11,321
+Uh, what's Buckball?
+
+32
+00:01:11,363 --> 00:01:12,698
+[groan]
+
+33
+00:01:16,618 --> 00:01:20,039
+<i>♪ My little pony ♪</i>
+
+34
+00:01:16,618 --> 00:01:20,039
+<i>♪ my little pony ♪</i>
+
+35
+00:01:20,080 --> 00:01:21,957
+<i>♪ Aaaahhh ♪</i>
+
+36
+00:01:21,999 --> 00:01:24,043
+<i>♪ My little Pony ♪</i>
+
+37
+00:01:24,083 --> 00:01:26,503
+<i>♪ I used to wonder what</i>
+
+38
+00:01:24,083 --> 00:01:26,503
+<i>friendship could be ♪</i>
+
+39
+00:01:26,545 --> 00:01:28,380
+<i>♪ My Little Pony ♪</i>
+
+40
+00:01:28,422 --> 00:01:30,925
+<i>♪ Until you all shared</i>
+
+41
+00:01:28,422 --> 00:01:30,925
+<i>its magic with me ♪</i>
+
+42
+00:01:30,966 --> 00:01:32,968
+<i>♪ Big adventure! ♪</i>
+
+43
+00:01:30,966 --> 00:01:32,968
+<i>♪ Tons of fun ♪</i>
+
+44
+00:01:33,010 --> 00:01:35,136
+<i>♪ A beautiful heart! ♪ </i>
+
+45
+00:01:33,010 --> 00:01:35,136
+<i>♪ Faithful and strong! ♪</i>
+
+46
+00:01:35,178 --> 00:01:37,347
+<i>♪ Sharing kindness ♪</i>
+
+47
+00:01:35,178 --> 00:01:37,347
+<i>♪ it's an easy feat ♪</i>
+
+48
+00:01:37,389 --> 00:01:39,349
+<i>♪ And magic makes it</i>
+
+49
+00:01:37,389 --> 00:01:39,349
+<i>all complete! ♪</i>
+
+50
+00:01:39,391 --> 00:01:41,476
+<i>♪ To have my little pony ♪</i>
+
+51
+00:01:41,518 --> 00:01:44,897
+<i>♪ Do you know you're all</i>
+
+52
+00:01:41,518 --> 00:01:44,897
+<i>my very best friends? ♪</i>
+
+53
+00:01:44,939 --> 00:01:48,233
+♪♪
+
+54
+00:01:52,446 --> 00:01:56,825
+So basically, Buckball
+
+55
+00:01:52,446 --> 00:01:56,825
+is the coolest game ever.
+
+56
+00:01:56,867 --> 00:02:00,704
+Offense! Defense!
+
+57
+00:01:56,867 --> 00:02:00,704
+Teamwork. Non-stop action.
+
+58
+00:02:00,746 --> 00:02:02,706
+It's got it all!
+
+59
+00:02:02,748 --> 00:02:05,417
+Wow, Rainbow Dash. You
+
+60
+00:02:02,748 --> 00:02:05,417
+sure seem to know a lot
+
+61
+00:02:05,459 --> 00:02:10,089
+about this game. I've never
+
+62
+00:02:05,459 --> 00:02:10,089
+even heard of Buckball.
+
+63
+00:02:10,130 --> 00:02:12,382
+Yeah. I'm kind of an expert.
+
+64
+00:02:12,424 --> 00:02:14,676
+Hah, an expert who hadn't
+
+65
+00:02:12,424 --> 00:02:14,676
+heard of the game either
+
+66
+00:02:14,718 --> 00:02:16,011
+until I told you.
+
+67
+00:02:16,053 --> 00:02:17,721
+Well, it's a
+
+68
+00:02:16,053 --> 00:02:17,721
+new game.
+
+69
+00:02:17,763 --> 00:02:19,640
+I probably know more
+
+70
+00:02:17,763 --> 00:02:19,640
+than most ponies
+
+71
+00:02:19,681 --> 00:02:21,850
+so that makes me
+
+72
+00:02:19,681 --> 00:02:21,850
+an expert.
+
+73
+00:02:21,892 --> 00:02:24,103
+I don't know anything
+
+74
+00:02:21,892 --> 00:02:24,103
+about it at all.
+
+75
+00:02:24,144 --> 00:02:26,063
+But it sounds like there's
+
+76
+00:02:24,144 --> 00:02:26,063
+a ball and bucking,
+
+77
+00:02:26,105 --> 00:02:28,732
+so I'm betting it's
+
+78
+00:02:26,105 --> 00:02:28,732
+super-duper fun.
+
+79
+00:02:28,774 --> 00:02:30,651
+The point is my
+
+80
+00:02:28,774 --> 00:02:30,651
+cousin Braeburn
+
+81
+00:02:30,692 --> 00:02:32,319
+somehow convinced
+
+82
+00:02:30,692 --> 00:02:32,319
+a Pegasus
+
+83
+00:02:32,360 --> 00:02:34,029
+and a unicorn to
+
+84
+00:02:32,360 --> 00:02:34,029
+come play
+
+85
+00:02:34,071 --> 00:02:35,906
+with him on the
+
+86
+00:02:34,071 --> 00:02:35,906
+Appleoosa team.
+
+87
+00:02:35,948 --> 00:02:38,199
+And he can't stop bragging
+
+88
+00:02:35,948 --> 00:02:38,199
+about how his team
+
+89
+00:02:38,241 --> 00:02:40,243
+is gonna beat ours.
+
+90
+00:02:40,285 --> 00:02:42,203
+But, um, we don't
+
+91
+00:02:40,285 --> 00:02:42,203
+have a team.
+
+92
+00:02:42,245 --> 00:02:44,915
+Well, between Applejack and me,
+
+93
+00:02:44,957 --> 00:02:46,500
+we've got two
+
+94
+00:02:44,957 --> 00:02:46,500
+thirds of a team.
+
+95
+00:02:46,541 --> 00:02:48,085
+All we need is
+
+96
+00:02:46,541 --> 00:02:48,085
+a unicorn.
+
+97
+00:02:48,127 --> 00:02:50,253
+That's where you
+
+98
+00:02:48,127 --> 00:02:50,253
+two come in.
+
+99
+00:02:50,295 --> 00:02:55,425
+Uh, they know we're
+
+100
+00:02:50,295 --> 00:02:55,425
+not unicorns, right?
+
+101
+00:02:55,467 --> 00:02:59,972
+Uh, obviously. You're
+
+102
+00:02:55,467 --> 00:02:59,972
+gonna be on my team
+
+103
+00:03:00,014 --> 00:03:02,891
+and Fluttershy is gonna
+
+104
+00:03:00,014 --> 00:03:02,891
+be on Applejack's team.
+
+105
+00:03:02,933 --> 00:03:05,727
+We'll play against each other,
+
+106
+00:03:02,933 --> 00:03:05,727
+along with whatever unicorns
+
+107
+00:03:05,769 --> 00:03:08,313
+wanna try out until
+
+108
+00:03:05,769 --> 00:03:08,313
+we find the best one.
+
+109
+00:03:08,355 --> 00:03:11,984
+Oooohhhhhh! Phew,
+
+110
+00:03:08,355 --> 00:03:11,984
+that's a relief
+
+111
+00:03:12,026 --> 00:03:14,486
+because I left my
+
+112
+00:03:12,026 --> 00:03:14,486
+unicorn costume at home.
+
+113
+00:03:19,198 --> 00:03:21,785
+I know a lot of you are
+
+114
+00:03:19,198 --> 00:03:21,785
+here because I told you
+
+115
+00:03:21,827 --> 00:03:24,329
+what an amazing
+
+116
+00:03:21,827 --> 00:03:24,329
+game Buckball is.
+
+117
+00:03:24,371 --> 00:03:27,374
+And even though it's already
+
+118
+00:03:24,371 --> 00:03:27,374
+an Apple Family favorite,
+
+119
+00:03:27,415 --> 00:03:30,044
+most of you probably don't
+
+120
+00:03:27,415 --> 00:03:30,044
+know anything about it.
+
+121
+00:03:30,085 --> 00:03:32,295
+So I thought we'd give
+
+122
+00:03:30,085 --> 00:03:32,295
+you a quick demonstration.
+
+123
+00:03:34,631 --> 00:03:36,967
+The two earth ponies
+
+124
+00:03:34,631 --> 00:03:36,967
+are on offense.
+
+125
+00:03:37,009 --> 00:03:39,845
+They meet in the middle of
+
+126
+00:03:37,009 --> 00:03:39,845
+the field for the buck off.
+
+127
+00:03:39,887 --> 00:03:42,931
+They both try to be the
+
+128
+00:03:39,887 --> 00:03:42,931
+first one to kick it.
+
+129
+00:03:42,973 --> 00:03:44,265
+[grunt]
+
+130
+00:03:46,601 --> 00:03:49,021
+And the Pegasus is on defense.
+
+131
+00:03:49,063 --> 00:03:51,481
+She tries to keep the ball
+
+132
+00:03:49,063 --> 00:03:51,481
+from going in the goal
+
+133
+00:03:51,523 --> 00:03:54,484
+and passes it back to the
+
+134
+00:03:51,523 --> 00:03:54,484
+earth pony on her team.
+
+135
+00:03:54,526 --> 00:03:56,277
+Just give it a
+
+136
+00:03:54,526 --> 00:03:56,277
+little kick, Pinkie.
+
+137
+00:03:56,319 --> 00:03:58,155
+[squeal]
+
+138
+00:03:58,197 --> 00:03:59,156
+[whimper]
+
+139
+00:03:59,198 --> 00:04:00,323
+[thunk]
+
+140
+00:04:00,365 --> 00:04:03,368
+Oooh! I get it!
+
+141
+00:04:03,410 --> 00:04:06,287
+And all the unicorns have to
+
+142
+00:04:03,410 --> 00:04:06,287
+do is float these here baskets
+
+143
+00:04:06,329 --> 00:04:08,040
+around the outside
+
+144
+00:04:06,329 --> 00:04:08,040
+of the field
+
+145
+00:04:08,082 --> 00:04:11,210
+and catch as many balls as
+
+146
+00:04:08,082 --> 00:04:11,210
+possible for their team.
+
+147
+00:04:11,251 --> 00:04:12,502
+You two get
+
+148
+00:04:11,251 --> 00:04:12,502
+the idea?
+
+149
+00:04:12,544 --> 00:04:14,546
+Absolutely!
+
+150
+00:04:14,588 --> 00:04:18,592
+Oh, I don't know. That
+
+151
+00:04:14,588 --> 00:04:18,592
+ball moves pretty fast.
+
+152
+00:04:18,633 --> 00:04:22,387
+All right. Now let's see which
+
+153
+00:04:18,633 --> 00:04:22,387
+of you has what it takes.
+
+154
+00:04:28,936 --> 00:04:32,189
+Um...what do I do?
+
+155
+00:04:32,231 --> 00:04:35,192
+When the ball comes
+
+156
+00:04:32,231 --> 00:04:35,192
+towards you... catch it.
+
+157
+00:04:38,570 --> 00:04:40,447
+[whistle tweets]
+
+158
+00:04:40,488 --> 00:04:42,699
+OK, just try your best, Pinkie.
+
+159
+00:04:42,741 --> 00:04:44,993
+I have been doing this
+
+160
+00:04:42,741 --> 00:04:44,993
+a lot longer than you.
+
+161
+00:04:45,035 --> 00:04:46,620
+HA-uhh.
+
+162
+00:04:46,661 --> 00:04:47,621
+Nice kick.
+
+163
+00:04:47,662 --> 00:04:49,873
+♪♪
+
+164
+00:04:49,915 --> 00:04:53,961
+Whoa, whoa, whoa, whee! Haha!
+
+165
+00:04:54,002 --> 00:04:55,295
+Great save, Fluttershy!
+
+166
+00:04:58,506 --> 00:05:00,008
+Coming your way, Pinkie!
+
+167
+00:05:00,050 --> 00:05:02,052
+Somersault, kick!
+
+168
+00:05:02,094 --> 00:05:03,220
+[whoosh]
+
+169
+00:05:03,262 --> 00:05:04,554
+[panicked shout]
+
+170
+00:05:07,724 --> 00:05:10,227
+Hey, this game is easy!
+
+171
+00:05:10,269 --> 00:05:13,605
+Oh, it actually is
+
+172
+00:05:10,269 --> 00:05:13,605
+kind of fun.
+
+173
+00:05:13,647 --> 00:05:17,276
+Where did Pinkie Pie
+
+174
+00:05:13,647 --> 00:05:17,276
+learn to buck like that?
+
+175
+00:05:17,317 --> 00:05:21,362
+And Fluttershy's spinning
+
+176
+00:05:17,317 --> 00:05:21,362
+tail catch is pretty amazing!
+
+177
+00:05:21,404 --> 00:05:25,617
+Um... OK, well let's see
+
+178
+00:05:21,404 --> 00:05:25,617
+what the rest of you can do.
+
+179
+00:05:28,620 --> 00:05:31,290
+Now, don't expect to be able
+
+180
+00:05:28,620 --> 00:05:31,290
+to beat me twice in a row.
+
+181
+00:05:33,333 --> 00:05:37,712
+Well, hello there
+
+182
+00:05:33,333 --> 00:05:37,712
+Mr. Ball. Whee!
+
+183
+00:05:37,754 --> 00:05:38,922
+Hiyah!
+
+184
+00:05:38,964 --> 00:05:41,175
+♪♪
+
+185
+00:05:41,216 --> 00:05:42,509
+Hurry along, butterflies,
+
+186
+00:05:42,550 --> 00:05:44,136
+before that ball
+
+187
+00:05:42,550 --> 00:05:44,136
+comes and hits you.
+
+188
+00:05:46,972 --> 00:05:52,102
+Nope. Um. OK, let's see
+
+189
+00:05:46,972 --> 00:05:52,102
+what the rest of you can do.
+
+190
+00:05:54,146 --> 00:05:55,063
+Nope.
+
+191
+00:05:56,439 --> 00:05:57,398
+Definitely, not.
+
+192
+00:05:59,943 --> 00:06:01,069
+Noooo.
+
+193
+00:06:02,445 --> 00:06:03,488
+Not a chance.
+
+194
+00:06:04,447 --> 00:06:05,448
+No.
+
+195
+00:06:05,490 --> 00:06:07,408
+Nope.
+
+196
+00:06:07,450 --> 00:06:13,623
+And...no. Uh, this didn't
+
+197
+00:06:07,450 --> 00:06:13,623
+go how I thought it would.
+
+198
+00:06:13,665 --> 00:06:17,961
+[happy squeals]
+
+199
+00:06:18,003 --> 00:06:19,629
+It sure didn't.
+
+200
+00:06:19,671 --> 00:06:21,422
+This game is a
+
+201
+00:06:19,671 --> 00:06:21,422
+whole lot more fun
+
+202
+00:06:21,464 --> 00:06:22,883
+than I thought
+
+203
+00:06:21,464 --> 00:06:22,883
+it would be.
+
+204
+00:06:22,924 --> 00:06:25,219
+It's exactly as much fun
+
+205
+00:06:22,924 --> 00:06:25,219
+as I thought it would be...
+
+206
+00:06:25,260 --> 00:06:27,346
+A WHOLE BUNCH!
+
+207
+00:06:27,386 --> 00:06:31,266
+Carrying my water,
+
+208
+00:06:27,386 --> 00:06:31,266
+my water, my water.
+
+209
+00:06:31,308 --> 00:06:35,062
+Carrying my water
+
+210
+00:06:31,308 --> 00:06:35,062
+on my shoulder pole.
+
+211
+00:06:35,103 --> 00:06:37,314
+SNAILS, LOOK OUT!
+
+212
+00:06:42,736 --> 00:06:44,612
+Amazing!
+
+213
+00:06:44,654 --> 00:06:46,698
+You should be more
+
+214
+00:06:44,654 --> 00:06:46,698
+careful with these.
+
+215
+00:06:46,740 --> 00:06:48,242
+You could lose them.
+
+216
+00:06:50,785 --> 00:06:55,832
+Hey, Snails? Can you float one
+
+217
+00:06:50,785 --> 00:06:55,832
+of those baskets over here?
+
+218
+00:06:55,874 --> 00:06:57,084
+Sure.
+
+219
+00:06:57,125 --> 00:06:58,960
+What do you want
+
+220
+00:06:57,125 --> 00:06:58,960
+me to do with it?
+
+221
+00:06:59,002 --> 00:07:00,419
+CATCH!
+
+222
+00:07:04,258 --> 00:07:05,217
+Anything else?
+
+223
+00:07:07,344 --> 00:07:10,889
+Wow, Snails, you're a
+
+224
+00:07:07,344 --> 00:07:10,889
+natural at Buckball.
+
+225
+00:07:10,931 --> 00:07:13,934
+It's a good thing, too. We
+
+226
+00:07:10,931 --> 00:07:13,934
+were running out of unicorns.
+
+227
+00:07:13,975 --> 00:07:16,186
+Do you think you'll be
+
+228
+00:07:13,975 --> 00:07:16,186
+ready to play with Applejack
+
+229
+00:07:16,228 --> 00:07:18,521
+and Rainbow Dash against
+
+230
+00:07:16,228 --> 00:07:18,521
+the Appleoosa team?
+
+231
+00:07:18,563 --> 00:07:21,858
+I guess I'll find out. Plus,
+
+232
+00:07:18,563 --> 00:07:21,858
+after I deliver this water,
+
+233
+00:07:21,900 --> 00:07:24,027
+I don't really have
+
+234
+00:07:21,900 --> 00:07:24,027
+anything else to do.
+
+235
+00:07:24,069 --> 00:07:26,613
+Well, Snails, with
+
+236
+00:07:24,069 --> 00:07:26,613
+you on the team,
+
+237
+00:07:26,654 --> 00:07:31,492
+Ponyville is one step closer
+
+238
+00:07:26,654 --> 00:07:31,492
+to crushing Appleoosa.
+
+239
+00:07:31,534 --> 00:07:33,578
+And after today,
+
+240
+00:07:31,534 --> 00:07:33,578
+it's pretty clear
+
+241
+00:07:33,620 --> 00:07:36,497
+who the other two
+
+242
+00:07:33,620 --> 00:07:36,497
+players should be.
+
+243
+00:07:36,539 --> 00:07:38,083
+What do you mean?
+
+244
+00:07:38,125 --> 00:07:40,252
+I thought you and Dash
+
+245
+00:07:38,125 --> 00:07:40,252
+were going to play.
+
+246
+00:07:40,294 --> 00:07:44,214
+Yeah. If you're not
+
+247
+00:07:40,294 --> 00:07:44,214
+crushing Appleoosa, who is?
+
+248
+00:07:44,256 --> 00:07:46,091
+[laughs]
+
+249
+00:07:46,133 --> 00:07:48,802
+Uh you two, obviously.
+
+250
+00:07:57,311 --> 00:08:00,063
+Um, you want us to
+
+251
+00:07:57,311 --> 00:08:00,063
+play Buckball
+
+252
+00:08:00,105 --> 00:08:02,649
+against Appleoosa
+
+253
+00:08:00,105 --> 00:08:02,649
+instead of you?
+
+254
+00:08:02,690 --> 00:08:04,276
+Mm hm.
+
+255
+00:08:04,318 --> 00:08:06,027
+That's un-credible.
+
+256
+00:08:08,363 --> 00:08:12,617
+Unbelievable and
+
+257
+00:08:08,363 --> 00:08:12,617
+incredible? Come on.
+
+258
+00:08:12,659 --> 00:08:15,120
+I can't explain it, but
+
+259
+00:08:12,659 --> 00:08:15,120
+you two are really good
+
+260
+00:08:15,162 --> 00:08:17,831
+at this game and if it
+
+261
+00:08:15,162 --> 00:08:17,831
+means beating Appleoosa,
+
+262
+00:08:17,872 --> 00:08:20,334
+I'll give either one of
+
+263
+00:08:17,872 --> 00:08:20,334
+you my spot on the team
+
+264
+00:08:20,375 --> 00:08:22,543
+quicker than Granny
+
+265
+00:08:20,375 --> 00:08:22,543
+Smith can core an apple.
+
+266
+00:08:22,585 --> 00:08:26,089
+Me too. I'd normally be so
+
+267
+00:08:22,585 --> 00:08:26,089
+pumped all of Ponyville
+
+268
+00:08:26,131 --> 00:08:27,715
+was counting on me to win,
+
+269
+00:08:27,757 --> 00:08:29,592
+I'd run right over
+
+270
+00:08:27,757 --> 00:08:29,592
+the competition,
+
+271
+00:08:29,634 --> 00:08:32,262
+but you still flew
+
+272
+00:08:29,634 --> 00:08:32,262
+rings around me.
+
+273
+00:08:32,304 --> 00:08:35,349
+Oh, I'm sorry. I
+
+274
+00:08:32,304 --> 00:08:35,349
+was just having fun.
+
+275
+00:08:35,390 --> 00:08:38,185
+Well, you can have all the
+
+276
+00:08:35,390 --> 00:08:38,185
+fun you want as long as it's
+
+277
+00:08:38,226 --> 00:08:41,146
+while you're beatin' the
+
+278
+00:08:38,226 --> 00:08:41,146
+hide off of Braeburn's team.
+
+279
+00:08:41,188 --> 00:08:43,606
+I do like fun.
+
+280
+00:08:43,648 --> 00:08:46,360
+Honestly, the game was
+
+281
+00:08:43,648 --> 00:08:46,360
+a little scary at first,
+
+282
+00:08:46,401 --> 00:08:49,737
+but once I got the hang of
+
+283
+00:08:46,401 --> 00:08:49,737
+it, I had a pretty good time.
+
+284
+00:08:49,779 --> 00:08:53,116
+Let's get this
+
+285
+00:08:49,779 --> 00:08:53,116
+party started!
+
+286
+00:08:53,158 --> 00:08:56,453
+All right, but if we really
+
+287
+00:08:53,158 --> 00:08:56,453
+wanna beat Appleoosa,
+
+288
+00:08:56,495 --> 00:08:58,913
+we're gonna have
+
+289
+00:08:56,495 --> 00:08:58,913
+to get serious.
+
+290
+00:08:58,955 --> 00:09:00,581
+Serious?
+
+291
+00:09:00,623 --> 00:09:03,502
+Serious how?
+
+292
+00:09:05,003 --> 00:09:08,589
+With serious practice!
+
+293
+00:09:08,631 --> 00:09:12,802
+Wow. This looks
+
+294
+00:09:08,631 --> 00:09:12,802
+pretty intense.
+
+295
+00:09:12,844 --> 00:09:15,763
+Well, duh. You two are
+
+296
+00:09:12,844 --> 00:09:15,763
+gonna be representing
+
+297
+00:09:15,805 --> 00:09:19,893
+all of Ponyville, and
+
+298
+00:09:15,805 --> 00:09:19,893
+more importantly...Us!
+
+299
+00:09:19,934 --> 00:09:22,729
+That's why before we leave
+
+300
+00:09:19,934 --> 00:09:22,729
+for Appleoosa tomorrow,
+
+301
+00:09:22,770 --> 00:09:25,899
+you two are gonna practice
+
+302
+00:09:22,770 --> 00:09:25,899
+just as hard as we would.
+
+303
+00:09:25,940 --> 00:09:27,650
+So, let's hop to it.
+
+304
+00:09:27,692 --> 00:09:29,986
+Snails already has
+
+305
+00:09:27,692 --> 00:09:29,986
+a head start on you!
+
+306
+00:09:36,993 --> 00:09:39,037
+OK. If you wanna win,
+
+307
+00:09:39,079 --> 00:09:41,122
+you've totally gotta
+
+308
+00:09:39,079 --> 00:09:41,122
+get this drill down.
+
+309
+00:09:41,164 --> 00:09:42,416
+I-I-I do?
+
+310
+00:09:45,126 --> 00:09:46,669
+<i>♪ [heavy electric guitar] ♪</i>
+
+311
+00:09:46,711 --> 00:09:47,504
+[gasp]
+
+312
+00:09:47,546 --> 00:09:50,048
+♪♪
+
+313
+00:09:50,090 --> 00:09:51,049
+[gasp]
+
+314
+00:09:51,091 --> 00:09:54,553
+♪♪
+
+315
+00:09:54,594 --> 00:09:55,554
+[gasp]
+
+316
+00:09:55,595 --> 00:10:02,143
+♪♪
+
+317
+00:10:02,185 --> 00:10:03,853
+It's all about ball control.
+
+318
+00:10:06,064 --> 00:10:08,108
+Ready? GO!
+
+319
+00:10:10,777 --> 00:10:13,696
+Come on! Faster! You don't
+
+320
+00:10:10,777 --> 00:10:13,696
+want Ponyville to lose
+
+321
+00:10:13,738 --> 00:10:15,949
+because you can't get
+
+322
+00:10:13,738 --> 00:10:15,949
+into high gear, do you?
+
+323
+00:10:15,990 --> 00:10:16,950
+Whoaaa.
+
+324
+00:10:23,331 --> 00:10:26,293
+All right, being able to
+
+325
+00:10:23,331 --> 00:10:26,293
+buck a ball into a goal
+
+326
+00:10:26,334 --> 00:10:30,130
+from any direction is the most
+
+327
+00:10:26,334 --> 00:10:30,130
+important thing in the game.
+
+328
+00:10:30,171 --> 00:10:31,506
+If you say so.
+
+329
+00:10:35,969 --> 00:10:39,598
+WHEEE! WOOO!
+
+330
+00:10:51,734 --> 00:10:55,113
+Keep it up! Just one miss'll
+
+331
+00:10:51,734 --> 00:10:55,113
+ruin the Apple Family's
+
+332
+00:10:55,155 --> 00:10:57,616
+Buckball reputation forever.
+
+333
+00:10:57,657 --> 00:10:59,033
+WHOA...What?
+
+334
+00:11:05,873 --> 00:11:07,041
+Whoops.
+
+335
+00:11:08,585 --> 00:11:10,795
+Come on! Push. Push! PUSH!
+
+336
+00:11:10,837 --> 00:11:11,796
+[clang]
+
+337
+00:11:11,838 --> 00:11:13,131
+[chirping birds]
+
+338
+00:11:13,173 --> 00:11:15,883
+Come on now! Every shot
+
+339
+00:11:13,173 --> 00:11:15,883
+is for Sweet Apple Acres.
+
+340
+00:11:15,925 --> 00:11:18,386
+And me! And Dash!
+
+341
+00:11:15,925 --> 00:11:18,386
+And all of Ponyville!
+
+342
+00:11:18,428 --> 00:11:21,473
+Whoa. Ow.
+
+343
+00:11:21,515 --> 00:11:22,557
+Faster!
+
+344
+00:11:22,599 --> 00:11:24,184
+Whoa.
+
+345
+00:11:24,225 --> 00:11:25,393
+C'mon, now!
+
+346
+00:11:25,435 --> 00:11:26,561
+Whooaaa!
+
+347
+00:11:26,603 --> 00:11:27,854
+♪♪
+
+348
+00:11:27,895 --> 00:11:28,771
+C'mon!
+
+349
+00:11:28,813 --> 00:11:30,731
+[scream]
+
+350
+00:11:30,773 --> 00:11:31,774
+Keep it up!
+
+351
+00:11:31,816 --> 00:11:33,692
+Whooaaa!
+
+352
+00:11:33,734 --> 00:11:34,653
+C'MON!
+
+353
+00:11:39,782 --> 00:11:40,699
+[music ends]
+
+354
+00:11:43,537 --> 00:11:46,206
+What in the apple
+
+355
+00:11:43,537 --> 00:11:46,206
+happened to those two?
+
+356
+00:11:46,247 --> 00:11:49,376
+I don't know! They mopped
+
+357
+00:11:46,247 --> 00:11:49,376
+the field with us before.
+
+358
+00:11:49,417 --> 00:11:51,628
+[grunt]
+
+359
+00:11:51,670 --> 00:11:53,754
+All right! That's
+
+360
+00:11:51,670 --> 00:11:53,754
+it for today, y'all!
+
+361
+00:11:53,796 --> 00:11:55,756
+[phew!]
+
+362
+00:11:55,798 --> 00:11:59,302
+I thought practice was
+
+363
+00:11:55,798 --> 00:11:59,302
+supposed to make us better.
+
+364
+00:11:59,344 --> 00:12:01,846
+Maybe we just need
+
+365
+00:11:59,344 --> 00:12:01,846
+a little rest.
+
+366
+00:12:01,888 --> 00:12:04,683
+Or a whole lot of it.
+
+367
+00:12:04,723 --> 00:12:07,768
+Just be sure to get your heads
+
+368
+00:12:04,723 --> 00:12:07,768
+in the game before tomorrow.
+
+369
+00:12:07,810 --> 00:12:09,937
+All of Ponyville is
+
+370
+00:12:07,810 --> 00:12:09,937
+counting on a win.
+
+371
+00:12:17,945 --> 00:12:19,656
+I really don't want to let
+
+372
+00:12:19,698 --> 00:12:22,783
+Applejack and Rainbow Dash
+
+373
+00:12:19,698 --> 00:12:22,783
+down, or anypony else,
+
+374
+00:12:22,825 --> 00:12:27,372
+but after that practice, I'm
+
+375
+00:12:22,825 --> 00:12:27,372
+not feeling very confident.
+
+376
+00:12:27,414 --> 00:12:29,332
+Maybe we weren't that bad.
+
+377
+00:12:29,374 --> 00:12:30,791
+[groan]
+
+378
+00:12:30,833 --> 00:12:34,795
+I guess I was hoping you
+
+379
+00:12:30,833 --> 00:12:34,795
+saw something I didn't.
+
+380
+00:12:34,837 --> 00:12:36,715
+I know our friends
+
+381
+00:12:34,837 --> 00:12:36,715
+want us to win,
+
+382
+00:12:36,755 --> 00:12:38,799
+but how can the whole
+
+383
+00:12:36,755 --> 00:12:38,799
+town be counting on us
+
+384
+00:12:38,841 --> 00:12:41,595
+if most ponies have never
+
+385
+00:12:38,841 --> 00:12:41,595
+even heard of Buckball?
+
+386
+00:12:41,636 --> 00:12:43,804
+I know! How can we
+
+387
+00:12:41,636 --> 00:12:43,804
+disappoint a pony
+
+388
+00:12:43,846 --> 00:12:46,349
+who doesn't even
+
+389
+00:12:43,846 --> 00:12:46,349
+know we have a team?
+
+390
+00:12:46,391 --> 00:12:48,809
+Or that we're going
+
+391
+00:12:46,391 --> 00:12:48,809
+to play Appleoosa.
+
+392
+00:12:48,851 --> 00:12:51,479
+Yeah, I don't think
+
+393
+00:12:48,851 --> 00:12:51,479
+we need to worry.
+
+394
+00:12:51,521 --> 00:12:53,273
+I'd be surprised
+
+395
+00:12:51,521 --> 00:12:53,273
+if anypony in this town
+
+396
+00:12:53,314 --> 00:12:54,857
+cares about this game at all.
+
+397
+00:12:57,860 --> 00:13:04,284
+Go Ponyville! Go
+
+398
+00:12:57,860 --> 00:13:04,284
+Ponyville! WIN! WIN! WIN!
+
+399
+00:13:04,325 --> 00:13:06,703
+Ponyville, Ponyville!
+
+400
+00:13:04,325 --> 00:13:06,703
+Way to go! You can do it!
+
+401
+00:13:06,745 --> 00:13:09,497
+Whoa. The whole
+
+402
+00:13:06,745 --> 00:13:09,497
+town really seems
+
+403
+00:13:09,539 --> 00:13:11,832
+to care about
+
+404
+00:13:09,539 --> 00:13:11,832
+this game a lot.
+
+405
+00:13:11,874 --> 00:13:13,501
+[gasps]
+
+406
+00:13:18,715 --> 00:13:23,802
+[cheering] Woo-hoo,
+
+407
+00:13:18,715 --> 00:13:23,802
+go Ponyville!
+
+408
+00:13:31,852 --> 00:13:34,731
+We kinda went around town and
+
+409
+00:13:31,852 --> 00:13:34,731
+talked up the team a little.
+
+410
+00:13:34,773 --> 00:13:36,775
+Yep. We wanted to
+
+411
+00:13:34,773 --> 00:13:36,775
+make sure you two knew
+
+412
+00:13:36,815 --> 00:13:39,694
+that all of Ponyville
+
+413
+00:13:36,815 --> 00:13:39,694
+was behind you.
+
+414
+00:13:39,736 --> 00:13:42,697
+Greaaaaat.
+
+415
+00:13:42,739 --> 00:13:44,823
+I hear the whole town's
+
+416
+00:13:42,739 --> 00:13:44,823
+already planning a parade
+
+417
+00:13:44,865 --> 00:13:46,951
+for when you get back
+
+418
+00:13:44,865 --> 00:13:46,951
+after whoopin' Appleoosa.
+
+419
+00:13:46,993 --> 00:13:48,869
+That should feel pretty good.
+
+420
+00:13:48,911 --> 00:13:50,829
+It should?
+
+421
+00:13:50,871 --> 00:13:53,832
+Totally! Just spend the
+
+422
+00:13:50,871 --> 00:13:53,832
+whole ride to Appleoosa
+
+423
+00:13:53,874 --> 00:13:55,834
+thinking about
+
+424
+00:13:53,874 --> 00:13:55,834
+everypony cheering
+
+425
+00:13:55,876 --> 00:13:58,879
+for the victorious
+
+426
+00:13:55,876 --> 00:13:58,879
+Ponyville Buckball Team.
+
+427
+00:13:58,921 --> 00:14:02,342
+I bet Princess Celestia even
+
+428
+00:13:58,921 --> 00:14:02,342
+comes to congratulate you.
+
+429
+00:14:02,383 --> 00:14:05,804
+If that doesn't get you in the
+
+430
+00:14:02,383 --> 00:14:05,804
+zone, I don't know what will.
+
+431
+00:14:08,765 --> 00:14:11,892
+I don't know what zone Rainbow
+
+432
+00:14:08,765 --> 00:14:11,892
+Dash is talking about,
+
+433
+00:14:11,934 --> 00:14:14,771
+but I'm pretty sure I don't
+
+434
+00:14:11,934 --> 00:14:14,771
+want to be in it. Do you?
+
+435
+00:14:18,941 --> 00:14:23,655
+Hey, you two are supposed
+
+436
+00:14:18,941 --> 00:14:23,655
+to be in the zone.
+
+437
+00:14:23,697 --> 00:14:27,534
+You see... The thing is...
+
+438
+00:14:23,697 --> 00:14:27,534
+Thinking about everpony...
+
+439
+00:14:27,575 --> 00:14:31,871
+thinking about us...
+
+440
+00:14:27,575 --> 00:14:31,871
+there's just no way...
+
+441
+00:14:31,912 --> 00:14:33,914
+THERE'S NO WAY THAT
+
+442
+00:14:31,912 --> 00:14:33,914
+WE CAN GET IN THE ZONE
+
+443
+00:14:33,956 --> 00:14:36,000
+BECAUSE THE ZONE SOUNDS
+
+444
+00:14:33,956 --> 00:14:36,000
+LIKE A HORRIBLE PLACE
+
+445
+00:14:36,042 --> 00:14:37,918
+SINCE WE ARE
+
+446
+00:14:36,042 --> 00:14:37,918
+TERRIBLE AT BUCKBALL
+
+447
+00:14:37,960 --> 00:14:40,921
+AND WE ARE GOING TO LOSE
+
+448
+00:14:37,960 --> 00:14:40,921
+AND LET EVERYPONY DOWN
+
+449
+00:14:40,963 --> 00:14:43,758
+AND WE DON'T WANT
+
+450
+00:14:40,963 --> 00:14:43,758
+TO PLAY ANYMORE!
+
+451
+00:14:43,800 --> 00:14:46,636
+[blubbering]
+
+452
+00:14:48,929 --> 00:14:50,890
+I'm still OK with playing,
+
+453
+00:14:48,929 --> 00:14:50,890
+in case you were worried.
+
+454
+00:14:53,976 --> 00:14:56,937
+I don't get it.
+
+455
+00:14:53,976 --> 00:14:56,937
+They're naturals.
+
+456
+00:14:56,979 --> 00:14:58,981
+Why wouldn't they
+
+457
+00:14:56,979 --> 00:14:58,981
+want to play anymore?
+
+458
+00:14:59,023 --> 00:15:01,942
+Maybe us telling them how much
+
+459
+00:14:59,023 --> 00:15:01,942
+everypony was counting on them
+
+460
+00:15:01,984 --> 00:15:03,903
+messed them up somehow.
+
+461
+00:15:03,944 --> 00:15:06,447
+What? That's crazy talk.
+
+462
+00:15:06,489 --> 00:15:08,949
+Having ponies depend on you
+
+463
+00:15:06,489 --> 00:15:08,949
+is exactly what you need
+
+464
+00:15:08,991 --> 00:15:10,493
+to focus and...
+
+465
+00:15:10,535 --> 00:15:11,952
+Get serious and play hard and...
+
+466
+00:15:11,994 --> 00:15:15,956
+Get ready to totally smash
+
+467
+00:15:11,994 --> 00:15:15,956
+the competition and...
+
+468
+00:15:15,998 --> 00:15:20,961
+And none of that sounds like
+
+469
+00:15:15,998 --> 00:15:20,961
+Pinkie or Fluttershy, does it?
+
+470
+00:15:21,003 --> 00:15:23,964
+[sigh] Guess not.
+
+471
+00:15:24,006 --> 00:15:26,926
+We got so wrapped up in
+
+472
+00:15:24,006 --> 00:15:26,926
+what's important to us,
+
+473
+00:15:26,967 --> 00:15:29,929
+we went and ruined what was
+
+474
+00:15:26,967 --> 00:15:29,929
+fun about the game for them.
+
+475
+00:15:29,970 --> 00:15:31,055
+[grunt]
+
+476
+00:15:31,097 --> 00:15:32,849
+What do we do now?
+
+477
+00:15:36,018 --> 00:15:37,978
+[loud knocking]
+
+478
+00:15:39,146 --> 00:15:41,858
+Pinkie? Fluttershy?
+
+479
+00:15:41,900 --> 00:15:43,443
+We know you're in here.
+
+480
+00:15:43,484 --> 00:15:46,070
+We've looked in every
+
+481
+00:15:43,484 --> 00:15:46,070
+other car on the train.
+
+482
+00:15:46,112 --> 00:15:48,155
+[Fluttershy] Maybe you
+
+483
+00:15:46,112 --> 00:15:48,155
+need to look again.
+
+484
+00:15:48,197 --> 00:15:51,992
+[Pinkie] Yeah. Because
+
+485
+00:15:48,197 --> 00:15:51,992
+we're totally not in here.
+
+486
+00:15:52,034 --> 00:15:53,661
+[Fluttershy] And we're
+
+487
+00:15:52,034 --> 00:15:53,661
+definitely not in here
+
+488
+00:15:53,703 --> 00:15:57,164
+if you're going to try and make
+
+489
+00:15:53,703 --> 00:15:57,164
+us play against Appleoosa.
+
+490
+00:15:57,206 --> 00:15:58,750
+Or anypony else!
+
+491
+00:15:58,792 --> 00:15:59,918
+[ahem]
+
+492
+00:16:00,209 --> 00:16:03,003
+Oh, we're sorry
+
+493
+00:16:00,209 --> 00:16:03,003
+to let you down,
+
+494
+00:16:03,045 --> 00:16:04,714
+but it's better
+
+495
+00:16:03,045 --> 00:16:04,714
+to do it now
+
+496
+00:16:04,756 --> 00:16:07,007
+than during the game
+
+497
+00:16:04,756 --> 00:16:07,007
+against Appleoosa.
+
+498
+00:16:07,049 --> 00:16:09,218
+You don't have to play
+
+499
+00:16:07,049 --> 00:16:09,218
+against Appleoosa.
+
+500
+00:16:10,970 --> 00:16:12,513
+We don't?
+
+501
+00:16:12,555 --> 00:16:15,015
+Nope. We're gonna
+
+502
+00:16:12,555 --> 00:16:15,015
+take your place,
+
+503
+00:16:15,057 --> 00:16:17,685
+so you don't have to
+
+504
+00:16:15,057 --> 00:16:17,685
+worry about that at all.
+
+505
+00:16:17,727 --> 00:16:20,187
+Why didn't you say so?
+
+506
+00:16:20,229 --> 00:16:23,691
+But.... We can't take on
+
+507
+00:16:20,229 --> 00:16:23,691
+Braeburn and his team
+
+508
+00:16:23,733 --> 00:16:25,777
+without any practice
+
+509
+00:16:25,819 --> 00:16:28,780
+so we need you to play
+
+510
+00:16:25,819 --> 00:16:28,780
+just one more time...
+
+511
+00:16:28,822 --> 00:16:29,781
+Against us.
+
+512
+00:16:34,076 --> 00:16:36,203
+Now I know we mixed
+
+513
+00:16:34,076 --> 00:16:36,203
+up the teams before,
+
+514
+00:16:36,245 --> 00:16:39,039
+but since Dash and I
+
+515
+00:16:36,245 --> 00:16:39,039
+really need the practice,
+
+516
+00:16:39,081 --> 00:16:40,792
+we'll play against
+
+517
+00:16:39,081 --> 00:16:40,792
+the two of you.
+
+518
+00:16:40,834 --> 00:16:47,047
+♪♪
+
+519
+00:16:47,089 --> 00:16:49,049
+Oh, I don't know how much
+
+520
+00:16:47,089 --> 00:16:49,049
+practice you'll get
+
+521
+00:16:49,091 --> 00:16:52,553
+against us. We've been
+
+522
+00:16:49,091 --> 00:16:52,553
+playing just awful.
+
+523
+00:16:52,595 --> 00:16:54,054
+Don't worry about it.
+
+524
+00:16:54,096 --> 00:16:57,057
+Applejack and I just
+
+525
+00:16:54,096 --> 00:16:57,057
+need a little workout.
+
+526
+00:16:57,099 --> 00:16:59,853
+Yep. You two just
+
+527
+00:16:57,099 --> 00:16:59,853
+do your best.
+
+528
+00:16:59,894 --> 00:17:01,061
+I can do that.
+
+529
+00:17:01,103 --> 00:17:05,859
+♪♪
+
+530
+00:17:05,900 --> 00:17:07,026
+Oooooh!
+
+531
+00:17:07,067 --> 00:17:13,658
+♪♪
+
+532
+00:17:13,700 --> 00:17:14,617
+[gasp]
+
+533
+00:17:15,117 --> 00:17:16,035
+[ahem]
+
+534
+00:17:21,123 --> 00:17:22,041
+Ooooh!
+
+535
+00:17:26,004 --> 00:17:28,715
+Looks like you two
+
+536
+00:17:26,004 --> 00:17:28,715
+really do need practice.
+
+537
+00:17:28,756 --> 00:17:31,843
+♪♪
+
+538
+00:18:06,711 --> 00:18:08,128
+Wheee!
+
+539
+00:18:08,170 --> 00:18:09,589
+[snoring]
+
+540
+00:18:09,630 --> 00:18:10,172
+[music ends]
+
+541
+00:18:10,214 --> 00:18:13,718
+[giggles]
+
+542
+00:18:13,760 --> 00:18:16,721
+If you need more practice,
+
+543
+00:18:13,760 --> 00:18:16,721
+we can keep going.
+
+544
+00:18:16,763 --> 00:18:20,182
+Yeah. I could do
+
+545
+00:18:16,763 --> 00:18:20,182
+this all day.
+
+546
+00:18:20,224 --> 00:18:22,142
+Uh, no thanks.
+
+547
+00:18:22,184 --> 00:18:25,187
+Playing against you two
+
+548
+00:18:22,184 --> 00:18:25,187
+is just as humiliating now
+
+549
+00:18:25,229 --> 00:18:27,607
+as it was when we weren't
+
+550
+00:18:25,229 --> 00:18:27,607
+trying to show you
+
+551
+00:18:27,648 --> 00:18:29,233
+how awesome you are.
+
+552
+00:18:29,275 --> 00:18:31,736
+Wait. What?
+
+553
+00:18:33,780 --> 00:18:35,155
+Finally!
+
+554
+00:18:35,197 --> 00:18:37,075
+[thunk]
+
+555
+00:18:37,116 --> 00:18:40,036
+You must have noticed how
+
+556
+00:18:37,116 --> 00:18:40,036
+you aren't bad anymore.
+
+557
+00:18:40,078 --> 00:18:42,956
+Oooh yeah. Weird.
+
+558
+00:18:42,997 --> 00:18:46,751
+But um, why were we
+
+559
+00:18:42,997 --> 00:18:46,751
+so terrible before?
+
+560
+00:18:46,793 --> 00:18:49,169
+I guess some ponies
+
+561
+00:18:46,793 --> 00:18:49,169
+thrive on pressure
+
+562
+00:18:49,211 --> 00:18:51,171
+and some ponies don't.
+
+563
+00:18:51,213 --> 00:18:53,215
+And even though we weren't
+
+564
+00:18:51,213 --> 00:18:53,215
+playing, we were treating
+
+565
+00:18:53,257 --> 00:18:56,844
+you like us which totally
+
+566
+00:18:53,257 --> 00:18:56,844
+stressed you out.
+
+567
+00:18:56,886 --> 00:18:59,931
+And that just sucked the fun
+
+568
+00:18:56,886 --> 00:18:59,931
+right out of the game for you.
+
+569
+00:18:59,973 --> 00:19:01,641
+And having fun is
+
+570
+00:18:59,973 --> 00:19:01,641
+what makes you
+
+571
+00:19:01,682 --> 00:19:04,018
+really, really,
+
+572
+00:19:01,682 --> 00:19:04,018
+really good.
+
+573
+00:19:04,060 --> 00:19:06,813
+But being good doesn't
+
+574
+00:19:04,060 --> 00:19:06,813
+matter if we're too afraid
+
+575
+00:19:06,854 --> 00:19:08,982
+of letting ponies down.
+
+576
+00:19:09,023 --> 00:19:11,317
+Yeah. What about all those
+
+577
+00:19:09,023 --> 00:19:11,317
+ponies back in Ponyville
+
+578
+00:19:11,358 --> 00:19:13,736
+counting on us to win.
+
+579
+00:19:13,778 --> 00:19:15,237
+I'm sure folks want
+
+580
+00:19:13,778 --> 00:19:15,237
+you to win,
+
+581
+00:19:15,279 --> 00:19:18,198
+but not if worrying about
+
+582
+00:19:15,279 --> 00:19:18,198
+it makes you miserable.
+
+583
+00:19:18,240 --> 00:19:20,660
+Winning's never worth that.
+
+584
+00:19:20,701 --> 00:19:23,788
+But how do we keep
+
+585
+00:19:20,701 --> 00:19:23,788
+from worrying about it?
+
+586
+00:19:23,830 --> 00:19:27,083
+You could do what I do
+
+587
+00:19:23,830 --> 00:19:27,083
+and not think about it.
+
+588
+00:19:27,125 --> 00:19:31,211
+Seriously, I don't think
+
+589
+00:19:27,125 --> 00:19:31,211
+about anything. Ever.
+
+590
+00:19:31,253 --> 00:19:33,047
+Hmm, works for me!
+
+591
+00:19:38,094 --> 00:19:39,762
+[roaring cheer]
+
+592
+00:19:39,804 --> 00:19:41,806
+[Announcer] And with another
+
+593
+00:19:39,804 --> 00:19:41,806
+bouncing goal from Pinkie Pie,
+
+594
+00:19:41,848 --> 00:19:43,182
+<i>the score is tied!</i>
+
+595
+00:19:45,267 --> 00:19:47,895
+You guys are amazing!
+
+596
+00:19:47,937 --> 00:19:50,148
+Braeburn is really good!
+
+597
+00:19:50,230 --> 00:19:53,943
+So is that Pegasus. Oh I
+
+598
+00:19:50,230 --> 00:19:53,943
+don't know if we can win.
+
+599
+00:19:53,985 --> 00:19:55,903
+You know what I would do...
+
+600
+00:19:55,945 --> 00:19:58,698
+Not think about it?
+
+601
+00:19:58,739 --> 00:19:59,907
+not think--
+
+602
+00:20:01,784 --> 00:20:05,245
+Oh. Yeah. That.
+
+603
+00:20:05,287 --> 00:20:07,247
+And as long as
+
+604
+00:20:05,287 --> 00:20:07,247
+you're having fun,
+
+605
+00:20:07,289 --> 00:20:09,208
+it doesn't matter
+
+606
+00:20:07,289 --> 00:20:09,208
+if you win or not.
+
+607
+00:20:10,960 --> 00:20:12,170
+[whistle tweets]
+
+608
+00:20:14,088 --> 00:20:16,757
+Hee-hee! I think it's
+
+609
+00:20:14,088 --> 00:20:16,757
+more fun this way.
+
+610
+00:20:19,052 --> 00:20:23,263
+<i>And Pinkie wins the buckoff.</i>
+
+611
+00:20:19,052 --> 00:20:23,263
+<i>But her shot's rejected!</i>
+
+612
+00:20:23,305 --> 00:20:26,266
+<i>Back to Braeburn, whose</i>
+
+613
+00:20:23,305 --> 00:20:26,266
+<i>kick's stopped by another</i>
+
+614
+00:20:26,308 --> 00:20:30,146
+<i>Fluttershy save.</i>
+
+615
+00:20:26,308 --> 00:20:30,146
+<i>Next point wins.</i>
+
+616
+00:20:30,188 --> 00:20:32,398
+<i>Lots of tense back</i>
+
+617
+00:20:30,188 --> 00:20:32,398
+<i>and forth here.</i>
+
+618
+00:20:32,439 --> 00:20:35,275
+<i>Fluttershy unleashes</i>
+
+619
+00:20:32,439 --> 00:20:35,275
+<i>her patented spin move.</i>
+
+620
+00:20:35,317 --> 00:20:37,028
+<i>But Braeburn's there to-</i>
+
+621
+00:20:37,070 --> 00:20:40,198
+<i>NO! It's Pinkie with</i>
+
+622
+00:20:37,070 --> 00:20:40,198
+<i>a somersault kick.</i>
+
+623
+00:20:40,239 --> 00:20:45,203
+<i>What a move! And that's</i>
+
+624
+00:20:40,239 --> 00:20:45,203
+<i>the game! Ponyville wins!</i>
+
+625
+00:20:45,244 --> 00:20:50,416
+PONY-VILLE! PONY-VILLE!
+
+626
+00:20:45,244 --> 00:20:50,416
+PONY-VILLE! PONY-VILLE!
+
+627
+00:20:50,457 --> 00:20:54,545
+PONY-VILLE! PONY-VILLE!
+
+628
+00:20:56,047 --> 00:20:59,299
+Looks like you three
+
+629
+00:20:56,047 --> 00:20:59,299
+made quite an impression.
+
+630
+00:20:59,341 --> 00:21:02,053
+Well, cousin, I
+
+631
+00:20:59,341 --> 00:21:02,053
+have to admit,
+
+632
+00:21:02,095 --> 00:21:04,889
+your Ponyville team
+
+633
+00:21:02,095 --> 00:21:04,889
+played a pretty good game.
+
+634
+00:21:04,931 --> 00:21:10,061
+Ha! Good game? We bucked the
+
+635
+00:21:04,931 --> 00:21:10,061
+hooves right off of you.
+
+636
+00:21:10,103 --> 00:21:12,312
+Yep. You sure as shootin' did.
+
+637
+00:21:12,354 --> 00:21:14,941
+I'm gonna have to get real
+
+638
+00:21:12,354 --> 00:21:14,941
+serious about a strategy
+
+639
+00:21:14,982 --> 00:21:17,026
+for our rematch.
+
+640
+00:21:17,068 --> 00:21:19,361
+Oh, I wouldn't get too serious.
+
+641
+00:21:19,403 --> 00:21:22,865
+Yeah. Everypony knows the
+
+642
+00:21:19,403 --> 00:21:22,865
+secret to good Buckball
+
+643
+00:21:22,907 --> 00:21:25,325
+is just having fun!
+
+644
+00:21:25,367 --> 00:21:28,955
+[laughter]
+
+645
+00:21:34,418 --> 00:21:37,130
+<i>♪ My Little Pony ♪</i>
+
+646
+00:21:38,839 --> 00:21:41,300
+<i>♪ My Little Pony ♪</i>
+
+647
+00:21:51,936 --> 00:21:53,980
+<i>♪ My Little Pony ♪</i>
+
+648
+00:21:54,021 --> 00:21:58,109
+<i>♪ friends ♪</i>
+
